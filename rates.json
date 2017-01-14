@@ -20878,7 +20878,7 @@
 "GBPCNY":{"Name":"GBP/AUD", "id":"GBPCNY", "Rate":"8.4036", "Bid":"8.4036", "Ask":"8.4061", "Date":"1/13/2017", "Time":"10:10pm"},
 "GBPDKK":{"Name":"GBP/CAD", "id":"GBPDKK", "Rate":"8.5130", "Bid":"8.5130", "Ask":"8.5180", "Date":"1/13/2017", "Time":"10:30pm"},
 "GBPCZK":{"Name":"GBP/CZK", "id":"GBPCZK", "Rate":"30.9330", "Bid":"30.9330", "Ask":"30.9580", "Date":"1/13/2017", "Time":"10:30pm"},
-"GBPEUR":{"Name":"GBP/CHF", "id":"GBPEUR", "Rate":"1.1442", "Bid":"1.1442", "Ask":"1.1452", "Date":"1/13/2017", "Time":"10:31pm"},
+"GBPEUR":{"Name":"GBP/EUR", "id":"GBPEUR", "Rate":"1.1442", "Bid":"1.1442", "Ask":"1.1452", "Date":"1/13/2017", "Time":"10:32pm"},
 "GBPHUF":{"Name":"GBP/HUF", "id":"GBPHUF", "Rate":"351.5400", "Bid":"351.5400", "Ask":"351.7900", "Date":"1/13/2017", "Time":"10:25pm"},
 "GBPIDR":{"Name":"GBP/IDR", "id":"GBPIDR", "Rate":"16264.8203", "Bid":"16264.8203", "Ask":"16314.8203", "Date":"1/13/2017", "Time":"10:10pm"},
 "GBPHKD":{"Name":"GBP/HKD", "id":"GBPHKD", "Rate":"9.4440", "Bid":"9.4440", "Ask":"9.4490", "Date":"1/13/2017", "Time":"10:30pm"},
