@@ -20587,7 +20587,7 @@
 "DKKSGD":{"Name":"DKK/SGD", "id":"DKKSGD", "Rate":"0.2041", "Bid":"0.2041", "Ask":"0.2042", "Date":"1/13/2017", "Time":"10:31pm"},
 "DKKTHB":{"Name":"DKK/THB", "id":"DKKTHB", "Rate":"5.0200", "Bid":"5.0200", "Ask":"5.1200", "Date":"1/13/2017", "Time":"10:28pm"},
 "DKKTRY":{"Name":"DKK/TRY", "id":"DKKTRY", "Rate":"0.5329", "Bid":"0.5329", "Ask":"0.5331", "Date":"1/13/2017", "Time":"11:45pm"},
-"DKKUSD":{"Name":"DKK/USD", "id":"DKKUSD", "Rate":"0.1426", "Bid":"0.1426", "Ask":"0.1436", "Date":"1/13/2017", "Time":"10:31pm"},
+"DKKUSD":{"Name":"DKK/USD", "id":"DKKUSD", "Rate":"0.1426", "Bid":"0.1426", "Ask":"0.1436", "Date":"1/13/2017", "Time":"10:32pm"},
 "DKKTWD":{"Name":"DKK/TWD", "id":"DKKTWD", "Rate":"4.5167", "Bid":"4.5167", "Ask":"4.5310", "Date":"1/13/2017", "Time":"10:44pm"},
 "EURAED":{"Name":"EUR/AED", "id":"EURAED", "Rate":"3.9079", "Bid":"3.9079", "Ask":"3.9104", "Date":"1/13/2017", "Time":"10:30pm"},
 "DKKZAR":{"Name":"DKK/ZAR", "id":"DKKZAR", "Rate":"1.9284", "Bid":"1.9284", "Ask":"1.9309", "Date":"1/13/2017", "Time":"10:30pm"},
