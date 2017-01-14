@@ -20721,7 +20721,7 @@
 "EURCLP":{"Name":"EUR/CLP", "id":"EURCLP", "Rate":"701.5600", "Bid":"701.5600", "Ask":"701.8100", "Date":"1/13/2017", "Time":"10:25pm"},
 "EURCNY":{"Name":"EUR/CNY", "id":"EURCNY", "Rate":"7.3412", "Bid":"7.3412", "Ask":"7.3437", "Date":"1/13/2017", "Time":"10:10pm"},
 "EURCZK":{"Name":"EUR/CZK", "id":"EURCZK", "Rate":"27.0190", "Bid":"27.0190", "Ask":"27.0490", "Date":"1/13/2017", "Time":"10:31pm"},
-"EURDKK":{"Name":"EUR/DKK", "id":"EURDKK", "Rate":"7.4384", "Bid":"7.4384", "Ask":"7.4394", "Date":"1/13/2017", "Time":"10:31pm"},
+"EURDKK":{"Name":"EUR/DKK", "id":"EURDKK", "Rate":"7.4384", "Bid":"7.4384", "Ask":"7.4394", "Date":"1/13/2017", "Time":"10:32pm"},
 "EURGBP":{"Name":"EUR/GBP", "id":"EURGBP", "Rate":"0.8736", "Bid":"0.8736", "Ask":"0.8736", "Date":"1/13/2017", "Time":"10:32pm"},
 "EURHKD":{"Name":"EUR/HKD", "id":"EURHKD", "Rate":"8.2522", "Bid":"8.2522", "Ask":"8.2532", "Date":"1/13/2017", "Time":"10:31pm"},
 "EURHUF":{"Name":"EUR/HUF", "id":"EURHUF", "Rate":"306.9600", "Bid":"306.9600", "Ask":"307.4600", "Date":"1/13/2017", "Time":"10:25pm"},
