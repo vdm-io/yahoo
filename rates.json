@@ -74,7 +74,7 @@
 "AEDMOP":{"Name":"AED/MDL", "id":"AEDMOP", "Rate":"2.1743", "Bid":"2.1743", "Ask":"2.1746", "Date":"1/13/2017", "Time":"11:10pm"},
 "AEDMRO":{"Name":"AED/MGA", "id":"AEDMRO", "Rate":"96.6565", "Bid":"96.6565", "Ask":"98.0179", "Date":"1/13/2017", "Time":"10:44pm"},
 "AEDMUR":{"Name":"AED/MKD", "id":"AEDMUR", "Rate":"9.8723", "Bid":"9.8723", "Ask":"9.8823", "Date":"1/13/2017", "Time":"11:10pm"},
-"AEDMVR":{"Name":"AED/MVR", "id":"AEDMVR", "Rate":"4.1770", "Bid":"4.1770", "Ask":"4.2315", "Date":"1/13/2017", "Time":"8:09am"},
+"AEDMVR":{"Name":"AED/MVR", "id":"AEDMVR", "Rate":"4.1767", "Bid":"4.1767", "Ask":"4.2311", "Date":"1/13/2017", "Time":"10:44pm"},
 "AEDMZN":{"Name":"AED/MZN", "id":"AEDMZN", "Rate":"19.2959", "Bid":"19.2959", "Ask":"19.5682", "Date":"1/13/2017", "Time":"10:44pm"},
 "AEDMWK":{"Name":"AED/MWK", "id":"AEDMWK", "Rate":"195.1318", "Bid":"195.1318", "Ask":"200.5772", "Date":"1/13/2017", "Time":"10:44pm"},
 "AEDMXV":{"Name":"AED/MXV", "id":"AEDMXV", "Rate":"1.0569", "Bid":"1.0569", "Ask":"1.0569", "Date":"1/13/2017", "Time":"10:44pm"},
