@@ -22141,7 +22141,7 @@
 "MXNNOK":{"Name":"MXN/NOK", "id":"MXNNOK", "Rate":"0.3899", "Bid":"0.3899", "Ask":"0.3902", "Date":"1/21/2017", "Time":"4:06pm"},
 "MXNPHP":{"Name":"MXN/PHP", "id":"MXNPHP", "Rate":"2.3161", "Bid":"2.3161", "Ask":"2.3184", "Date":"1/21/2017", "Time":"4:06pm"},
 "MXNPKR":{"Name":"MXN/PKR", "id":"MXNPKR", "Rate":"4.8528", "Bid":"4.8528", "Ask":"4.8621", "Date":"1/21/2017", "Time":"4:06pm"},
-"MXNPLN":{"Name":"MXN/PLN", "id":"MXNPLN", "Rate":"0.1892", "Bid":"0.1892", "Ask":"0.1894", "Date":"1/20/2017", "Time":"11:33pm"},
+"MXNPLN":{"Name":"MXN/PLN", "id":"MXNPLN", "Rate":"0.1893", "Bid":"0.1893", "Ask":"0.1895", "Date":"1/21/2017", "Time":"4:06pm"},
 "MXNRUB":{"Name":"MXN/RUB", "id":"MXNRUB", "Rate":"2.7732", "Bid":"2.7732", "Ask":"2.7816", "Date":"1/21/2017", "Time":"4:06pm"},
 "MXNSEK":{"Name":"MXN/SEK", "id":"MXNSEK", "Rate":"0.4108", "Bid":"0.4108", "Ask":"0.4113", "Date":"1/21/2017", "Time":"4:06pm"},
 "MXNSGD":{"Name":"MXN/SGD", "id":"MXNSGD", "Rate":"0.0658", "Bid":"0.0658", "Ask":"0.0662", "Date":"1/21/2017", "Time":"12:00am"},
