@@ -22287,7 +22287,7 @@
 "MYREUR":{"Name":"MYR/EUR", "id":"MYREUR", "Rate":"0.2101", "Bid":"0.2101", "Ask":"0.2102", "Date":"1/20/2017", "Time":"10:25pm"},
 "MYRHUF":{"Name":"MYR/HUF", "id":"MYRHUF", "Rate":"65.0439", "Bid":"65.0439", "Ask":"65.0889", "Date":"1/20/2017", "Time":"11:33pm"},
 "MYRIDR":{"Name":"MYR/IDR", "id":"MYRIDR", "Rate":"3025.7000", "Bid":"3025.7000", "Ask":"3026.7000", "Date":"1/21/2017", "Time":"12:00am"},
-"MYRILS":{"Name":"MYR/ILS", "id":"MYRILS", "Rate":"0.8551", "Bid":"0.8551", "Ask":"0.8573", "Date":"1/20/2017", "Time":"11:33pm"},
+"MYRILS":{"Name":"MYR/ILS", "id":"MYRILS", "Rate":"0.8551", "Bid":"0.8551", "Ask":"0.8573", "Date":"1/22/2017", "Time":"3:49pm"},
 "MYRINR":{"Name":"MYR/INR", "id":"MYRINR", "Rate":"15.3080", "Bid":"15.3080", "Ask":"15.3180", "Date":"1/21/2017", "Time":"12:00am"},
 "MYRJPY":{"Name":"MYR/JPY", "id":"MYRJPY", "Rate":"25.7700", "Bid":"25.7700", "Ask":"25.8000", "Date":"1/20/2017", "Time":"10:30pm"},
 "MYRKRW":{"Name":"MYR/KRW", "id":"MYRKRW", "Rate":"264.1300", "Bid":"264.1300", "Ask":"264.2300", "Date":"1/21/2017", "Time":"12:00am"},
