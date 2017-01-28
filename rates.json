@@ -22985,7 +22985,7 @@
 "PKREUR":{"Name":"PKR/EUR", "id":"PKREUR", "Rate":"0.0089", "Bid":"0.0089", "Ask":"0.0090", "Date":"1/27/2017", "Time":"12:00pm"},
 "PKRGBP":{"Name":"PKR/GBP", "id":"PKRGBP", "Rate":"0.0076", "Bid":"0.0076", "Ask":"0.0076", "Date":"1/27/2017", "Time":"4:50pm"},
 "PKRHKD":{"Name":"PKR/HKD", "id":"PKRHKD", "Rate":"0.0735", "Bid":"0.0735", "Ask":"0.0745", "Date":"1/27/2017", "Time":"7:40pm"},
-"PKRHUF":{"Name":"PKR/HUF", "id":"PKRHUF", "Rate":"2.7783", "Bid":"2.7783", "Ask":"2.7796", "Date":"1/27/2017", "Time":"4:48pm"},
+"PKRHUF":{"Name":"PKR/HUF", "id":"PKRHUF", "Rate":"2.7807", "Bid":"2.7807", "Ask":"2.7825", "Date":"1/27/2017", "Time":"5:10pm"},
 "PKRIDR":{"Name":"PKR/IDR", "id":"PKRIDR", "Rate":"127.6350", "Bid":"127.6350", "Ask":"127.7305", "Date":"1/27/2017", "Time":"11:24pm"},
 "PKRILS":{"Name":"PKR/ILS", "id":"PKRILS", "Rate":"0.0360", "Bid":"0.0360", "Ask":"0.0361", "Date":"1/27/2017", "Time":"11:24pm"},
 "PKRINR":{"Name":"PKR/INR", "id":"PKRINR", "Rate":"0.6491", "Bid":"0.6491", "Ask":"0.6501", "Date":"1/27/2017", "Time":"5:10pm"},
