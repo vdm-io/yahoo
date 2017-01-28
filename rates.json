@@ -20118,7 +20118,7 @@
 "CLPSEK":{"Name":"CLP/SEK", "id":"CLPSEK", "Rate":"0.0136", "Bid":"0.0136", "Ask":"0.0136", "Date":"1/27/2017", "Time":"10:01pm"},
 "CLPSGD":{"Name":"CLP/SGD", "id":"CLPSGD", "Rate":"0.0022", "Bid":"0.0022", "Ask":"0.0022", "Date":"1/27/2017", "Time":"11:45pm"},
 "CLPTHB":{"Name":"CLP/THB", "id":"CLPTHB", "Rate":"0.0543", "Bid":"0.0543", "Ask":"0.0543", "Date":"1/27/2017", "Time":"11:24pm"},
-"CLPTRY":{"Name":"CLP/TRY", "id":"CLPTRY", "Rate":"0.0059", "Bid":"0.0059", "Ask":"0.0060", "Date":"1/27/2017", "Time":"7:50pm"},
+"CLPTRY":{"Name":"CLP/TRY", "id":"CLPTRY", "Rate":"0.0060", "Bid":"0.0060", "Ask":"0.0060", "Date":"1/27/2017", "Time":"11:45pm"},
 "CLPZAR":{"Name":"CLP/ZAR", "id":"CLPZAR", "Rate":"0.0207", "Bid":"0.0207", "Ask":"0.0207", "Date":"1/27/2017", "Time":"11:24pm"},
 "CNYAED":{"Name":"CNY/AED", "id":"CNYAED", "Rate":"0.5341", "Bid":"0.5341", "Ask":"0.5342", "Date":"1/27/2017", "Time":"11:24pm"},
 "CNYAFN":{"Name":"CNY/AFN", "id":"CNYAFN", "Rate":"9.7023", "Bid":"9.7023", "Ask":"9.7314", "Date":"1/27/2017", "Time":"11:24pm"},
