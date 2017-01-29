@@ -22821,7 +22821,7 @@
 "PHPAUD":{"Name":"PHP/AUD", "id":"PHPAUD", "Rate":"0.0265", "Bid":"0.0265", "Ask":"0.0266", "Date":"1/27/2017", "Time":"11:40pm"},
 "PHPBRL":{"Name":"PHP/BRL", "id":"PHPBRL", "Rate":"0.0631", "Bid":"0.0631", "Ask":"0.0631", "Date":"1/27/2017", "Time":"11:24pm"},
 "PHPCAD":{"Name":"PHP/CAD", "id":"PHPCAD", "Rate":"0.0264", "Bid":"0.0264", "Ask":"0.0265", "Date":"1/27/2017", "Time":"11:50pm"},
-"PHPCLP":{"Name":"PHP/CLP", "id":"PHPCLP", "Rate":"13.0520", "Bid":"13.0520", "Ask":"13.0661", "Date":"1/27/2017", "Time":"11:24pm"},
+"PHPCLP":{"Name":"PHP/CLP", "id":"PHPCLP", "Rate":"13.0520", "Bid":"13.0520", "Ask":"13.0661", "Date":"1/28/2017", "Time":"11:39pm"},
 "PHPCZK":{"Name":"PHP/CZK", "id":"PHPCZK", "Rate":"0.5075", "Bid":"0.5075", "Ask":"0.5081", "Date":"1/27/2017", "Time":"11:24pm"},
 "PHPCHF":{"Name":"PHP/CHF", "id":"PHPCHF", "Rate":"0.0200", "Bid":"0.0200", "Ask":"0.0201", "Date":"1/27/2017", "Time":"10:15pm"},
 "PHPCNY":{"Name":"PHP/CNY", "id":"PHPCNY", "Rate":"0.1376", "Bid":"0.1376", "Ask":"0.1386", "Date":"1/27/2017", "Time":"11:50pm"},
