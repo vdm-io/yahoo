@@ -19940,7 +19940,7 @@
 "CHFCAD":{"Name":"CHF/CAD", "id":"CHFCAD", "Rate":"1.3098", "Bid":"1.3098", "Ask":"1.3118", "Date":"2/3/2017", "Time":"10:29pm"},
 "CHFCNY":{"Name":"CHF/CNY", "id":"CHFCNY", "Rate":"6.9144", "Bid":"6.9144", "Ask":"6.9169", "Date":"2/3/2017", "Time":"10:30pm"},
 "CHFDKK":{"Name":"CHF/DKK", "id":"CHFDKK", "Rate":"6.9394", "Bid":"6.9394", "Ask":"6.9404", "Date":"2/3/2017", "Time":"10:30pm"},
-"CHFCZK":{"Name":"CHF/CZK", "id":"CHFCZK", "Rate":"25.2500", "Bid":"25.2500", "Ask":"25.2750", "Date":"2/3/2017", "Time":"10:29pm"},
+"CHFCZK":{"Name":"CHF/CZK", "id":"CHFCZK", "Rate":"25.2500", "Bid":"25.2500", "Ask":"25.2750", "Date":"2/3/2017", "Time":"10:30pm"},
 "CHFEUR":{"Name":"CHF/EUR", "id":"CHFEUR", "Rate":"0.9336", "Bid":"0.9336", "Ask":"0.9346", "Date":"2/3/2017", "Time":"10:30pm"},
 "CHFGBP":{"Name":"CHF/GBP", "id":"CHFGBP", "Rate":"0.8062", "Bid":"0.8062", "Ask":"0.8072", "Date":"2/3/2017", "Time":"10:30pm"},
 "CHFHKD":{"Name":"CHF/HKD", "id":"CHFHKD", "Rate":"7.8130", "Bid":"7.8130", "Ask":"7.8140", "Date":"2/3/2017", "Time":"10:30pm"},
