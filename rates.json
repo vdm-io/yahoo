@@ -21498,7 +21498,7 @@
 "ILSBRL":{"Name":"ILS/BRL", "id":"ILSBRL", "Rate":"0.8310", "Bid":"0.8310", "Ask":"0.8316", "Date":"2/3/2017", "Time":"10:35pm"},
 "ILSCAD":{"Name":"ILS/CAD", "id":"ILSCAD", "Rate":"0.3465", "Bid":"0.3465", "Ask":"0.3475", "Date":"2/3/2017", "Time":"5:30pm"},
 "ILSCHF":{"Name":"ILS/CHF", "id":"ILSCHF", "Rate":"0.2642", "Bid":"0.2642", "Ask":"0.2652", "Date":"2/3/2017", "Time":"10:30pm"},
-"ILSCLP":{"Name":"ILS/CLP", "id":"ILSCLP", "Rate":"170.9156", "Bid":"170.9156", "Ask":"171.1159", "Date":"2/3/2017", "Time":"10:08pm"},
+"ILSCLP":{"Name":"ILS/CLP", "id":"ILSCLP", "Rate":"170.9156", "Bid":"170.9156", "Ask":"171.1159", "Date":"2/4/2017", "Time":"11:39pm"},
 "ILSCNY":{"Name":"ILS/CNY", "id":"ILSCNY", "Rate":"1.8326", "Bid":"1.8326", "Ask":"1.8329", "Date":"2/3/2017", "Time":"10:08pm"},
 "ILSEUR":{"Name":"ILS/EUR", "id":"ILSEUR", "Rate":"0.2467", "Bid":"0.2467", "Ask":"0.2477", "Date":"2/3/2017", "Time":"10:30pm"},
 "ILSDKK":{"Name":"ILS/DKK", "id":"ILSDKK", "Rate":"1.8408", "Bid":"1.8408", "Ask":"1.8412", "Date":"2/3/2017", "Time":"10:08pm"},
