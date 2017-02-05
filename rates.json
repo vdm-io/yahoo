@@ -24382,7 +24382,7 @@
 "ZARAUD":{"Name":"ZAR/AUD", "id":"ZARAUD", "Rate":"0.0975", "Bid":"0.0975", "Ask":"0.0985", "Date":"2/3/2017", "Time":"10:35pm"},
 "ZARCAD":{"Name":"ZAR/CAD", "id":"ZARCAD", "Rate":"0.0975", "Bid":"0.0975", "Ask":"0.0985", "Date":"2/3/2017", "Time":"10:35pm"},
 "ZARCHF":{"Name":"ZAR/CHF", "id":"ZARCHF", "Rate":"0.0748", "Bid":"0.0748", "Ask":"0.0749", "Date":"2/3/2017", "Time":"10:30pm"},
-"ZARCLP":{"Name":"ZAR/CLP", "id":"ZARCLP", "Rate":"48.2577", "Bid":"48.2577", "Ask":"48.3143", "Date":"2/3/2017", "Time":"10:08pm"},
+"ZARCLP":{"Name":"ZAR/CLP", "id":"ZARCLP", "Rate":"48.2577", "Bid":"48.2577", "Ask":"48.3143", "Date":"2/4/2017", "Time":"11:39pm"},
 "ZARCNY":{"Name":"ZAR/CNY", "id":"ZARCNY", "Rate":"0.5168", "Bid":"0.5168", "Ask":"0.5178", "Date":"2/3/2017", "Time":"10:35pm"},
 "ZARCZK":{"Name":"ZAR/CZK", "id":"ZARCZK", "Rate":"1.8867", "Bid":"1.8867", "Ask":"1.8938", "Date":"2/3/2017", "Time":"10:13pm"},
 "ZARDKK":{"Name":"ZAR/DKK", "id":"ZARDKK", "Rate":"0.5186", "Bid":"0.5186", "Ask":"0.5196", "Date":"2/3/2017", "Time":"10:30pm"},
