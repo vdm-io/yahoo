@@ -19632,7 +19632,7 @@
 "BRLEUR":{"Name":"BRL/EUR", "id":"BRLEUR", "Rate":"0.2971", "Bid":"0.2971", "Ask":"0.2977", "Date":"2/3/2017", "Time":"10:30pm"},
 "BRLGBP":{"Name":"BRL/GBP", "id":"BRLGBP", "Rate":"0.2566", "Bid":"0.2566", "Ask":"0.2571", "Date":"2/3/2017", "Time":"10:30pm"},
 "BRLHKD":{"Name":"BRL/HKD", "id":"BRLHKD", "Rate":"2.4851", "Bid":"2.4851", "Ask":"2.4901", "Date":"2/3/2017", "Time":"10:35pm"},
-"BRLHUF":{"Name":"BRL/HUF", "id":"BRLHUF", "Rate":"92.0281", "Bid":"92.0281", "Ask":"92.0923", "Date":"2/3/2017", "Time":"10:08pm"},
+"BRLHUF":{"Name":"BRL/HUF", "id":"BRLHUF", "Rate":"92.0222", "Bid":"92.0222", "Ask":"92.0864", "Date":"2/4/2017", "Time":"11:39pm"},
 "BRLINR":{"Name":"BRL/INR", "id":"BRLINR", "Rate":"21.5260", "Bid":"21.5260", "Ask":"21.5760", "Date":"2/3/2017", "Time":"10:35pm"},
 "BRLILS":{"Name":"BRL/ILS", "id":"BRLILS", "Rate":"1.2004", "Bid":"1.2004", "Ask":"1.2054", "Date":"2/3/2017", "Time":"10:35pm"},
 "BRLJPY":{"Name":"BRL/JPY", "id":"BRLJPY", "Rate":"36.0860", "Bid":"36.0860", "Ask":"36.1360", "Date":"2/3/2017", "Time":"10:30pm"},
