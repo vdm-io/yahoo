@@ -21027,7 +21027,7 @@
 "HKDXPF":{"Name":"HKD/XPF", "id":"HKDXPF", "Rate":"14.3855", "Bid":"14.3855", "Ask":"14.5145", "Date":"2/10/2017", "Time":"10:09pm"},
 "HKDYER":{"Name":"HKD/YER", "id":"HKDYER", "Rate":"32.2250", "Bid":"32.2250", "Ask":"32.2379", "Date":"2/10/2017", "Time":"10:09pm"},
 "HKDAUD":{"Name":"HKD/AUD", "id":"HKDAUD", "Rate":"0.1677", "Bid":"0.1677", "Ask":"0.1678", "Date":"2/10/2017", "Time":"10:38pm"},
-"HKDCAD":{"Name":"HKD/CAD", "id":"HKDCAD", "Rate":"0.1684", "Bid":"0.1684", "Ask":"0.1685", "Date":"2/10/2017", "Time":"10:38pm"},
+"HKDCAD":{"Name":"HKD/CAD", "id":"HKDCAD", "Rate":"0.1684", "Bid":"0.1684", "Ask":"0.1685", "Date":"2/10/2017", "Time":"10:39pm"},
 "HKDBRL":{"Name":"HKD/BRL", "id":"HKDBRL", "Rate":"0.4014", "Bid":"0.4014", "Ask":"0.4019", "Date":"2/10/2017", "Time":"10:35pm"},
 "HKDCHF":{"Name":"HKD/CHF", "id":"HKDCHF", "Rate":"0.1292", "Bid":"0.1292", "Ask":"0.1293", "Date":"2/10/2017", "Time":"10:38pm"},
 "HKDCLP":{"Name":"HKD/CLP", "id":"HKDCLP", "Rate":"82.4584", "Bid":"82.4584", "Ask":"82.4777", "Date":"2/11/2017", "Time":"4:45pm"},
