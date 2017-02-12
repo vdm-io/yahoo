@@ -19953,7 +19953,7 @@
 "CHFMXN":{"Name":"CHF/MXN", "id":"CHFMXN", "Rate":"20.2886", "Bid":"20.2886", "Ask":"20.2911", "Date":"2/10/2017", "Time":"10:40pm"},
 "CHFMYR":{"Name":"CHF/MYR", "id":"CHFMYR", "Rate":"4.4319", "Bid":"4.4319", "Ask":"4.4344", "Date":"2/10/2017", "Time":"10:35pm"},
 "CHFNAD":{"Name":"CHF/NAD", "id":"CHFNAD", "Rate":"13.3225", "Bid":"13.3225", "Ask":"13.3250", "Date":"2/10/2017", "Time":"10:35pm"},
-"CHFNOK":{"Name":"CHF/NOK", "id":"CHFNOK", "Rate":"8.3508", "Bid":"8.3508", "Ask":"8.3518", "Date":"2/10/2017", "Time":"10:31pm"},
+"CHFNOK":{"Name":"CHF/NOK", "id":"CHFNOK", "Rate":"8.3508", "Bid":"8.3508", "Ask":"8.3518", "Date":"2/10/2017", "Time":"10:32pm"},
 "CHFNZD":{"Name":"CHF/NZD", "id":"CHFNZD", "Rate":"1.3849", "Bid":"1.3849", "Ask":"1.3859", "Date":"2/11/2017", "Time":"12:30am"},
 "CHFPHP":{"Name":"CHF/PHP", "id":"CHFPHP", "Rate":"49.8340", "Bid":"49.8340", "Ask":"49.8590", "Date":"2/10/2017", "Time":"10:35pm"},
 "CHFPKR":{"Name":"CHF/PKR", "id":"CHFPKR", "Rate":"104.5210", "Bid":"104.5210", "Ask":"104.5460", "Date":"2/10/2017", "Time":"10:35pm"},
