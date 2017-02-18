@@ -24388,7 +24388,7 @@
 "ZARDKK":{"Name":"ZAR/DKK", "id":"ZARDKK", "Rate":"0.5341", "Bid":"0.5341", "Ask":"0.5351", "Date":"2/17/2017", "Time":"10:30pm"},
 "ZAREUR":{"Name":"ZAR/EUR", "id":"ZAREUR", "Rate":"0.0716", "Bid":"0.0716", "Ask":"0.0726", "Date":"2/17/2017", "Time":"10:30pm"},
 "ZARHUF":{"Name":"ZAR/HUF", "id":"ZARHUF", "Rate":"22.2300", "Bid":"22.2300", "Ask":"22.2454", "Date":"2/18/2017", "Time":"12:42am"},
-"ZARIDR":{"Name":"ZAR/IDR", "id":"ZARIDR", "Rate":"1023.4700", "Bid":"1023.4700", "Ask":"1024.4700", "Date":"2/18/2017", "Time":"1:02am"},
+"ZARIDR":{"Name":"ZAR/IDR", "id":"ZARIDR", "Rate":"1023.4700", "Bid":"1023.4700", "Ask":"1024.4700", "Date":"2/18/2017", "Time":"1:03am"},
 "ZARHKD":{"Name":"ZAR/HKD", "id":"ZARHKD", "Rate":"0.5890", "Bid":"0.5890", "Ask":"0.5990", "Date":"2/18/2017", "Time":"1:00am"},
 "ZARGBP":{"Name":"ZAR/GBP", "id":"ZARGBP", "Rate":"0.0616", "Bid":"0.0616", "Ask":"0.0617", "Date":"2/17/2017", "Time":"10:30pm"},
 "ZARILS":{"Name":"ZAR/ILS", "id":"ZARILS", "Rate":"0.2833", "Bid":"0.2833", "Ask":"0.2840", "Date":"2/18/2017", "Time":"12:42am"},
