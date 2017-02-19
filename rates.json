@@ -22353,7 +22353,7 @@
 "NADAUD":{"Name":"NAD/AUD", "id":"NADAUD", "Rate":"0.0997", "Bid":"0.0997", "Ask":"0.0998", "Date":"2/18/2017", "Time":"12:42am"},
 "NADBRL":{"Name":"NAD/BRL", "id":"NADBRL", "Rate":"0.2377", "Bid":"0.2377", "Ask":"0.2378", "Date":"2/18/2017", "Time":"11:39pm"},
 "NADCAD":{"Name":"NAD/CAD", "id":"NADCAD", "Rate":"0.1003", "Bid":"0.1003", "Ask":"0.1003", "Date":"2/18/2017", "Time":"12:42am"},
-"NADCLP":{"Name":"NAD/CLP", "id":"NADCLP", "Rate":"49.3146", "Bid":"49.3146", "Ask":"49.3300", "Date":"2/18/2017", "Time":"12:42am"},
+"NADCLP":{"Name":"NAD/CLP", "id":"NADCLP", "Rate":"49.3146", "Bid":"49.3146", "Ask":"49.3300", "Date":"2/18/2017", "Time":"11:39pm"},
 "NADCHF":{"Name":"NAD/CHF", "id":"NADCHF", "Rate":"0.0767", "Bid":"0.0767", "Ask":"0.0768", "Date":"2/18/2017", "Time":"12:42am"},
 "NADCNY":{"Name":"NAD/CNY", "id":"NADCNY", "Rate":"0.5256", "Bid":"0.5256", "Ask":"0.5257", "Date":"2/18/2017", "Time":"12:42am"},
 "NADCZK":{"Name":"NAD/CZK", "id":"NADCZK", "Rate":"1.9487", "Bid":"1.9487", "Ask":"1.9510", "Date":"2/18/2017", "Time":"12:42am"},
