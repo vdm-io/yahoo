@@ -20090,7 +20090,7 @@
 "CLPXOF":{"Name":"CLP/XOF", "id":"CLPXOF", "Rate":"0.9679", "Bid":"0.9679", "Ask":"0.9710", "Date":"2/18/2017", "Time":"11:39pm"},
 "CLPXPF":{"Name":"CLP/XPF", "id":"CLPXPF", "Rate":"0.1737", "Bid":"0.1737", "Ask":"0.1753", "Date":"2/18/2017", "Time":"11:39pm"},
 "CLPYER":{"Name":"CLP/YER", "id":"CLPYER", "Rate":"0.3873", "Bid":"0.3873", "Ask":"0.3874", "Date":"2/18/2017", "Time":"11:39pm"},
-"CLPAUD":{"Name":"CLP/AUD", "id":"CLPAUD", "Rate":"0.0020", "Bid":"0.0020", "Ask":"0.0020", "Date":"2/17/2017", "Time":"11:40pm"},
+"CLPAUD":{"Name":"CLP/AUD", "id":"CLPAUD", "Rate":"0.0020", "Bid":"0.0020", "Ask":"0.0020", "Date":"2/18/2017", "Time":"11:39pm"},
 "CLPBRL":{"Name":"CLP/BRL", "id":"CLPBRL", "Rate":"0.0048", "Bid":"0.0048", "Ask":"0.0049", "Date":"2/17/2017", "Time":"10:25pm"},
 "CLPCAD":{"Name":"CLP/CAD", "id":"CLPCAD", "Rate":"0.0020", "Bid":"0.0020", "Ask":"0.0020", "Date":"2/17/2017", "Time":"5:30pm"},
 "CLPCHF":{"Name":"CLP/CHF", "id":"CLPCHF", "Rate":"0.0016", "Bid":"0.0016", "Ask":"0.0016", "Date":"2/18/2017", "Time":"11:39pm"},
