@@ -24071,7 +24071,7 @@
 "TWDCAD":{"Name":"TWD/CAD", "id":"TWDCAD", "Rate":"0.0425", "Bid":"0.0425", "Ask":"0.0426", "Date":"2/24/2017", "Time":"11:50pm"},
 "TWDCHF":{"Name":"TWD/CHF", "id":"TWDCHF", "Rate":"0.0328", "Bid":"0.0328", "Ask":"0.0329", "Date":"2/24/2017", "Time":"10:30pm"},
 "TWDCNY":{"Name":"TWD/CNY", "id":"TWDCNY", "Rate":"0.2231", "Bid":"0.2231", "Ask":"0.2241", "Date":"2/24/2017", "Time":"11:50pm"},
-"TWDCLP":{"Name":"TWD/CLP", "id":"TWDCLP", "Rate":"21.1009", "Bid":"21.1009", "Ask":"21.1041", "Date":"2/24/2017", "Time":"11:21pm"},
+"TWDCLP":{"Name":"TWD/CLP", "id":"TWDCLP", "Rate":"21.1009", "Bid":"21.1009", "Ask":"21.1041", "Date":"2/25/2017", "Time":"11:39pm"},
 "TWDCZK":{"Name":"TWD/CZK", "id":"TWDCZK", "Rate":"0.8346", "Bid":"0.8346", "Ask":"0.8356", "Date":"2/24/2017", "Time":"11:21pm"},
 "TWDDKK":{"Name":"TWD/DKK", "id":"TWDDKK", "Rate":"0.2287", "Bid":"0.2287", "Ask":"0.2288", "Date":"2/24/2017", "Time":"11:21pm"},
 "TWDGBP":{"Name":"TWD/GBP", "id":"TWDGBP", "Rate":"0.0262", "Bid":"0.0262", "Ask":"0.0262", "Date":"2/24/2017", "Time":"10:30pm"},
