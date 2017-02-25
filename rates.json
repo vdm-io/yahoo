@@ -21818,7 +21818,7 @@
 "JPYCZK":{"Name":"JPY/CZK", "id":"JPYCZK", "Rate":"0.2281", "Bid":"0.2281", "Ask":"0.2286", "Date":"2/24/2017", "Time":"10:35pm"},
 "JPYHKD":{"Name":"JPY/HKD", "id":"JPYHKD", "Rate":"0.0689", "Bid":"0.0689", "Ask":"0.0694", "Date":"2/24/2017", "Time":"10:35pm"},
 "JPYHUF":{"Name":"JPY/HUF", "id":"JPYHUF", "Rate":"2.5995", "Bid":"2.5995", "Ask":"2.6005", "Date":"2/24/2017", "Time":"10:35pm"},
-"JPYIDR":{"Name":"JPY/IDR", "id":"JPYIDR", "Rate":"119.2300", "Bid":"119.2300", "Ask":"119.3300", "Date":"2/24/2017", "Time":"10:19pm"},
+"JPYIDR":{"Name":"JPY/IDR", "id":"JPYIDR", "Rate":"119.2300", "Bid":"119.2300", "Ask":"119.3300", "Date":"2/24/2017", "Time":"10:20pm"},
 "JPYILS":{"Name":"JPY/ILS", "id":"JPYILS", "Rate":"0.0327", "Bid":"0.0327", "Ask":"0.0330", "Date":"2/24/2017", "Time":"10:30pm"},
 "JPYINR":{"Name":"JPY/INR", "id":"JPYINR", "Rate":"0.5940", "Bid":"0.5940", "Ask":"0.5945", "Date":"2/24/2017", "Time":"10:19pm"},
 "JPYMXN":{"Name":"JPY/MXN", "id":"JPYMXN", "Rate":"0.1777", "Bid":"0.1777", "Ask":"0.1778", "Date":"2/24/2017", "Time":"10:30pm"},
