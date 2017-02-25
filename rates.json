@@ -21822,7 +21822,7 @@
 "JPYILS":{"Name":"JPY/ILS", "id":"JPYILS", "Rate":"0.0327", "Bid":"0.0327", "Ask":"0.0330", "Date":"2/24/2017", "Time":"10:30pm"},
 "JPYINR":{"Name":"JPY/INR", "id":"JPYINR", "Rate":"0.5940", "Bid":"0.5940", "Ask":"0.5945", "Date":"2/24/2017", "Time":"10:20pm"},
 "JPYMXN":{"Name":"JPY/MXN", "id":"JPYMXN", "Rate":"0.1777", "Bid":"0.1777", "Ask":"0.1778", "Date":"2/24/2017", "Time":"10:30pm"},
-"JPYKRW":{"Name":"JPY/KRW", "id":"JPYKRW", "Rate":"10.0510", "Bid":"10.0510", "Ask":"10.1010", "Date":"2/24/2017", "Time":"10:19pm"},
+"JPYKRW":{"Name":"JPY/KRW", "id":"JPYKRW", "Rate":"10.0510", "Bid":"10.0510", "Ask":"10.1010", "Date":"2/24/2017", "Time":"10:20pm"},
 "JPYMYR":{"Name":"JPY/MYR", "id":"JPYMYR", "Rate":"0.0395", "Bid":"0.0395", "Ask":"0.0396", "Date":"2/24/2017", "Time":"10:25pm"},
 "JPYNAD":{"Name":"JPY/NAD", "id":"JPYNAD", "Rate":"0.1150", "Bid":"0.1150", "Ask":"0.1160", "Date":"2/24/2017", "Time":"10:20pm"},
 "JPYNOK":{"Name":"JPY/NOK", "id":"JPYNOK", "Rate":"0.0747", "Bid":"0.0747", "Ask":"0.0748", "Date":"2/24/2017", "Time":"10:35pm"},
