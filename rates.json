@@ -22147,7 +22147,7 @@
 "MXNSGD":{"Name":"MXN/SGD", "id":"MXNSGD", "Rate":"0.0703", "Bid":"0.0703", "Ask":"0.0708", "Date":"2/24/2017", "Time":"11:50pm"},
 "MXNTHB":{"Name":"MXN/THB", "id":"MXNTHB", "Rate":"1.7510", "Bid":"1.7510", "Ask":"1.7535", "Date":"2/24/2017", "Time":"11:21pm"},
 "MXNTRY":{"Name":"MXN/TRY", "id":"MXNTRY", "Rate":"0.1812", "Bid":"0.1812", "Ask":"0.1814", "Date":"2/25/2017", "Time":"11:39pm"},
-"MXNTWD":{"Name":"MXN/TWD", "id":"MXNTWD", "Rate":"1.5399", "Bid":"1.5399", "Ask":"1.5449", "Date":"2/24/2017", "Time":"11:21pm"},
+"MXNTWD":{"Name":"MXN/TWD", "id":"MXNTWD", "Rate":"1.5401", "Bid":"1.5401", "Ask":"1.5451", "Date":"2/25/2017", "Time":"11:39pm"},
 "MXNUSD":{"Name":"MXN/USD", "id":"MXNUSD", "Rate":"0.0502", "Bid":"0.0502", "Ask":"0.0503", "Date":"2/24/2017", "Time":"11:50pm"},
 "MXNZAR":{"Name":"MXN/ZAR", "id":"MXNZAR", "Rate":"0.6502", "Bid":"0.6502", "Ask":"0.6512", "Date":"2/24/2017", "Time":"11:50pm"},
 "MYRAED":{"Name":"MYR/AED", "id":"MYRAED", "Rate":"0.8277", "Bid":"0.8277", "Ask":"0.8278", "Date":"2/24/2017", "Time":"11:21pm"},
