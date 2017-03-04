@@ -20434,7 +20434,7 @@
 "CZKZAR":{"Name":"CZK/ZAR", "id":"CZKZAR", "Rate":"0.5113", "Bid":"0.5113", "Ask":"0.5117", "Date":"3/3/2017", "Time":"10:14pm"},
 "DKKAFN":{"Name":"DKK/AFN", "id":"DKKAFN", "Rate":"9.5255", "Bid":"9.5255", "Ask":"9.5541", "Date":"3/3/2017", "Time":"10:14pm"},
 "DKKAED":{"Name":"DKK/AED", "id":"DKKAED", "Rate":"0.5249", "Bid":"0.5249", "Ask":"0.5249", "Date":"3/3/2017", "Time":"10:17pm"},
-"CZKTWD":{"Name":"CZK/TWD", "id":"CZKTWD", "Rate":"1.2156", "Bid":"1.2156", "Ask":"1.2195", "Date":"3/3/2017", "Time":"9:50pm"},
+"CZKTWD":{"Name":"CZK/TWD", "id":"CZKTWD", "Rate":"1.2150", "Bid":"1.2150", "Ask":"1.2189", "Date":"3/3/2017", "Time":"10:14pm"},
 "CZKUSD":{"Name":"CZK/USD", "id":"CZKUSD", "Rate":"0.0392", "Bid":"0.0392", "Ask":"0.0393", "Date":"3/3/2017", "Time":"10:40pm"},
 "DKKAMD":{"Name":"DKK/AMD", "id":"DKKAMD", "Rate":"69.5042", "Bid":"69.5042", "Ask":"69.6471", "Date":"3/3/2017", "Time":"10:09pm"},
 "DKKALL":{"Name":"DKK/ALL", "id":"DKKALL", "Rate":"18.2793", "Bid":"18.2793", "Ask":"18.3793", "Date":"3/3/2017", "Time":"10:09pm"},
