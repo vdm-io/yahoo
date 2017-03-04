@@ -23444,7 +23444,7 @@
 "SEKYER":{"Name":"SEK/YER", "id":"SEKYER", "Rate":"27.6998", "Bid":"27.6998", "Ask":"27.7109", "Date":"3/3/2017", "Time":"2:35pm"},
 "SEKAUD":{"Name":"SEK/AUD", "id":"SEKAUD", "Rate":"0.1465", "Bid":"0.1465", "Ask":"0.1466", "Date":"3/3/2017", "Time":"10:35pm"},
 "SEKBRL":{"Name":"SEK/BRL", "id":"SEKBRL", "Rate":"0.3471", "Bid":"0.3471", "Ask":"0.3473", "Date":"3/3/2017", "Time":"10:35pm"},
-"SEKCAD":{"Name":"SEK/CAD", "id":"SEKCAD", "Rate":"0.1476", "Bid":"0.1476", "Ask":"0.1496", "Date":"3/3/2017", "Time":"6:36pm"},
+"SEKCAD":{"Name":"SEK/CAD", "id":"SEKCAD", "Rate":"0.1479", "Bid":"0.1479", "Ask":"0.1499", "Date":"3/3/2017", "Time":"10:36pm"},
 "SEKCHF":{"Name":"SEK/CHF", "id":"SEKCHF", "Rate":"0.1121", "Bid":"0.1121", "Ask":"0.1123", "Date":"3/3/2017", "Time":"9:59pm"},
 "SEKCNY":{"Name":"SEK/CNY", "id":"SEKCNY", "Rate":"0.7636", "Bid":"0.7636", "Ask":"0.7736", "Date":"3/3/2017", "Time":"10:35pm"},
 "SEKCLP":{"Name":"SEK/CLP", "id":"SEKCLP", "Rate":"73.1892", "Bid":"73.1892", "Ask":"73.2059", "Date":"3/3/2017", "Time":"10:10pm"},
