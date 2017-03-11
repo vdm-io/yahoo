@@ -23466,7 +23466,7 @@
 "SEKNZD":{"Name":"SEK/NZD", "id":"SEKNZD", "Rate":"0.1555", "Bid":"0.1555", "Ask":"0.1655", "Date":"3/10/2017", "Time":"10:30pm"},
 "SEKPHP":{"Name":"SEK/PHP", "id":"SEKPHP", "Rate":"5.5750", "Bid":"5.5750", "Ask":"5.5806", "Date":"3/10/2017", "Time":"10:30pm"},
 "SEKPKR":{"Name":"SEK/PKR", "id":"SEKPKR", "Rate":"11.6286", "Bid":"11.6286", "Ask":"11.6336", "Date":"3/10/2017", "Time":"10:35pm"},
-"SEKPLN":{"Name":"SEK/PLN", "id":"SEKPLN", "Rate":"0.4507", "Bid":"0.4507", "Ask":"0.4515", "Date":"3/10/2017", "Time":"8:46pm"},
+"SEKPLN":{"Name":"SEK/PLN", "id":"SEKPLN", "Rate":"0.4458", "Bid":"0.4458", "Ask":"0.4558", "Date":"3/10/2017", "Time":"10:35pm"},
 "SEKRUB":{"Name":"SEK/RUB", "id":"SEKRUB", "Rate":"6.5354", "Bid":"6.5354", "Ask":"6.5454", "Date":"3/10/2017", "Time":"10:35pm"},
 "SEKSGD":{"Name":"SEK/SGD", "id":"SEKSGD", "Rate":"0.1565", "Bid":"0.1565", "Ask":"0.1575", "Date":"3/10/2017", "Time":"10:35pm"},
 "SEKTHB":{"Name":"SEK/THB", "id":"SEKTHB", "Rate":"3.9229", "Bid":"3.9229", "Ask":"3.9284", "Date":"3/10/2017", "Time":"10:30pm"},
