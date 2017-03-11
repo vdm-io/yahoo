@@ -20427,7 +20427,7 @@
 "CZKRUB":{"Name":"CZK/RUB", "id":"CZKRUB", "Rate":"2.3287", "Bid":"2.3287", "Ask":"2.3307", "Date":"3/10/2017", "Time":"10:30pm"},
 "CZKSGD":{"Name":"CZK/SGD", "id":"CZKSGD", "Rate":"0.0558", "Bid":"0.0558", "Ask":"0.0559", "Date":"3/10/2017", "Time":"11:45pm"},
 "CZKPLN":{"Name":"CZK/PLN", "id":"CZKPLN", "Rate":"0.1600", "Bid":"0.1600", "Ask":"0.1610", "Date":"3/10/2017", "Time":"11:00pm"},
-"CZKTRY":{"Name":"CZK/TRY", "id":"CZKTRY", "Rate":"0.1476", "Bid":"0.1476", "Ask":"0.1476", "Date":"3/10/2017", "Time":"11:10pm"},
+"CZKTRY":{"Name":"CZK/TRY", "id":"CZKTRY", "Rate":"0.1476", "Bid":"0.1476", "Ask":"0.1477", "Date":"3/10/2017", "Time":"11:45pm"},
 "CZKPKR":{"Name":"CZK/PKR", "id":"CZKPKR", "Rate":"4.1390", "Bid":"4.1390", "Ask":"4.1469", "Date":"3/10/2017", "Time":"10:30pm"},
 "CZKTHB":{"Name":"CZK/THB", "id":"CZKTHB", "Rate":"1.3979", "Bid":"1.3979", "Ask":"1.3999", "Date":"3/10/2017", "Time":"10:30pm"},
 "CZKSEK":{"Name":"CZK/SEK", "id":"CZKSEK", "Rate":"0.3553", "Bid":"0.3553", "Ask":"0.3565", "Date":"3/10/2017", "Time":"10:00pm"},
