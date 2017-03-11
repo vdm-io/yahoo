@@ -21186,7 +21186,7 @@
 "HUFBRL":{"Name":"HUF/BRL", "id":"HUFBRL", "Rate":"0.0107", "Bid":"0.0107", "Ask":"0.0107", "Date":"3/11/2017", "Time":"3:58pm"},
 "HUFCAD":{"Name":"HUF/CAD", "id":"HUFCAD", "Rate":"0.0046", "Bid":"0.0046", "Ask":"0.0046", "Date":"3/10/2017", "Time":"5:30pm"},
 "HUFCHF":{"Name":"HUF/CHF", "id":"HUFCHF", "Rate":"0.0034", "Bid":"0.0034", "Ask":"0.0035", "Date":"3/10/2017", "Time":"10:35pm"},
-"HUFCLP":{"Name":"HUF/CLP", "id":"HUFCLP", "Rate":"2.2657", "Bid":"2.2657", "Ask":"2.2689", "Date":"3/10/2017", "Time":"10:30pm"},
+"HUFCLP":{"Name":"HUF/CLP", "id":"HUFCLP", "Rate":"2.2657", "Bid":"2.2657", "Ask":"2.2689", "Date":"3/11/2017", "Time":"3:58pm"},
 "HUFCNY":{"Name":"HUF/CNY", "id":"HUFCNY", "Rate":"0.0236", "Bid":"0.0236", "Ask":"0.0236", "Date":"3/10/2017", "Time":"10:30pm"},
 "HUFCZK":{"Name":"HUF/CZK", "id":"HUFCZK", "Rate":"0.0861", "Bid":"0.0861", "Ask":"0.0866", "Date":"3/10/2017", "Time":"11:00pm"},
 "HUFHKD":{"Name":"HUF/HKD", "id":"HUFHKD", "Rate":"0.0265", "Bid":"0.0265", "Ask":"0.0265", "Date":"3/10/2017", "Time":"10:30pm"},
