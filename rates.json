@@ -19644,7 +19644,7 @@
 "BRLNOK":{"Name":"BRL/NOK", "id":"BRLNOK", "Rate":"2.7359", "Bid":"2.7359", "Ask":"2.7409", "Date":"3/10/2017", "Time":"10:35pm"},
 "BRLNZD":{"Name":"BRL/NZD", "id":"BRLNZD", "Rate":"0.4600", "Bid":"0.4600", "Ask":"0.4605", "Date":"3/10/2017", "Time":"10:30pm"},
 "BRLPHP":{"Name":"BRL/PHP", "id":"BRLPHP", "Rate":"16.0006", "Bid":"16.0006", "Ask":"16.0166", "Date":"3/11/2017", "Time":"3:58pm"},
-"BRLPLN":{"Name":"BRL/PLN", "id":"BRLPLN", "Rate":"1.2927", "Bid":"1.2927", "Ask":"1.2940", "Date":"3/11/2017", "Time":"3:58pm"},
+"BRLPLN":{"Name":"BRL/PLN", "id":"BRLPLN", "Rate":"1.2927", "Bid":"1.2927", "Ask":"1.2940", "Date":"3/11/2017", "Time":"11:39pm"},
 "BRLSEK":{"Name":"BRL/SEK", "id":"BRLSEK", "Rate":"2.8657", "Bid":"2.8657", "Ask":"2.8707", "Date":"3/10/2017", "Time":"10:35pm"},
 "BRLSGD":{"Name":"BRL/SGD", "id":"BRLSGD", "Rate":"0.4494", "Bid":"0.4494", "Ask":"0.4504", "Date":"3/10/2017", "Time":"11:00pm"},
 "BRLRUB":{"Name":"BRL/RUB", "id":"BRLRUB", "Rate":"18.7340", "Bid":"18.7340", "Ask":"18.7840", "Date":"3/10/2017", "Time":"11:00pm"},
