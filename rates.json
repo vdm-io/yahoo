@@ -23129,7 +23129,7 @@
 "PLNXCD":{"Name":"PLN/XCD", "id":"PLNXCD", "Rate":"0.6656", "Bid":"0.6656", "Ask":"N/A", "Date":"3/10/2017", "Time":"11:00pm"},
 "PLNXOF":{"Name":"PLN/XOF", "id":"PLNXOF", "Rate":"154.5051", "Bid":"154.5051", "Ask":"154.9982", "Date":"3/10/2017", "Time":"10:30pm"},
 "PLNXPF":{"Name":"PLN/XPF", "id":"PLNXPF", "Rate":"27.4794", "Bid":"27.4794", "Ask":"27.7259", "Date":"3/10/2017", "Time":"10:30pm"},
-"PLNBRL":{"Name":"PLN/BRL", "id":"PLNBRL", "Rate":"0.7736", "Bid":"0.7736", "Ask":"0.7743", "Date":"3/11/2017", "Time":"3:58pm"},
+"PLNBRL":{"Name":"PLN/BRL", "id":"PLNBRL", "Rate":"0.7736", "Bid":"0.7736", "Ask":"0.7743", "Date":"3/11/2017", "Time":"11:39pm"},
 "PLNYER":{"Name":"PLN/YER", "id":"PLNYER", "Rate":"61.6172", "Bid":"61.6172", "Ask":"61.6418", "Date":"3/10/2017", "Time":"10:30pm"},
 "PLNAUD":{"Name":"PLN/AUD", "id":"PLNAUD", "Rate":"0.3259", "Bid":"0.3259", "Ask":"0.3269", "Date":"3/10/2017", "Time":"11:00pm"},
 "PLNCAD":{"Name":"PLN/CAD", "id":"PLNCAD", "Rate":"0.3312", "Bid":"0.3312", "Ask":"0.3320", "Date":"3/10/2017", "Time":"5:30pm"},
