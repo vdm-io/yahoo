@@ -19963,7 +19963,7 @@
 "CHFSGD":{"Name":"CHF/SGD", "id":"CHFSGD", "Rate":"1.4039", "Bid":"1.4039", "Ask":"1.4049", "Date":"3/17/2017", "Time":"9:30pm"},
 "CHFTHB":{"Name":"CHF/THB", "id":"CHFTHB", "Rate":"34.8800", "Bid":"34.8800", "Ask":"34.9050", "Date":"3/17/2017", "Time":"9:30pm"},
 "CHFTRY":{"Name":"CHF/TRY", "id":"CHFTRY", "Rate":"3.6400", "Bid":"3.6400", "Ask":"3.6425", "Date":"3/17/2017", "Time":"9:30pm"},
-"CHFUSD":{"Name":"CHF/USD", "id":"CHFUSD", "Rate":"1.0009", "Bid":"1.0009", "Ask":"1.0019", "Date":"3/17/2017", "Time":"9:31pm"},
+"CHFUSD":{"Name":"CHF/USD", "id":"CHFUSD", "Rate":"1.0009", "Bid":"1.0009", "Ask":"1.0019", "Date":"3/17/2017", "Time":"9:32pm"},
 "CHFTWD":{"Name":"CHF/TWD", "id":"CHFTWD", "Rate":"30.5950", "Bid":"30.5950", "Ask":"30.6200", "Date":"3/17/2017", "Time":"9:30pm"},
 "CHFZAR":{"Name":"CHF/ZAR", "id":"CHFZAR", "Rate":"12.7304", "Bid":"12.7304", "Ask":"12.7314", "Date":"3/17/2017", "Time":"9:32pm"},
 "CLPALL":{"Name":"CLP/ALL", "id":"CLPALL", "Rate":"0.1897", "Bid":"0.1897", "Ask":"0.1905", "Date":"3/17/2017", "Time":"8:59pm"},
