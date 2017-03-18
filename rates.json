@@ -19474,7 +19474,7 @@
 "AUDCZK":{"Name":"AUD/CZK", "id":"AUDCZK", "Rate":"19.3590", "Bid":"19.3590", "Ask":"19.4090", "Date":"3/17/2017", "Time":"10:05pm"},
 "AUDDKK":{"Name":"AUD/DKK", "id":"AUDDKK", "Rate":"5.3277", "Bid":"5.3277", "Ask":"5.3287", "Date":"3/17/2017", "Time":"10:30pm"},
 "AUDHKD":{"Name":"AUD/HKD", "id":"AUDHKD", "Rate":"5.9743", "Bid":"5.9743", "Ask":"5.9793", "Date":"3/17/2017", "Time":"10:05pm"},
-"AUDGBP":{"Name":"AUD/GBP", "id":"AUDGBP", "Rate":"0.6209", "Bid":"0.6209", "Ask":"0.6219", "Date":"3/17/2017", "Time":"10:26pm"},
+"AUDGBP":{"Name":"AUD/GBP", "id":"AUDGBP", "Rate":"0.6209", "Bid":"0.6209", "Ask":"0.6219", "Date":"3/17/2017", "Time":"10:27pm"},
 "AUDHUF":{"Name":"AUD/HUF", "id":"AUDHUF", "Rate":"220.8400", "Bid":"220.8400", "Ask":"221.3400", "Date":"3/17/2017", "Time":"10:05pm"},
 "AUDEUR":{"Name":"AUD/EUR", "id":"AUDEUR", "Rate":"0.7174", "Bid":"0.7174", "Ask":"0.7177", "Date":"3/17/2017", "Time":"9:31pm"},
 "AUDILS":{"Name":"AUD/ILS", "id":"AUDILS", "Rate":"2.7956", "Bid":"2.7956", "Ask":"2.7981", "Date":"3/17/2017", "Time":"10:05pm"},
