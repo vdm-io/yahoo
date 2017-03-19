@@ -19648,7 +19648,7 @@
 "BRLSEK":{"Name":"BRL/SEK", "id":"BRLSEK", "Rate":"2.8552", "Bid":"2.8552", "Ask":"2.8602", "Date":"3/17/2017", "Time":"10:05pm"},
 "BRLSGD":{"Name":"BRL/SGD", "id":"BRLSGD", "Rate":"0.4531", "Bid":"0.4531", "Ask":"0.4541", "Date":"3/17/2017", "Time":"11:00pm"},
 "BRLRUB":{"Name":"BRL/RUB", "id":"BRLRUB", "Rate":"18.4530", "Bid":"18.4530", "Ask":"18.5030", "Date":"3/17/2017", "Time":"10:05pm"},
-"BRLTHB":{"Name":"BRL/THB", "id":"BRLTHB", "Rate":"11.2631", "Bid":"11.2631", "Ask":"11.2793", "Date":"3/17/2017", "Time":"10:30pm"},
+"BRLTHB":{"Name":"BRL/THB", "id":"BRLTHB", "Rate":"11.2631", "Bid":"11.2631", "Ask":"11.2793", "Date":"3/18/2017", "Time":"10:39pm"},
 "BRLTRY":{"Name":"BRL/TRY", "id":"BRLTRY", "Rate":"1.1759", "Bid":"1.1759", "Ask":"1.1762", "Date":"3/18/2017", "Time":"10:39pm"},
 "BRLPKR":{"Name":"BRL/PKR", "id":"BRLPKR", "Rate":"33.8509", "Bid":"33.8509", "Ask":"33.9156", "Date":"3/18/2017", "Time":"10:39pm"},
 "BRLTWD":{"Name":"BRL/TWD", "id":"BRLTWD", "Rate":"9.8610", "Bid":"9.8610", "Ask":"9.9110", "Date":"3/17/2017", "Time":"10:05pm"},
