@@ -21363,7 +21363,7 @@
 "IDRPKR":{"Name":"IDR/PKR", "id":"IDRPKR", "Rate":"0.0079", "Bid":"0.0079", "Ask":"0.0079", "Date":"3/25/2017", "Time":"4:27am"},
 "IDRRUB":{"Name":"IDR/RUB", "id":"IDRRUB", "Rate":"0.0043", "Bid":"0.0043", "Ask":"0.0043", "Date":"3/25/2017", "Time":"4:27am"},
 "IDRPLN":{"Name":"IDR/PLN", "id":"IDRPLN", "Rate":"0.0003", "Bid":"0.0003", "Ask":"0.0003", "Date":"3/25/2017", "Time":"4:27am"},
-"IDRSEK":{"Name":"IDR/SEK", "id":"IDRSEK", "Rate":"0.0007", "Bid":"0.0007", "Ask":"0.0007", "Date":"3/24/2017", "Time":"9:00pm"},
+"IDRSEK":{"Name":"IDR/SEK", "id":"IDRSEK", "Rate":"0.0007", "Bid":"0.0007", "Ask":"0.0007", "Date":"3/25/2017", "Time":"4:27am"},
 "IDRSGD":{"Name":"IDR/SGD", "id":"IDRSGD", "Rate":"0.0001", "Bid":"0.0001", "Ask":"0.0001", "Date":"3/24/2017", "Time":"9:25pm"},
 "IDRTHB":{"Name":"IDR/THB", "id":"IDRTHB", "Rate":"0.0026", "Bid":"0.0026", "Ask":"0.0026", "Date":"3/24/2017", "Time":"9:25pm"},
 "IDRUSD":{"Name":"IDR/USD", "id":"IDRUSD", "Rate":"0.0001", "Bid":"0.0001", "Ask":"0.0001", "Date":"3/24/2017", "Time":"9:25pm"},
