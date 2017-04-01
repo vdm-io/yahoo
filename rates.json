@@ -20872,7 +20872,7 @@
 "GBPXPF":{"Name":"GBP/XPF", "id":"GBPXPF", "Rate":"140.2200", "Bid":"140.2200", "Ask":"140.4700", "Date":"3/31/2017", "Time":"11:15pm"},
 "GBPAUD":{"Name":"GBP/AUD", "id":"GBPAUD", "Rate":"1.6425", "Bid":"1.6425", "Ask":"1.6426", "Date":"3/31/2017", "Time":"11:14pm"},
 "GBPBRL":{"Name":"GBP/BRL", "id":"GBPBRL", "Rate":"3.9163", "Bid":"3.9163", "Ask":"3.9188", "Date":"3/31/2017", "Time":"10:45pm"},
-"GBPCHF":{"Name":"GBP/CHF", "id":"GBPCHF", "Rate":"1.2581", "Bid":"1.2581", "Ask":"1.2591", "Date":"3/31/2017", "Time":"11:13pm"},
+"GBPCHF":{"Name":"GBP/CHF", "id":"GBPCHF", "Rate":"1.2581", "Bid":"1.2581", "Ask":"1.2591", "Date":"3/31/2017", "Time":"11:14pm"},
 "GBPCAD":{"Name":"GBP/CAD", "id":"GBPCAD", "Rate":"1.6688", "Bid":"1.6688", "Ask":"1.6693", "Date":"3/31/2017", "Time":"11:05pm"},
 "GBPCLP":{"Name":"GBP/CLP", "id":"GBPCLP", "Rate":"828.3500", "Bid":"828.3500", "Ask":"828.6000", "Date":"3/31/2017", "Time":"10:30pm"},
 "GBPCNY":{"Name":"GBP/CNY", "id":"GBPCNY", "Rate":"8.6342", "Bid":"8.6342", "Ask":"8.6367", "Date":"3/31/2017", "Time":"10:45pm"},
