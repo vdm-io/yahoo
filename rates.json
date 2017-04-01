@@ -20585,7 +20585,7 @@
 "DKKPLN":{"Name":"DKK/PLN", "id":"DKKPLN", "Rate":"0.5679", "Bid":"0.5679", "Ask":"0.5689", "Date":"3/31/2017", "Time":"11:15pm"},
 "DKKSEK":{"Name":"DKK/SEK", "id":"DKKSEK", "Rate":"1.2748", "Bid":"1.2748", "Ask":"1.2798", "Date":"3/31/2017", "Time":"10:45pm"},
 "DKKSGD":{"Name":"DKK/SGD", "id":"DKKSGD", "Rate":"0.2003", "Bid":"0.2003", "Ask":"0.2004", "Date":"3/31/2017", "Time":"10:56pm"},
-"DKKTHB":{"Name":"DKK/THB", "id":"DKKTHB", "Rate":"4.8800", "Bid":"4.8800", "Ask":"4.9800", "Date":"3/31/2017", "Time":"10:45pm"},
+"DKKTHB":{"Name":"DKK/THB", "id":"DKKTHB", "Rate":"4.8800", "Bid":"4.8800", "Ask":"4.9800", "Date":"3/31/2017", "Time":"10:46pm"},
 "DKKTRY":{"Name":"DKK/TRY", "id":"DKKTRY", "Rate":"0.5214", "Bid":"0.5214", "Ask":"0.5215", "Date":"3/31/2017", "Time":"11:45pm"},
 "DKKUSD":{"Name":"DKK/USD", "id":"DKKUSD", "Rate":"0.1429", "Bid":"0.1429", "Ask":"0.1439", "Date":"3/31/2017", "Time":"11:13pm"},
 "DKKTWD":{"Name":"DKK/TWD", "id":"DKKTWD", "Rate":"4.3483", "Bid":"4.3483", "Ask":"4.3627", "Date":"3/31/2017", "Time":"10:45pm"},
