@@ -24099,7 +24099,7 @@
 "TWDTRY":{"Name":"TWD/TRY", "id":"TWDTRY", "Rate":"0.1199", "Bid":"0.1199", "Ask":"0.1199", "Date":"3/31/2017", "Time":"11:45pm"},
 "USDAED":{"Name":"USD/AED", "id":"USDAED", "Rate":"3.6723", "Bid":"3.6723", "Ask":"3.6728", "Date":"3/31/2017", "Time":"10:16pm"},
 "USDAFN":{"Name":"USD/AFN", "id":"USDAFN", "Rate":"66.6000", "Bid":"66.6000", "Ask":"66.8000", "Date":"3/31/2017", "Time":"10:16pm"},
-"TWDZAR":{"Name":"TWD/ZAR", "id":"TWDZAR", "Rate":"0.4406", "Bid":"0.4406", "Ask":"0.4416", "Date":"3/31/2017", "Time":"10:45pm"},
+"TWDZAR":{"Name":"TWD/ZAR", "id":"TWDZAR", "Rate":"0.4406", "Bid":"0.4406", "Ask":"0.4416", "Date":"3/31/2017", "Time":"10:46pm"},
 "USDALL":{"Name":"USD/ALL", "id":"USDALL", "Rate":"127.2500", "Bid":"127.2500", "Ask":"127.7500", "Date":"3/31/2017", "Time":"9:05pm"},
 "USDAMD":{"Name":"USD/AMD", "id":"USDAMD", "Rate":"482.9500", "Bid":"482.9500", "Ask":"483.9500", "Date":"3/31/2017", "Time":"1:35pm"},
 "USDARS":{"Name":"USD/ARS", "id":"USDARS", "Rate":"15.3660", "Bid":"15.3660", "Ask":"15.3710", "Date":"3/31/2017", "Time":"10:16pm"},
