@@ -20278,7 +20278,7 @@
 "CNYUSD":{"Name":"CNY/USD", "id":"CNYUSD", "Rate":"0.1452", "Bid":"0.1452", "Ask":"0.1453", "Date":"3/31/2017", "Time":"10:45pm"},
 "CNYTWD":{"Name":"CNY/TWD", "id":"CNYTWD", "Rate":"4.4104", "Bid":"4.4104", "Ask":"4.4114", "Date":"3/31/2017", "Time":"10:45pm"},
 "CZKAED":{"Name":"CZK/AED", "id":"CZKAED", "Rate":"0.1449", "Bid":"0.1449", "Ask":"0.1450", "Date":"3/31/2017", "Time":"10:44pm"},
-"CNYZAR":{"Name":"CNY/ZAR", "id":"CNYZAR", "Rate":"1.9451", "Bid":"1.9451", "Ask":"1.9461", "Date":"3/31/2017", "Time":"10:45pm"},
+"CNYZAR":{"Name":"CNY/ZAR", "id":"CNYZAR", "Rate":"1.9451", "Bid":"1.9451", "Ask":"1.9461", "Date":"3/31/2017", "Time":"10:46pm"},
 "CZKAFN":{"Name":"CZK/AFN", "id":"CZKAFN", "Rate":"2.6286", "Bid":"2.6286", "Ask":"2.6365", "Date":"3/31/2017", "Time":"10:44pm"},
 "CZKALL":{"Name":"CZK/ALL", "id":"CZKALL", "Rate":"5.0223", "Bid":"5.0223", "Ask":"5.0420", "Date":"3/31/2017", "Time":"10:44pm"},
 "CZKAMD":{"Name":"CZK/AMD", "id":"CZKAMD", "Rate":"19.0611", "Bid":"19.0611", "Ask":"19.1005", "Date":"3/31/2017", "Time":"10:44pm"},
