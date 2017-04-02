@@ -22124,7 +22124,7 @@
 "MXNCHF":{"Name":"MXN/CHF", "id":"MXNCHF", "Rate":"0.0533", "Bid":"0.0533", "Ask":"0.0536", "Date":"3/31/2017", "Time":"10:45pm"},
 "MXNCNY":{"Name":"MXN/CNY", "id":"MXNCNY", "Rate":"0.3672", "Bid":"0.3672", "Ask":"0.3672", "Date":"4/1/2017", "Time":"11:39pm"},
 "MXNCLP":{"Name":"MXN/CLP", "id":"MXNCLP", "Rate":"35.1672", "Bid":"35.1672", "Ask":"35.2382", "Date":"4/1/2017", "Time":"11:39pm"},
-"MXNCZK":{"Name":"MXN/CZK", "id":"MXNCZK", "Rate":"1.3504", "Bid":"1.3504", "Ask":"1.3538", "Date":"3/31/2017", "Time":"10:44pm"},
+"MXNCZK":{"Name":"MXN/CZK", "id":"MXNCZK", "Rate":"1.3517", "Bid":"1.3517", "Ask":"1.3551", "Date":"4/1/2017", "Time":"11:39pm"},
 "MXNDKK":{"Name":"MXN/DKK", "id":"MXNDKK", "Rate":"0.3711", "Bid":"0.3711", "Ask":"0.3721", "Date":"3/31/2017", "Time":"10:45pm"},
 "MXNEUR":{"Name":"MXN/EUR", "id":"MXNEUR", "Rate":"0.0494", "Bid":"0.0494", "Ask":"0.0505", "Date":"3/31/2017", "Time":"10:45pm"},
 "MXNGBP":{"Name":"MXN/GBP", "id":"MXNGBP", "Rate":"0.0422", "Bid":"0.0422", "Ask":"0.0427", "Date":"3/31/2017", "Time":"10:45pm"},
