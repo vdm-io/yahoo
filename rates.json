@@ -20562,7 +20562,7 @@
 "DKKBRL":{"Name":"DKK/BRL", "id":"DKKBRL", "Rate":"0.4476", "Bid":"0.4476", "Ask":"0.4478", "Date":"3/31/2017", "Time":"10:45pm"},
 "DKKCAD":{"Name":"DKK/CAD", "id":"DKKCAD", "Rate":"0.1907", "Bid":"0.1907", "Ask":"0.1909", "Date":"3/31/2017", "Time":"11:06pm"},
 "DKKCHF":{"Name":"DKK/CHF", "id":"DKKCHF", "Rate":"0.1434", "Bid":"0.1434", "Ask":"0.1444", "Date":"3/31/2017", "Time":"11:15pm"},
-"DKKCLP":{"Name":"DKK/CLP", "id":"DKKCLP", "Rate":"94.5619", "Bid":"94.5619", "Ask":"94.7527", "Date":"3/31/2017", "Time":"10:45pm"},
+"DKKCLP":{"Name":"DKK/CLP", "id":"DKKCLP", "Rate":"94.5619", "Bid":"94.5619", "Ask":"94.7527", "Date":"4/1/2017", "Time":"11:39pm"},
 "DKKCNY":{"Name":"DKK/CNY", "id":"DKKCNY", "Rate":"0.9874", "Bid":"0.9874", "Ask":"0.9875", "Date":"3/31/2017", "Time":"10:45pm"},
 "DKKCZK":{"Name":"DKK/CZK", "id":"DKKCZK", "Rate":"3.6330", "Bid":"3.6330", "Ask":"3.6430", "Date":"3/31/2017", "Time":"11:14pm"},
 "DKKEUR":{"Name":"DKK/EUR", "id":"DKKEUR", "Rate":"0.1343", "Bid":"0.1343", "Ask":"0.1346", "Date":"3/31/2017", "Time":"11:15pm"},
