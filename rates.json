@@ -22819,7 +22819,7 @@
 "PHPXPF":{"Name":"PHP/XPF", "id":"PHPXPF", "Rate":"2.2517", "Bid":"2.2517", "Ask":"2.2718", "Date":"4/7/2017", "Time":"9:58pm"},
 "PHPYER":{"Name":"PHP/YER", "id":"PHPYER", "Rate":"5.0207", "Bid":"5.0207", "Ask":"5.0227", "Date":"4/7/2017", "Time":"11:02pm"},
 "PHPAUD":{"Name":"PHP/AUD", "id":"PHPAUD", "Rate":"0.0267", "Bid":"0.0267", "Ask":"0.0268", "Date":"4/7/2017", "Time":"11:30pm"},
-"PHPBRL":{"Name":"PHP/BRL", "id":"PHPBRL", "Rate":"0.0632", "Bid":"0.0632", "Ask":"0.0633", "Date":"4/7/2017", "Time":"9:00pm"},
+"PHPBRL":{"Name":"PHP/BRL", "id":"PHPBRL", "Rate":"0.0632", "Bid":"0.0632", "Ask":"0.0632", "Date":"4/7/2017", "Time":"11:02pm"},
 "PHPCAD":{"Name":"PHP/CAD", "id":"PHPCAD", "Rate":"0.0268", "Bid":"0.0268", "Ask":"0.0269", "Date":"4/7/2017", "Time":"11:30pm"},
 "PHPCLP":{"Name":"PHP/CLP", "id":"PHPCLP", "Rate":"13.1736", "Bid":"13.1736", "Ask":"13.1991", "Date":"4/7/2017", "Time":"11:02pm"},
 "PHPCZK":{"Name":"PHP/CZK", "id":"PHPCZK", "Rate":"0.5037", "Bid":"0.5037", "Ask":"0.5043", "Date":"4/7/2017", "Time":"11:02pm"},
