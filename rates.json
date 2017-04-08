@@ -21519,7 +21519,7 @@
 "ILSPKR":{"Name":"ILS/PKR", "id":"ILSPKR", "Rate":"28.6909", "Bid":"28.6909", "Ask":"28.7457", "Date":"4/7/2017", "Time":"11:02pm"},
 "ILSRUB":{"Name":"ILS/RUB", "id":"ILSRUB", "Rate":"15.6924", "Bid":"15.6924", "Ask":"15.7061", "Date":"4/7/2017", "Time":"11:02pm"},
 "ILSPLN":{"Name":"ILS/PLN", "id":"ILSPLN", "Rate":"1.0907", "Bid":"1.0907", "Ask":"1.0917", "Date":"4/7/2017", "Time":"11:30pm"},
-"ILSSEK":{"Name":"ILS/SEK", "id":"ILSSEK", "Rate":"2.4709", "Bid":"2.4709", "Ask":"2.4738", "Date":"4/7/2017", "Time":"10:01pm"},
+"ILSSEK":{"Name":"ILS/SEK", "id":"ILSSEK", "Rate":"2.4827", "Bid":"2.4827", "Ask":"2.4856", "Date":"4/7/2017", "Time":"11:02pm"},
 "ILSSGD":{"Name":"ILS/SGD", "id":"ILSSGD", "Rate":"0.3849", "Bid":"0.3849", "Ask":"0.3855", "Date":"4/7/2017", "Time":"11:45pm"},
 "ILSTHB":{"Name":"ILS/THB", "id":"ILSTHB", "Rate":"9.4832", "Bid":"9.4832", "Ask":"9.4969", "Date":"4/7/2017", "Time":"11:02pm"},
 "ILSTWD":{"Name":"ILS/TWD", "id":"ILSTWD", "Rate":"8.3893", "Bid":"8.3893", "Ask":"8.4167", "Date":"4/7/2017", "Time":"11:02pm"},
