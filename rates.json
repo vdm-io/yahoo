@@ -21675,7 +21675,7 @@
 "INRPLN":{"Name":"INR/PLN", "id":"INRPLN", "Rate":"0.0619", "Bid":"0.0619", "Ask":"0.0620", "Date":"4/7/2017", "Time":"11:30pm"},
 "INRPKR":{"Name":"INR/PKR", "id":"INRPKR", "Rate":"1.6268", "Bid":"1.6268", "Ask":"1.6318", "Date":"4/7/2017", "Time":"11:30pm"},
 "INRRUB":{"Name":"INR/RUB", "id":"INRRUB", "Rate":"0.8904", "Bid":"0.8904", "Ask":"0.8909", "Date":"4/7/2017", "Time":"11:30pm"},
-"INRSEK":{"Name":"INR/SEK", "id":"INRSEK", "Rate":"0.1409", "Bid":"0.1409", "Ask":"0.1411", "Date":"4/7/2017", "Time":"11:03pm"},
+"INRSEK":{"Name":"INR/SEK", "id":"INRSEK", "Rate":"0.1409", "Bid":"0.1409", "Ask":"0.1410", "Date":"4/9/2017", "Time":"6:34am"},
 "INRSGD":{"Name":"INR/SGD", "id":"INRSGD", "Rate":"0.0218", "Bid":"0.0218", "Ask":"0.0219", "Date":"4/7/2017", "Time":"11:30pm"},
 "INRTRY":{"Name":"INR/TRY", "id":"INRTRY", "Rate":"0.0580", "Bid":"0.0580", "Ask":"0.0581", "Date":"4/7/2017", "Time":"11:40pm"},
 "INRTWD":{"Name":"INR/TWD", "id":"INRTWD", "Rate":"0.4762", "Bid":"0.4762", "Ask":"0.4772", "Date":"4/7/2017", "Time":"11:30pm"},
