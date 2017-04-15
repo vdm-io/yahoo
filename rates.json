@@ -20723,7 +20723,7 @@
 "EURCZK":{"Name":"EUR/CZK", "id":"EURCZK", "Rate":"26.6560", "Bid":"26.6560", "Ask":"26.6860", "Date":"4/14/2017", "Time":"10:30pm"},
 "EURDKK":{"Name":"EUR/DKK", "id":"EURDKK", "Rate":"7.4450", "Bid":"7.4450", "Ask":"7.4460", "Date":"4/14/2017", "Time":"10:30pm"},
 "EURGBP":{"Name":"EUR/GBP", "id":"EURGBP", "Rate":"0.8477", "Bid":"0.8477", "Ask":"0.8477", "Date":"4/14/2017", "Time":"10:30pm"},
-"EURHKD":{"Name":"EUR/HKD", "id":"EURHKD", "Rate":"8.2484", "Bid":"8.2484", "Ask":"8.2494", "Date":"4/14/2017", "Time":"10:27pm"},
+"EURHKD":{"Name":"EUR/HKD", "id":"EURHKD", "Rate":"8.2484", "Bid":"8.2484", "Ask":"8.2494", "Date":"4/14/2017", "Time":"10:28pm"},
 "EURHUF":{"Name":"EUR/HUF", "id":"EURHUF", "Rate":"312.8100", "Bid":"312.8100", "Ask":"313.3100", "Date":"4/14/2017", "Time":"10:30pm"},
 "EURIDR":{"Name":"EUR/IDR", "id":"EURIDR", "Rate":"14080.0000", "Bid":"14080.0000", "Ask":"14105.0000", "Date":"4/14/2017", "Time":"7:50pm"},
 "EURILS":{"Name":"EUR/ILS", "id":"EURILS", "Rate":"3.8897", "Bid":"3.8897", "Ask":"3.8922", "Date":"4/14/2017", "Time":"10:20pm"},
