@@ -23152,7 +23152,7 @@
 "PLNNAD":{"Name":"PLN/NAD", "id":"PLNNAD", "Rate":"3.3612", "Bid":"3.3612", "Ask":"3.3619", "Date":"4/14/2017", "Time":"10:32pm"},
 "PLNNZD":{"Name":"PLN/NZD", "id":"PLNNZD", "Rate":"0.3576", "Bid":"0.3576", "Ask":"0.3579", "Date":"4/14/2017", "Time":"10:32pm"},
 "PLNNOK":{"Name":"PLN/NOK", "id":"PLNNOK", "Rate":"2.1470", "Bid":"2.1470", "Ask":"2.1495", "Date":"4/14/2017", "Time":"10:32pm"},
-"PLNPHP":{"Name":"PLN/PHP", "id":"PLNPHP", "Rate":"12.4072", "Bid":"12.4072", "Ask":"12.4197", "Date":"4/14/2017", "Time":"8:30pm"},
+"PLNPHP":{"Name":"PLN/PHP", "id":"PLNPHP", "Rate":"12.4004", "Bid":"12.4004", "Ask":"12.4129", "Date":"4/14/2017", "Time":"10:32pm"},
 "PLNPKR":{"Name":"PLN/PKR", "id":"PLNPKR", "Rate":"26.2445", "Bid":"26.2445", "Ask":"26.2947", "Date":"4/14/2017", "Time":"10:32pm"},
 "PLNRUB":{"Name":"PLN/RUB", "id":"PLNRUB", "Rate":"14.1139", "Bid":"14.1139", "Ask":"14.1239", "Date":"4/14/2017", "Time":"11:00pm"},
 "PLNSEK":{"Name":"PLN/SEK", "id":"PLNSEK", "Rate":"2.2604", "Bid":"2.2604", "Ask":"2.2704", "Date":"4/14/2017", "Time":"9:35pm"},
