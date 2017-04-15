@@ -20894,7 +20894,7 @@
 "GBPPHP":{"Name":"GBP/PHP", "id":"GBPPHP", "Rate":"61.9440", "Bid":"61.9440", "Ask":"61.9690", "Date":"4/14/2017", "Time":"10:25pm"},
 "GBPPKR":{"Name":"GBP/PKR", "id":"GBPPKR", "Rate":"131.2920", "Bid":"131.2920", "Ask":"131.3170", "Date":"4/14/2017", "Time":"8:10pm"},
 "GBPPLN":{"Name":"GBP/PLN", "id":"GBPPLN", "Rate":"4.9852", "Bid":"4.9852", "Ask":"4.9877", "Date":"4/14/2017", "Time":"10:30pm"},
-"GBPSEK":{"Name":"GBP/SEK", "id":"GBPSEK", "Rate":"11.3064", "Bid":"11.3064", "Ask":"11.3164", "Date":"4/14/2017", "Time":"10:17pm"},
+"GBPSEK":{"Name":"GBP/SEK", "id":"GBPSEK", "Rate":"11.3064", "Bid":"11.3064", "Ask":"11.3164", "Date":"4/14/2017", "Time":"10:18pm"},
 "GBPRUB":{"Name":"GBP/RUB", "id":"GBPRUB", "Rate":"70.5210", "Bid":"70.5210", "Ask":"70.5510", "Date":"4/14/2017", "Time":"10:32pm"},
 "GBPSGD":{"Name":"GBP/SGD", "id":"GBPSGD", "Rate":"1.7451", "Bid":"1.7451", "Ask":"1.7547", "Date":"4/14/2017", "Time":"10:30pm"},
 "GBPTRY":{"Name":"GBP/TRY", "id":"GBPTRY", "Rate":"4.6525", "Bid":"4.6525", "Ask":"4.6550", "Date":"4/14/2017", "Time":"10:30pm"},
