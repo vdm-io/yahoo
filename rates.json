@@ -21359,7 +21359,7 @@
 "IDRNAD":{"Name":"IDR/NAD", "id":"IDRNAD", "Rate":"0.0010", "Bid":"0.0010", "Ask":"0.0010", "Date":"4/14/2017", "Time":"10:32pm"},
 "IDRNOK":{"Name":"IDR/NOK", "id":"IDRNOK", "Rate":"0.0006", "Bid":"0.0006", "Ask":"0.0006", "Date":"4/14/2017", "Time":"10:32pm"},
 "IDRNZD":{"Name":"IDR/NZD", "id":"IDRNZD", "Rate":"0.0001", "Bid":"0.0001", "Ask":"0.0001", "Date":"4/14/2017", "Time":"7:50pm"},
-"IDRPHP":{"Name":"IDR/PHP", "id":"IDRPHP", "Rate":"0.0037", "Bid":"0.0037", "Ask":"0.0037", "Date":"4/14/2017", "Time":"10:50pm"},
+"IDRPHP":{"Name":"IDR/PHP", "id":"IDRPHP", "Rate":"0.0037", "Bid":"0.0037", "Ask":"0.0037", "Date":"4/14/2017", "Time":"11:00pm"},
 "IDRPKR":{"Name":"IDR/PKR", "id":"IDRPKR", "Rate":"0.0079", "Bid":"0.0079", "Ask":"0.0079", "Date":"4/14/2017", "Time":"10:32pm"},
 "IDRRUB":{"Name":"IDR/RUB", "id":"IDRRUB", "Rate":"0.0043", "Bid":"0.0043", "Ask":"0.0043", "Date":"4/14/2017", "Time":"10:32pm"},
 "IDRPLN":{"Name":"IDR/PLN", "id":"IDRPLN", "Rate":"0.0003", "Bid":"0.0003", "Ask":"0.0003", "Date":"4/14/2017", "Time":"10:32pm"},
