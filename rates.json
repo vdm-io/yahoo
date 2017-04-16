@@ -21648,7 +21648,7 @@
 "INRXAF":{"Name":"INR/XAF", "id":"INRXAF", "Rate":"9.5813", "Bid":"9.5813", "Ask":"9.5968", "Date":"4/14/2017", "Time":"10:32pm"},
 "INRXOF":{"Name":"INR/XOF", "id":"INRXOF", "Rate":"9.5906", "Bid":"9.5906", "Ask":"9.6216", "Date":"4/14/2017", "Time":"10:32pm"},
 "INRXPF":{"Name":"INR/XPF", "id":"INRXPF", "Rate":"1.7351", "Bid":"1.7351", "Ask":"1.7506", "Date":"4/14/2017", "Time":"10:32pm"},
-"INRCLP":{"Name":"INR/CLP", "id":"INRCLP", "Rate":"10.0684", "Bid":"10.0684", "Ask":"10.0762", "Date":"4/14/2017", "Time":"10:32pm"},
+"INRCLP":{"Name":"INR/CLP", "id":"INRCLP", "Rate":"10.0684", "Bid":"10.0684", "Ask":"10.0762", "Date":"4/15/2017", "Time":"11:39pm"},
 "INRCHF":{"Name":"INR/CHF", "id":"INRCHF", "Rate":"0.0155", "Bid":"0.0155", "Ask":"0.0157", "Date":"4/14/2017", "Time":"10:45pm"},
 "INRXCD":{"Name":"INR/XCD", "id":"INRXCD", "Rate":"0.0419", "Bid":"0.0419", "Ask":"N/A", "Date":"4/15/2017", "Time":"12:00am"},
 "INRAUD":{"Name":"INR/AUD", "id":"INRAUD", "Rate":"0.0204", "Bid":"0.0204", "Ask":"0.0205", "Date":"4/14/2017", "Time":"10:55pm"},
