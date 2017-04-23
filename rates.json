@@ -23458,7 +23458,7 @@
 "SEKINR":{"Name":"SEK/INR", "id":"SEKINR", "Rate":"7.1769", "Bid":"7.1769", "Ask":"7.1819", "Date":"4/21/2017", "Time":"10:10pm"},
 "SEKILS":{"Name":"SEK/ILS", "id":"SEKILS", "Rate":"0.4027", "Bid":"0.4027", "Ask":"0.4127", "Date":"4/21/2017", "Time":"10:25pm"},
 "SEKJPY":{"Name":"SEK/JPY", "id":"SEKJPY", "Rate":"12.0660", "Bid":"12.0660", "Ask":"12.1660", "Date":"4/21/2017", "Time":"10:25pm"},
-"SEKMXN":{"Name":"SEK/MXN", "id":"SEKMXN", "Rate":"2.0860", "Bid":"2.0860", "Ask":"2.0893", "Date":"4/22/2017", "Time":"4:42am"},
+"SEKMXN":{"Name":"SEK/MXN", "id":"SEKMXN", "Rate":"2.0852", "Bid":"2.0852", "Ask":"2.0891", "Date":"4/22/2017", "Time":"11:39pm"},
 "SEKKRW":{"Name":"SEK/KRW", "id":"SEKKRW", "Rate":"125.8300", "Bid":"125.8300", "Ask":"125.9300", "Date":"4/21/2017", "Time":"10:25pm"},
 "SEKMYR":{"Name":"SEK/MYR", "id":"SEKMYR", "Rate":"0.4879", "Bid":"0.4879", "Ask":"0.4885", "Date":"4/22/2017", "Time":"4:42am"},
 "SEKNAD":{"Name":"SEK/NAD", "id":"SEKNAD", "Rate":"1.4548", "Bid":"1.4548", "Ask":"1.4552", "Date":"4/22/2017", "Time":"4:42am"},
