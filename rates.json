@@ -21342,7 +21342,7 @@
 "IDRBRL":{"Name":"IDR/BRL", "id":"IDRBRL", "Rate":"0.0002", "Bid":"0.0002", "Ask":"0.0002", "Date":"4/21/2017", "Time":"11:10pm"},
 "IDRCAD":{"Name":"IDR/CAD", "id":"IDRCAD", "Rate":"0.0001", "Bid":"0.0001", "Ask":"0.0001", "Date":"4/21/2017", "Time":"11:10pm"},
 "IDRCHF":{"Name":"IDR/CHF", "id":"IDRCHF", "Rate":"0.0001", "Bid":"0.0001", "Ask":"0.0001", "Date":"4/21/2017", "Time":"10:10pm"},
-"IDRCLP":{"Name":"IDR/CLP", "id":"IDRCLP", "Rate":"0.0491", "Bid":"0.0491", "Ask":"0.0491", "Date":"4/22/2017", "Time":"4:42am"},
+"IDRCLP":{"Name":"IDR/CLP", "id":"IDRCLP", "Rate":"0.0491", "Bid":"0.0491", "Ask":"0.0491", "Date":"4/22/2017", "Time":"11:39pm"},
 "IDRCZK":{"Name":"IDR/CZK", "id":"IDRCZK", "Rate":"0.0019", "Bid":"0.0019", "Ask":"0.0019", "Date":"4/22/2017", "Time":"4:42am"},
 "IDRCNY":{"Name":"IDR/CNY", "id":"IDRCNY", "Rate":"0.0005", "Bid":"0.0005", "Ask":"0.0005", "Date":"4/21/2017", "Time":"11:10pm"},
 "IDRDKK":{"Name":"IDR/DKK", "id":"IDRDKK", "Rate":"0.0005", "Bid":"0.0005", "Ask":"0.0005", "Date":"4/22/2017", "Time":"4:42am"},
