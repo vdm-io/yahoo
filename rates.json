@@ -22129,7 +22129,7 @@
 "MXNEUR":{"Name":"MXN/EUR", "id":"MXNEUR", "Rate":"0.0490", "Bid":"0.0490", "Ask":"0.0500", "Date":"4/21/2017", "Time":"10:30pm"},
 "MXNGBP":{"Name":"MXN/GBP", "id":"MXNGBP", "Rate":"0.0411", "Bid":"0.0411", "Ask":"0.0417", "Date":"4/21/2017", "Time":"10:25pm"},
 "MXNHKD":{"Name":"MXN/HKD", "id":"MXNHKD", "Rate":"0.4129", "Bid":"0.4129", "Ask":"0.4134", "Date":"4/21/2017", "Time":"11:10pm"},
-"MXNHUF":{"Name":"MXN/HUF", "id":"MXNHUF", "Rate":"15.4936", "Bid":"15.4936", "Ask":"15.5042", "Date":"4/22/2017", "Time":"4:42am"},
+"MXNHUF":{"Name":"MXN/HUF", "id":"MXNHUF", "Rate":"15.4993", "Bid":"15.4993", "Ask":"15.5100", "Date":"4/22/2017", "Time":"11:39pm"},
 "MXNIDR":{"Name":"MXN/IDR", "id":"MXNIDR", "Rate":"708.4863", "Bid":"708.4863", "Ask":"709.0184", "Date":"4/22/2017", "Time":"11:39pm"},
 "MXNILS":{"Name":"MXN/ILS", "id":"MXNILS", "Rate":"0.1951", "Bid":"0.1951", "Ask":"0.1956", "Date":"4/22/2017", "Time":"11:39pm"},
 "MXNJPY":{"Name":"MXN/JPY", "id":"MXNJPY", "Rate":"5.7630", "Bid":"5.7630", "Ask":"5.8130", "Date":"4/21/2017", "Time":"10:25pm"},
