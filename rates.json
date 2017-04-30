@@ -19944,7 +19944,7 @@
 "CHFEUR":{"Name":"CHF/EUR", "id":"CHFEUR", "Rate":"0.9227", "Bid":"0.9227", "Ask":"0.9237", "Date":"4/28/2017", "Time":"10:30pm"},
 "CHFGBP":{"Name":"CHF/GBP", "id":"CHFGBP", "Rate":"0.7762", "Bid":"0.7762", "Ask":"0.7772", "Date":"4/28/2017", "Time":"10:32pm"},
 "CHFHKD":{"Name":"CHF/HKD", "id":"CHFHKD", "Rate":"7.8230", "Bid":"7.8230", "Ask":"7.8240", "Date":"4/28/2017", "Time":"10:30pm"},
-"CHFHUF":{"Name":"CHF/HUF", "id":"CHFHUF", "Rate":"289.4000", "Bid":"289.4000", "Ask":"289.6500", "Date":"4/28/2017", "Time":"10:29pm"},
+"CHFHUF":{"Name":"CHF/HUF", "id":"CHFHUF", "Rate":"289.4000", "Bid":"289.4000", "Ask":"289.6500", "Date":"4/28/2017", "Time":"10:30pm"},
 "CHFIDR":{"Name":"CHF/IDR", "id":"CHFIDR", "Rate":"13395.7998", "Bid":"13395.7998", "Ask":"13398.2998", "Date":"4/28/2017", "Time":"10:00pm"},
 "CHFILS":{"Name":"CHF/ILS", "id":"CHFILS", "Rate":"3.6328", "Bid":"3.6328", "Ask":"3.6353", "Date":"4/28/2017", "Time":"10:30pm"},
 "CHFJPY":{"Name":"CHF/JPY", "id":"CHFJPY", "Rate":"112.1580", "Bid":"112.1580", "Ask":"112.1630", "Date":"4/28/2017", "Time":"10:30pm"},
