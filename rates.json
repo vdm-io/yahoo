@@ -21507,7 +21507,7 @@
 "ILSHKD":{"Name":"ILS/HKD", "id":"ILSHKD", "Rate":"2.1410", "Bid":"2.1410", "Ask":"2.1510", "Date":"4/29/2017", "Time":"12:55am"},
 "ILSHUF":{"Name":"ILS/HUF", "id":"ILSHUF", "Rate":"79.2926", "Bid":"79.2926", "Ask":"79.3479", "Date":"4/29/2017", "Time":"2:17am"},
 "ILSIDR":{"Name":"ILS/IDR", "id":"ILSIDR", "Rate":"3682.5090", "Bid":"3682.5090", "Ask":"3685.2722", "Date":"4/29/2017", "Time":"2:17am"},
-"ILSINR":{"Name":"ILS/INR", "id":"ILSINR", "Rate":"17.7590", "Bid":"17.7590", "Ask":"17.7729", "Date":"4/29/2017", "Time":"2:17am"},
+"ILSINR":{"Name":"ILS/INR", "id":"ILSINR", "Rate":"17.7508", "Bid":"17.7508", "Ask":"17.7535", "Date":"4/30/2017", "Time":"5:27am"},
 "ILSJPY":{"Name":"ILS/JPY", "id":"ILSJPY", "Rate":"30.8380", "Bid":"30.8380", "Ask":"30.8880", "Date":"4/28/2017", "Time":"10:30pm"},
 "ILSKRW":{"Name":"ILS/KRW", "id":"ILSKRW", "Rate":"314.0011", "Bid":"314.0011", "Ask":"314.2774", "Date":"4/29/2017", "Time":"2:17am"},
 "ILSMXN":{"Name":"ILS/MXN", "id":"ILSMXN", "Rate":"5.1973", "Bid":"5.1973", "Ask":"5.2059", "Date":"4/29/2017", "Time":"2:17am"},
