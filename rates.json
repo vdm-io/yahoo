@@ -21670,7 +21670,7 @@
 "INRNZD":{"Name":"INR/NZD", "id":"INRNZD", "Rate":"0.0221", "Bid":"0.0221", "Ask":"0.0231", "Date":"4/28/2017", "Time":"10:00pm"},
 "INRMYR":{"Name":"INR/MYR", "id":"INRMYR", "Rate":"0.0670", "Bid":"0.0670", "Ask":"0.0680", "Date":"4/29/2017", "Time":"12:55am"},
 "INRNOK":{"Name":"INR/NOK", "id":"INRNOK", "Rate":"0.1336", "Bid":"0.1336", "Ask":"0.1337", "Date":"4/30/2017", "Time":"5:27am"},
-"INRNAD":{"Name":"INR/NAD", "id":"INRNAD", "Rate":"0.2075", "Bid":"0.2075", "Ask":"0.2075", "Date":"4/29/2017", "Time":"2:17am"},
+"INRNAD":{"Name":"INR/NAD", "id":"INRNAD", "Rate":"0.2076", "Bid":"0.2076", "Ask":"0.2076", "Date":"4/30/2017", "Time":"5:27am"},
 "INRPHP":{"Name":"INR/PHP", "id":"INRPHP", "Rate":"0.7808", "Bid":"0.7808", "Ask":"0.7818", "Date":"4/29/2017", "Time":"12:55am"},
 "INRPLN":{"Name":"INR/PLN", "id":"INRPLN", "Rate":"0.0603", "Bid":"0.0603", "Ask":"0.0604", "Date":"4/29/2017", "Time":"12:55am"},
 "INRPKR":{"Name":"INR/PKR", "id":"INRPKR", "Rate":"1.6259", "Bid":"1.6259", "Ask":"1.6309", "Date":"4/29/2017", "Time":"12:55am"},
