@@ -23470,7 +23470,7 @@
 "SEKRUB":{"Name":"SEK/RUB", "id":"SEKRUB", "Rate":"6.4356", "Bid":"6.4356", "Ask":"6.4456", "Date":"5/1/2017", "Time":"12:10pm"},
 "SEKSGD":{"Name":"SEK/SGD", "id":"SEKSGD", "Rate":"0.1574", "Bid":"0.1574", "Ask":"0.1584", "Date":"5/1/2017", "Time":"3:55am"},
 "SEKTHB":{"Name":"SEK/THB", "id":"SEKTHB", "Rate":"3.9072", "Bid":"3.9072", "Ask":"3.9129", "Date":"5/1/2017", "Time":"6:01am"},
-"SEKTRY":{"Name":"SEK/TRY", "id":"SEKTRY", "Rate":"0.4014", "Bid":"0.4014", "Ask":"0.4018", "Date":"5/1/2017", "Time":"2:16am"},
+"SEKTRY":{"Name":"SEK/TRY", "id":"SEKTRY", "Rate":"0.4023", "Bid":"0.4023", "Ask":"0.4026", "Date":"5/1/2017", "Time":"6:48pm"},
 "SEKTWD":{"Name":"SEK/TWD", "id":"SEKTWD", "Rate":"3.4218", "Bid":"3.4218", "Ask":"3.4332", "Date":"5/1/2017", "Time":"1:20pm"},
 "SEKZAR":{"Name":"SEK/ZAR", "id":"SEKZAR", "Rate":"1.5041", "Bid":"1.5041", "Ask":"1.5141", "Date":"5/1/2017", "Time":"10:00am"},
 "SGDAED":{"Name":"SGD/AED", "id":"SGDAED", "Rate":"2.6245", "Bid":"2.6245", "Ask":"2.6345", "Date":"5/1/2017", "Time":"12:45pm"},
