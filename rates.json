@@ -20095,7 +20095,7 @@
 "CLPCAD":{"Name":"CLP/CAD", "id":"CLPCAD", "Rate":"0.0020", "Bid":"0.0020", "Ask":"0.0021", "Date":"4/28/2017", "Time":"5:30pm"},
 "CLPCHF":{"Name":"CLP/CHF", "id":"CLPCHF", "Rate":"0.0015", "Bid":"0.0015", "Ask":"0.0015", "Date":"5/5/2017", "Time":"10:01pm"},
 "CLPCNY":{"Name":"CLP/CNY", "id":"CLPCNY", "Rate":"0.0103", "Bid":"0.0103", "Ask":"0.0103", "Date":"5/6/2017", "Time":"2:52am"},
-"CLPCZK":{"Name":"CLP/CZK", "id":"CLPCZK", "Rate":"0.0362", "Bid":"0.0362", "Ask":"0.0362", "Date":"5/6/2017", "Time":"2:52am"},
+"CLPCZK":{"Name":"CLP/CZK", "id":"CLPCZK", "Rate":"0.0362", "Bid":"0.0362", "Ask":"0.0362", "Date":"5/6/2017", "Time":"11:39pm"},
 "CLPDKK":{"Name":"CLP/DKK", "id":"CLPDKK", "Rate":"0.0101", "Bid":"0.0101", "Ask":"0.0101", "Date":"5/5/2017", "Time":"10:00pm"},
 "CLPEUR":{"Name":"CLP/EUR", "id":"CLPEUR", "Rate":"0.0014", "Bid":"0.0014", "Ask":"0.0014", "Date":"5/5/2017", "Time":"10:25pm"},
 "CLPGBP":{"Name":"CLP/GBP", "id":"CLPGBP", "Rate":"0.0011", "Bid":"0.0011", "Ask":"0.0012", "Date":"5/5/2017", "Time":"10:25pm"},
