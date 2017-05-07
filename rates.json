@@ -20269,7 +20269,7 @@
 "CNYNOK":{"Name":"CNY/NOK", "id":"CNYNOK", "Rate":"1.2446", "Bid":"1.2446", "Ask":"1.2459", "Date":"5/6/2017", "Time":"2:52am"},
 "CNYPLN":{"Name":"CNY/PLN", "id":"CNYPLN", "Rate":"0.5544", "Bid":"0.5544", "Ask":"0.5554", "Date":"5/5/2017", "Time":"10:30pm"},
 "CNYRUB":{"Name":"CNY/RUB", "id":"CNYRUB", "Rate":"8.3855", "Bid":"8.3855", "Ask":"8.3955", "Date":"5/5/2017", "Time":"10:30pm"},
-"CNYPKR":{"Name":"CNY/PKR", "id":"CNYPKR", "Rate":"15.1550", "Bid":"15.1550", "Ask":"15.1840", "Date":"5/6/2017", "Time":"2:52am"},
+"CNYPKR":{"Name":"CNY/PKR", "id":"CNYPKR", "Rate":"15.1855", "Bid":"15.1855", "Ask":"15.1999", "Date":"5/7/2017", "Time":"8:04am"},
 "CNYSEK":{"Name":"CNY/SEK", "id":"CNYSEK", "Rate":"1.2741", "Bid":"1.2741", "Ask":"1.2776", "Date":"6/30/2016", "Time":"4:29pm"},
 "CNYPHP":{"Name":"CNY/PHP", "id":"CNYPHP", "Rate":"7.2235", "Bid":"7.2235", "Ask":"7.2245", "Date":"5/5/2017", "Time":"10:30pm"},
 "CNYTHB":{"Name":"CNY/THB", "id":"CNYTHB", "Rate":"5.0230", "Bid":"5.0230", "Ask":"5.0240", "Date":"5/5/2017", "Time":"10:30pm"},
