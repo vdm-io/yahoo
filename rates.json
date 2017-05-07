@@ -19650,7 +19650,7 @@
 "BRLRUB":{"Name":"BRL/RUB", "id":"BRLRUB", "Rate":"18.2160", "Bid":"18.2160", "Ask":"18.2660", "Date":"5/5/2017", "Time":"10:30pm"},
 "BRLTHB":{"Name":"BRL/THB", "id":"BRLTHB", "Rate":"10.9154", "Bid":"10.9154", "Ask":"10.9312", "Date":"5/6/2017", "Time":"11:39pm"},
 "BRLTRY":{"Name":"BRL/TRY", "id":"BRLTRY", "Rate":"1.1162", "Bid":"1.1162", "Ask":"1.1175", "Date":"5/6/2017", "Time":"3:08am"},
-"BRLPKR":{"Name":"BRL/PKR", "id":"BRLPKR", "Rate":"32.9532", "Bid":"32.9532", "Ask":"33.0162", "Date":"5/6/2017", "Time":"3:08am"},
+"BRLPKR":{"Name":"BRL/PKR", "id":"BRLPKR", "Rate":"33.0173", "Bid":"33.0173", "Ask":"33.0488", "Date":"5/7/2017", "Time":"6:15am"},
 "BRLTWD":{"Name":"BRL/TWD", "id":"BRLTWD", "Rate":"9.4920", "Bid":"9.4920", "Ask":"9.5420", "Date":"5/5/2017", "Time":"10:30pm"},
 "BRLUSD":{"Name":"BRL/USD", "id":"BRLUSD", "Rate":"0.3145", "Bid":"0.3145", "Ask":"0.3155", "Date":"5/5/2017", "Time":"10:35pm"},
 "CADAED":{"Name":"CAD/AED", "id":"CADAED", "Rate":"2.6876", "Bid":"2.6876", "Ask":"2.6976", "Date":"5/5/2017", "Time":"11:50pm"},
