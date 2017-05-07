@@ -22994,7 +22994,7 @@
 "PKRMXN":{"Name":"PKR/MXN", "id":"PKRMXN", "Rate":"0.1815", "Bid":"0.1815", "Ask":"0.1818", "Date":"5/6/2017", "Time":"2:52am"},
 "PKRMYR":{"Name":"PKR/MYR", "id":"PKRMYR", "Rate":"0.0414", "Bid":"0.0414", "Ask":"0.0414", "Date":"5/7/2017", "Time":"6:15am"},
 "PKRNOK":{"Name":"PKR/NOK", "id":"PKRNOK", "Rate":"0.0820", "Bid":"0.0820", "Ask":"0.0820", "Date":"5/7/2017", "Time":"6:15am"},
-"PKRNZD":{"Name":"PKR/NZD", "id":"PKRNZD", "Rate":"0.0138", "Bid":"0.0138", "Ask":"0.0138", "Date":"5/7/2017", "Time":"6:15am"},
+"PKRNZD":{"Name":"PKR/NZD", "id":"PKRNZD", "Rate":"0.0138", "Bid":"0.0138", "Ask":"0.0138", "Date":"5/7/2017", "Time":"8:04am"},
 "PKRPLN":{"Name":"PKR/PLN", "id":"PKRPLN", "Rate":"0.0366", "Bid":"0.0366", "Ask":"0.0366", "Date":"5/6/2017", "Time":"2:52am"},
 "PKRPHP":{"Name":"PKR/PHP", "id":"PKRPHP", "Rate":"0.4765", "Bid":"0.4765", "Ask":"0.4770", "Date":"5/6/2017", "Time":"2:52am"},
 "PKRNAD":{"Name":"PKR/NAD", "id":"PKRNAD", "Rate":"0.1294", "Bid":"0.1294", "Ask":"0.1295", "Date":"5/7/2017", "Time":"8:04am"},
