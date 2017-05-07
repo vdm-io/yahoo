@@ -22506,7 +22506,7 @@
 "NOKUZS":{"Name":"NOK/UZS", "id":"NOKUZS", "Rate":"433.0566", "Bid":"433.0566", "Ask":"438.2952", "Date":"5/5/2017", "Time":"9:59pm"},
 "NOKVND":{"Name":"NOK/VND", "id":"NOKVND", "Rate":"2645.9529", "Bid":"2645.9529", "Ask":"2647.1169", "Date":"5/6/2017", "Time":"2:52am"},
 "NOKYER":{"Name":"NOK/YER", "id":"NOKYER", "Rate":"29.0974", "Bid":"29.0974", "Ask":"29.1091", "Date":"5/6/2017", "Time":"2:52am"},
-"NOKCLP":{"Name":"NOK/CLP", "id":"NOKCLP", "Rate":"78.1248", "Bid":"78.1248", "Ask":"78.1830", "Date":"5/5/2017", "Time":"9:59pm"},
+"NOKCLP":{"Name":"NOK/CLP", "id":"NOKCLP", "Rate":"78.1248", "Bid":"78.1248", "Ask":"78.1830", "Date":"5/6/2017", "Time":"11:39pm"},
 "NOKCHF":{"Name":"NOK/CHF", "id":"NOKCHF", "Rate":"0.1127", "Bid":"0.1127", "Ask":"0.1133", "Date":"5/5/2017", "Time":"10:01pm"},
 "NOKAUD":{"Name":"NOK/AUD", "id":"NOKAUD", "Rate":"0.1562", "Bid":"0.1562", "Ask":"0.1572", "Date":"5/6/2017", "Time":"12:05am"},
 "NOKCAD":{"Name":"NOK/CAD", "id":"NOKCAD", "Rate":"0.1577", "Bid":"0.1577", "Ask":"0.1597", "Date":"5/5/2017", "Time":"10:30pm"},
