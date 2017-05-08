@@ -22379,7 +22379,7 @@
 "NADSEK":{"Name":"NAD/SEK", "id":"NADSEK", "Rate":"0.6553", "Bid":"0.6553", "Ask":"0.6555", "Date":"5/8/2017", "Time":"11:00am"},
 "NADTHB":{"Name":"NAD/THB", "id":"NADTHB", "Rate":"2.5696", "Bid":"2.5696", "Ask":"2.5733", "Date":"5/8/2017", "Time":"9:50am"},
 "NADTRY":{"Name":"NAD/TRY", "id":"NADTRY", "Rate":"0.2624", "Bid":"0.2624", "Ask":"0.2625", "Date":"5/8/2017", "Time":"5:00am"},
-"NADTWD":{"Name":"NAD/TWD", "id":"NADTWD", "Rate":"2.2398", "Bid":"2.2398", "Ask":"2.2472", "Date":"5/8/2017", "Time":"8:11am"},
+"NADTWD":{"Name":"NAD/TWD", "id":"NADTWD", "Rate":"2.2328", "Bid":"2.2328", "Ask":"2.2402", "Date":"5/8/2017", "Time":"3:22pm"},
 "NADUSD":{"Name":"NAD/USD", "id":"NADUSD", "Rate":"0.0740", "Bid":"0.0740", "Ask":"0.0750", "Date":"5/7/2017", "Time":"11:00pm"},
 "NADZAR":{"Name":"NAD/ZAR", "id":"NADZAR", "Rate":"1.0029", "Bid":"1.0029", "Ask":"1.0037", "Date":"5/8/2017", "Time":"3:30am"},
 "NOKAED":{"Name":"NOK/AED", "id":"NOKAED", "Rate":"0.4249", "Bid":"0.4249", "Ask":"0.4259", "Date":"5/8/2017", "Time":"1:25pm"},
