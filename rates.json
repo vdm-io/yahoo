@@ -19781,7 +19781,7 @@
 "CADAUD":{"Name":"CAD/AUD", "id":"CADAUD", "Rate":"0.9898", "Bid":"0.9898", "Ask":"0.9908", "Date":"5/10/2017", "Time":"4:34pm"},
 "CADBRL":{"Name":"CAD/BRL", "id":"CADBRL", "Rate":"2.3083", "Bid":"2.3083", "Ask":"2.3108", "Date":"5/10/2017", "Time":"4:35pm"},
 "CADCHF":{"Name":"CAD/CHF", "id":"CADCHF", "Rate":"0.7379", "Bid":"0.7379", "Ask":"0.7382", "Date":"5/10/2017", "Time":"4:34pm"},
-"CADCLP":{"Name":"CAD/CLP", "id":"CADCLP", "Rate":"491.8100", "Bid":"491.8100", "Ask":"492.3100", "Date":"5/10/2017", "Time":"4:45pm"},
+"CADCLP":{"Name":"CAD/CLP", "id":"CADCLP", "Rate":"491.9300", "Bid":"491.9300", "Ask":"492.4300", "Date":"5/10/2017", "Time":"11:25pm"},
 "CADCNY":{"Name":"CAD/CNY", "id":"CADCNY", "Rate":"5.0479", "Bid":"5.0479", "Ask":"5.0489", "Date":"5/10/2017", "Time":"4:30pm"},
 "CADDKK":{"Name":"CAD/DKK", "id":"CADDKK", "Rate":"5.0072", "Bid":"5.0072", "Ask":"5.0088", "Date":"5/10/2017", "Time":"4:35pm"},
 "CADEUR":{"Name":"CAD/EUR", "id":"CADEUR", "Rate":"0.6729", "Bid":"0.6729", "Ask":"0.6734", "Date":"5/10/2017", "Time":"4:30pm"},
