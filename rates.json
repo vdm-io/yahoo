@@ -23763,7 +23763,7 @@
 "THBCZK":{"Name":"THB/CZK", "id":"THBCZK", "Rate":"0.7044", "Bid":"0.7044", "Ask":"0.7045", "Date":"5/11/2017", "Time":"4:53pm"},
 "THBDKK":{"Name":"THB/DKK", "id":"THBDKK", "Rate":"0.1966", "Bid":"0.1966", "Ask":"0.1976", "Date":"5/11/2017", "Time":"4:40pm"},
 "THBGBP":{"Name":"THB/GBP", "id":"THBGBP", "Rate":"0.0223", "Bid":"0.0223", "Ask":"0.0224", "Date":"5/11/2017", "Time":"4:35pm"},
-"THBEUR":{"Name":"THB/EUR", "id":"THBEUR", "Rate":"0.0264", "Bid":"0.0264", "Ask":"0.0266", "Date":"5/11/2017", "Time":"4:30pm"},
+"THBEUR":{"Name":"THB/EUR", "id":"THBEUR", "Rate":"0.0264", "Bid":"0.0264", "Ask":"0.0266", "Date":"5/11/2017", "Time":"7:40pm"},
 "THBHKD":{"Name":"THB/HKD", "id":"THBHKD", "Rate":"0.2228", "Bid":"0.2228", "Ask":"0.2258", "Date":"5/11/2017", "Time":"4:40pm"},
 "THBILS":{"Name":"THB/ILS", "id":"THBILS", "Rate":"0.1039", "Bid":"0.1039", "Ask":"0.1042", "Date":"5/11/2017", "Time":"4:53pm"},
 "THBHUF":{"Name":"THB/HUF", "id":"THBHUF", "Rate":"8.2225", "Bid":"8.2225", "Ask":"8.2283", "Date":"5/11/2017", "Time":"10:35pm"},
