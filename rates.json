@@ -21047,7 +21047,7 @@
 "HKDNAD":{"Name":"HKD/NAD", "id":"HKDNAD", "Rate":"1.7141", "Bid":"1.7141", "Ask":"1.7144", "Date":"5/11/2017", "Time":"4:37pm"},
 "HKDPHP":{"Name":"HKD/PHP", "id":"HKDPHP", "Rate":"6.4029", "Bid":"6.4029", "Ask":"6.4039", "Date":"5/11/2017", "Time":"4:35pm"},
 "HKDNOK":{"Name":"HKD/NOK", "id":"HKDNOK", "Rate":"1.0982", "Bid":"1.0982", "Ask":"1.1082", "Date":"5/11/2017", "Time":"5:25pm"},
-"HKDNZD":{"Name":"HKD/NZD", "id":"HKDNZD", "Rate":"0.1871", "Bid":"0.1871", "Ask":"0.1876", "Date":"5/11/2017", "Time":"4:35pm"},
+"HKDNZD":{"Name":"HKD/NZD", "id":"HKDNZD", "Rate":"0.1873", "Bid":"0.1873", "Ask":"0.1878", "Date":"5/12/2017", "Time":"1:10pm"},
 "HKDPKR":{"Name":"HKD/PKR", "id":"HKDPKR", "Rate":"13.4378", "Bid":"13.4378", "Ask":"13.4428", "Date":"5/11/2017", "Time":"4:55pm"},
 "HKDPLN":{"Name":"HKD/PLN", "id":"HKDPLN", "Rate":"0.4982", "Bid":"0.4982", "Ask":"0.4987", "Date":"5/11/2017", "Time":"4:35pm"},
 "HKDRUB":{"Name":"HKD/RUB", "id":"HKDRUB", "Rate":"7.3316", "Bid":"7.3316", "Ask":"7.3321", "Date":"5/11/2017", "Time":"4:37pm"},
