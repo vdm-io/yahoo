@@ -21969,7 +21969,7 @@
 "KRWCLP":{"Name":"KRW/CLP", "id":"KRWCLP", "Rate":"0.5956", "Bid":"0.5956", "Ask":"0.5959", "Date":"5/11/2017", "Time":"5:10pm"},
 "KRWCNY":{"Name":"KRW/CNY", "id":"KRWCNY", "Rate":"0.0061", "Bid":"0.0061", "Ask":"0.0061", "Date":"5/11/2017", "Time":"4:30pm"},
 "KRWCZK":{"Name":"KRW/CZK", "id":"KRWCZK", "Rate":"0.0217", "Bid":"0.0217", "Ask":"0.0217", "Date":"5/12/2017", "Time":"5:30am"},
-"KRWDKK":{"Name":"KRW/DKK", "id":"KRWDKK", "Rate":"0.0061", "Bid":"0.0061", "Ask":"0.0061", "Date":"5/11/2017", "Time":"4:42pm"},
+"KRWDKK":{"Name":"KRW/DKK", "id":"KRWDKK", "Rate":"0.0061", "Bid":"0.0061", "Ask":"0.0061", "Date":"5/12/2017", "Time":"2:05am"},
 "KRWEUR":{"Name":"KRW/EUR", "id":"KRWEUR", "Rate":"0.0008", "Bid":"0.0008", "Ask":"0.0008", "Date":"5/11/2017", "Time":"4:35pm"},
 "KRWHKD":{"Name":"KRW/HKD", "id":"KRWHKD", "Rate":"0.0069", "Bid":"0.0069", "Ask":"0.0069", "Date":"5/11/2017", "Time":"4:40pm"},
 "KRWHUF":{"Name":"KRW/HUF", "id":"KRWHUF", "Rate":"0.2530", "Bid":"0.2530", "Ask":"0.2532", "Date":"5/11/2017", "Time":"4:48pm"},
