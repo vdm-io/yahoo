@@ -23139,7 +23139,7 @@
 "PLNCNY":{"Name":"PLN/CNY", "id":"PLNCNY", "Rate":"1.7841", "Bid":"1.7841", "Ask":"1.7941", "Date":"5/12/2017", "Time":"10:05pm"},
 "PLNDKK":{"Name":"PLN/DKK", "id":"PLNDKK", "Rate":"1.7611", "Bid":"1.7611", "Ask":"1.7711", "Date":"5/12/2017", "Time":"10:30pm"},
 "PLNEUR":{"Name":"PLN/EUR", "id":"PLNEUR", "Rate":"0.2371", "Bid":"0.2371", "Ask":"0.2376", "Date":"5/12/2017", "Time":"10:30pm"},
-"PLNGBP":{"Name":"PLN/GBP", "id":"PLNGBP", "Rate":"0.2008", "Bid":"0.2008", "Ask":"0.2018", "Date":"5/12/2017", "Time":"5:40pm"},
+"PLNGBP":{"Name":"PLN/GBP", "id":"PLNGBP", "Rate":"0.2008", "Bid":"0.2008", "Ask":"0.2018", "Date":"5/12/2017", "Time":"10:30pm"},
 "PLNHKD":{"Name":"PLN/HKD", "id":"PLNHKD", "Rate":"2.0222", "Bid":"2.0222", "Ask":"2.0225", "Date":"5/13/2017", "Time":"7:55am"},
 "PLNIDR":{"Name":"PLN/IDR", "id":"PLNIDR", "Rate":"3458.2544", "Bid":"3458.2544", "Ask":"3462.1472", "Date":"5/13/2017", "Time":"7:55am"},
 "PLNHUF":{"Name":"PLN/HUF", "id":"PLNHUF", "Rate":"73.4380", "Bid":"73.4380", "Ask":"73.7380", "Date":"5/12/2017", "Time":"9:57pm"},
