@@ -20251,7 +20251,7 @@
 "CNYCAD":{"Name":"CNY/CAD", "id":"CNYCAD", "Rate":"0.1983", "Bid":"0.1983", "Ask":"0.1993", "Date":"5/12/2017", "Time":"8:25pm"},
 "CNYCHF":{"Name":"CNY/CHF", "id":"CNYCHF", "Rate":"0.1445", "Bid":"0.1445", "Ask":"0.1455", "Date":"5/12/2017", "Time":"4:40pm"},
 "CNYCLP":{"Name":"CNY/CLP", "id":"CNYCLP", "Rate":"97.4250", "Bid":"97.4250", "Ask":"97.4467", "Date":"5/12/2017", "Time":"8:23pm"},
-"CNYCZK":{"Name":"CNY/CZK", "id":"CNYCZK", "Rate":"3.5263", "Bid":"3.5263", "Ask":"3.5277", "Date":"5/12/2017", "Time":"5:40pm"},
+"CNYCZK":{"Name":"CNY/CZK", "id":"CNYCZK", "Rate":"3.5184", "Bid":"3.5184", "Ask":"3.5264", "Date":"5/12/2017", "Time":"10:04pm"},
 "CNYDKK":{"Name":"CNY/DKK", "id":"CNYDKK", "Rate":"0.9872", "Bid":"0.9872", "Ask":"0.9873", "Date":"5/12/2017", "Time":"4:38pm"},
 "CNYEUR":{"Name":"CNY/EUR", "id":"CNYEUR", "Rate":"0.1326", "Bid":"0.1326", "Ask":"0.1327", "Date":"5/12/2017", "Time":"4:35pm"},
 "CNYGBP":{"Name":"CNY/GBP", "id":"CNYGBP", "Rate":"0.1125", "Bid":"0.1125", "Ask":"0.1125", "Date":"5/12/2017", "Time":"10:05pm"},
