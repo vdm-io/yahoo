@@ -22842,7 +22842,7 @@
 "PHPNZD":{"Name":"PHP/NZD", "id":"PHPNZD", "Rate":"0.0240", "Bid":"0.0240", "Ask":"0.0340", "Date":"5/12/2017", "Time":"5:30pm"},
 "PHPPKR":{"Name":"PHP/PKR", "id":"PHPPKR", "Rate":"2.1079", "Bid":"2.1079", "Ask":"2.1119", "Date":"5/12/2017", "Time":"4:52pm"},
 "PHPPLN":{"Name":"PHP/PLN", "id":"PHPPLN", "Rate":"0.0777", "Bid":"0.0777", "Ask":"0.0778", "Date":"5/12/2017", "Time":"5:40pm"},
-"PHPRUB":{"Name":"PHP/RUB", "id":"PHPRUB", "Rate":"1.1491", "Bid":"1.1491", "Ask":"1.1493", "Date":"5/12/2017", "Time":"8:35pm"},
+"PHPRUB":{"Name":"PHP/RUB", "id":"PHPRUB", "Rate":"1.1448", "Bid":"1.1448", "Ask":"1.1450", "Date":"5/12/2017", "Time":"10:30pm"},
 "PHPSEK":{"Name":"PHP/SEK", "id":"PHPSEK", "Rate":"0.1778", "Bid":"0.1778", "Ask":"0.1779", "Date":"5/12/2017", "Time":"8:32pm"},
 "PHPSGD":{"Name":"PHP/SGD", "id":"PHPSGD", "Rate":"0.0278", "Bid":"0.0278", "Ask":"0.0288", "Date":"5/12/2017", "Time":"5:30pm"},
 "PHPTHB":{"Name":"PHP/THB", "id":"PHPTHB", "Rate":"0.6967", "Bid":"0.6967", "Ask":"0.6977", "Date":"5/12/2017", "Time":"8:25pm"},
