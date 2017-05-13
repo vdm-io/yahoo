@@ -21348,7 +21348,7 @@
 "IDRDKK":{"Name":"IDR/DKK", "id":"IDRDKK", "Rate":"0.0005", "Bid":"0.0005", "Ask":"0.0005", "Date":"5/12/2017", "Time":"10:04pm"},
 "IDREUR":{"Name":"IDR/EUR", "id":"IDREUR", "Rate":"0.0001", "Bid":"0.0001", "Ask":"0.0001", "Date":"5/12/2017", "Time":"8:30pm"},
 "IDRGBP":{"Name":"IDR/GBP", "id":"IDRGBP", "Rate":"0.0001", "Bid":"0.0001", "Ask":"0.0001", "Date":"5/12/2017", "Time":"5:35pm"},
-"IDRHKD":{"Name":"IDR/HKD", "id":"IDRHKD", "Rate":"0.0006", "Bid":"0.0006", "Ask":"0.0006", "Date":"5/12/2017", "Time":"8:30pm"},
+"IDRHKD":{"Name":"IDR/HKD", "id":"IDRHKD", "Rate":"0.0006", "Bid":"0.0006", "Ask":"0.0006", "Date":"5/12/2017", "Time":"10:15pm"},
 "IDRHUF":{"Name":"IDR/HUF", "id":"IDRHUF", "Rate":"0.0213", "Bid":"0.0213", "Ask":"0.0213", "Date":"5/12/2017", "Time":"5:40pm"},
 "IDRILS":{"Name":"IDR/ILS", "id":"IDRILS", "Rate":"0.0003", "Bid":"0.0003", "Ask":"0.0003", "Date":"5/12/2017", "Time":"5:59pm"},
 "IDRINR":{"Name":"IDR/INR", "id":"IDRINR", "Rate":"0.0048", "Bid":"0.0048", "Ask":"0.0048", "Date":"5/12/2017", "Time":"10:05pm"},
