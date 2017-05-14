@@ -22143,7 +22143,7 @@
 "MXNPKR":{"Name":"MXN/PKR", "id":"MXNPKR", "Rate":"5.5643", "Bid":"5.5643", "Ask":"5.5749", "Date":"5/13/2017", "Time":"11:39pm"},
 "MXNPLN":{"Name":"MXN/PLN", "id":"MXNPLN", "Rate":"0.2048", "Bid":"0.2048", "Ask":"0.2050", "Date":"5/13/2017", "Time":"7:55am"},
 "MXNRUB":{"Name":"MXN/RUB", "id":"MXNRUB", "Rate":"3.0329", "Bid":"3.0329", "Ask":"3.0356", "Date":"5/13/2017", "Time":"11:39pm"},
-"MXNSEK":{"Name":"MXN/SEK", "id":"MXNSEK", "Rate":"0.4687", "Bid":"0.4687", "Ask":"0.4693", "Date":"5/13/2017", "Time":"7:55am"},
+"MXNSEK":{"Name":"MXN/SEK", "id":"MXNSEK", "Rate":"0.4688", "Bid":"0.4688", "Ask":"0.4694", "Date":"5/13/2017", "Time":"11:39pm"},
 "MXNSGD":{"Name":"MXN/SGD", "id":"MXNSGD", "Rate":"0.0744", "Bid":"0.0744", "Ask":"0.0749", "Date":"5/12/2017", "Time":"10:35pm"},
 "MXNTHB":{"Name":"MXN/THB", "id":"MXNTHB", "Rate":"1.8414", "Bid":"1.8414", "Ask":"1.8440", "Date":"5/13/2017", "Time":"7:55am"},
 "MXNTRY":{"Name":"MXN/TRY", "id":"MXNTRY", "Rate":"0.1899", "Bid":"0.1899", "Ask":"0.1901", "Date":"5/13/2017", "Time":"7:55am"},
