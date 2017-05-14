@@ -20406,7 +20406,7 @@
 "CZKCAD":{"Name":"CZK/CAD", "id":"CZKCAD", "Rate":"0.0554", "Bid":"0.0554", "Ask":"0.0555", "Date":"4/28/2017", "Time":"5:30pm"},
 "CZKAUD":{"Name":"CZK/AUD", "id":"CZKAUD", "Rate":"0.0556", "Bid":"0.0556", "Ask":"0.0557", "Date":"5/12/2017", "Time":"10:30pm"},
 "CZKCHF":{"Name":"CZK/CHF", "id":"CZKCHF", "Rate":"0.0412", "Bid":"0.0412", "Ask":"0.0412", "Date":"5/12/2017", "Time":"10:30pm"},
-"CZKCLP":{"Name":"CZK/CLP", "id":"CZKCLP", "Rate":"27.6739", "Bid":"27.6739", "Ask":"27.6821", "Date":"5/13/2017", "Time":"7:55am"},
+"CZKCLP":{"Name":"CZK/CLP", "id":"CZKCLP", "Rate":"27.6739", "Bid":"27.6739", "Ask":"27.6821", "Date":"5/13/2017", "Time":"11:39pm"},
 "CZKCNY":{"Name":"CZK/CNY", "id":"CZKCNY", "Rate":"0.2841", "Bid":"0.2841", "Ask":"0.2841", "Date":"5/13/2017", "Time":"7:55am"},
 "CZKDKK":{"Name":"CZK/DKK", "id":"CZKDKK", "Rate":"0.2800", "Bid":"0.2800", "Ask":"0.2805", "Date":"5/12/2017", "Time":"10:34pm"},
 "CZKEUR":{"Name":"CZK/EUR", "id":"CZKEUR", "Rate":"0.0376", "Bid":"0.0376", "Ask":"0.0377", "Date":"5/12/2017", "Time":"10:30pm"},
