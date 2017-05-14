@@ -20415,7 +20415,7 @@
 "CZKHUF":{"Name":"CZK/HUF", "id":"CZKHUF", "Rate":"11.6908", "Bid":"11.6908", "Ask":"11.6918", "Date":"5/12/2017", "Time":"10:30pm"},
 "CZKIDR":{"Name":"CZK/IDR", "id":"CZKIDR", "Rate":"548.7830", "Bid":"548.7830", "Ask":"549.4008", "Date":"5/13/2017", "Time":"7:55am"},
 "CZKILS":{"Name":"CZK/ILS", "id":"CZKILS", "Rate":"0.1481", "Bid":"0.1481", "Ask":"0.1485", "Date":"5/13/2017", "Time":"7:55am"},
-"CZKINR":{"Name":"CZK/INR", "id":"CZKINR", "Rate":"2.6456", "Bid":"2.6456", "Ask":"2.6476", "Date":"5/13/2017", "Time":"7:55am"},
+"CZKINR":{"Name":"CZK/INR", "id":"CZKINR", "Rate":"2.6486", "Bid":"2.6486", "Ask":"2.6490", "Date":"5/14/2017", "Time":"5:10am"},
 "CZKJPY":{"Name":"CZK/JPY", "id":"CZKJPY", "Rate":"4.6600", "Bid":"4.6600", "Ask":"4.6700", "Date":"5/12/2017", "Time":"10:30pm"},
 "CZKMXN":{"Name":"CZK/MXN", "id":"CZKMXN", "Rate":"0.7746", "Bid":"0.7746", "Ask":"0.7762", "Date":"5/13/2017", "Time":"11:39pm"},
 "CZKKRW":{"Name":"CZK/KRW", "id":"CZKKRW", "Rate":"46.2053", "Bid":"46.2053", "Ask":"46.2464", "Date":"5/13/2017", "Time":"7:55am"},
