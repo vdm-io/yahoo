@@ -23142,7 +23142,7 @@
 "PLNGBP":{"Name":"PLN/GBP", "id":"PLNGBP", "Rate":"0.2008", "Bid":"0.2008", "Ask":"0.2018", "Date":"5/12/2017", "Time":"10:30pm"},
 "PLNHKD":{"Name":"PLN/HKD", "id":"PLNHKD", "Rate":"2.0222", "Bid":"2.0222", "Ask":"2.0225", "Date":"5/13/2017", "Time":"7:55am"},
 "PLNIDR":{"Name":"PLN/IDR", "id":"PLNIDR", "Rate":"3458.2544", "Bid":"3458.2544", "Ask":"3462.1472", "Date":"5/13/2017", "Time":"7:55am"},
-"PLNHUF":{"Name":"PLN/HUF", "id":"PLNHUF", "Rate":"73.4380", "Bid":"73.4380", "Ask":"73.7380", "Date":"5/12/2017", "Time":"9:57pm"},
+"PLNHUF":{"Name":"PLN/HUF", "id":"PLNHUF", "Rate":"73.4080", "Bid":"73.4080", "Ask":"73.5580", "Date":"5/15/2017", "Time":"2:30pm"},
 "PLNILS":{"Name":"PLN/ILS", "id":"PLNILS", "Rate":"0.9348", "Bid":"0.9348", "Ask":"0.9358", "Date":"5/12/2017", "Time":"10:30pm"},
 "PLNINR":{"Name":"PLN/INR", "id":"PLNINR", "Rate":"16.6180", "Bid":"16.6180", "Ask":"16.7180", "Date":"5/12/2017", "Time":"10:05pm"},
 "PLNKRW":{"Name":"PLN/KRW", "id":"PLNKRW", "Rate":"291.4342", "Bid":"291.4342", "Ask":"291.6939", "Date":"5/14/2017", "Time":"11:13pm"},
