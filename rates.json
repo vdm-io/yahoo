@@ -20745,7 +20745,7 @@
 "EURTRY":{"Name":"EUR/TRY", "id":"EURTRY", "Rate":"3.9030", "Bid":"3.9030", "Ask":"3.9056", "Date":"5/12/2017", "Time":"10:30pm"},
 "EURUSD":{"Name":"EUR/USD", "id":"EURUSD", "Rate":"1.0926", "Bid":"1.0926", "Ask":"1.0932", "Date":"5/12/2017", "Time":"10:04pm"},
 "EURTWD":{"Name":"EUR/TWD", "id":"EURTWD", "Rate":"33.0180", "Bid":"33.0180", "Ask":"33.0430", "Date":"5/12/2017", "Time":"10:25pm"},
-"EURZAR":{"Name":"EUR/ZAR", "id":"EURZAR", "Rate":"14.6276", "Bid":"14.6276", "Ask":"14.6376", "Date":"5/12/2017", "Time":"10:34pm"},
+"EURZAR":{"Name":"EUR/ZAR", "id":"EURZAR", "Rate":"14.5754", "Bid":"14.5754", "Ask":"14.5914", "Date":"5/15/2017", "Time":"5:19am"},
 "GBPAED":{"Name":"GBP/AED", "id":"GBPAED", "Rate":"4.7317", "Bid":"4.7317", "Ask":"4.7342", "Date":"5/12/2017", "Time":"10:30pm"},
 "GBPAFN":{"Name":"GBP/AFN", "id":"GBPAFN", "Rate":"87.6200", "Bid":"87.6200", "Ask":"87.6500", "Date":"5/12/2017", "Time":"10:05pm"},
 "GBPALL":{"Name":"GBP/ALL", "id":"GBPALL", "Rate":"159.1300", "Bid":"159.1300", "Ask":"159.3800", "Date":"5/11/2017", "Time":"3:44pm"},
