@@ -19958,7 +19958,7 @@
 "CHFPHP":{"Name":"CHF/PHP", "id":"CHFPHP", "Rate":"50.3670", "Bid":"50.3670", "Ask":"50.3920", "Date":"5/16/2017", "Time":"10:10pm"},
 "CHFPKR":{"Name":"CHF/PKR", "id":"CHFPKR", "Rate":"106.2290", "Bid":"106.2290", "Ask":"106.2540", "Date":"5/16/2017", "Time":"10:10pm"},
 "CHFRUB":{"Name":"CHF/RUB", "id":"CHFRUB", "Rate":"57.1560", "Bid":"57.1560", "Ask":"57.1810", "Date":"5/16/2017", "Time":"6:25pm"},
-"CHFPLN":{"Name":"CHF/PLN", "id":"CHFPLN", "Rate":"3.8225", "Bid":"3.8225", "Ask":"3.8250", "Date":"5/17/2017", "Time":"3:30am"},
+"CHFPLN":{"Name":"CHF/PLN", "id":"CHFPLN", "Rate":"3.8223", "Bid":"3.8223", "Ask":"3.8249", "Date":"5/17/2017", "Time":"6:58am"},
 "CHFSEK":{"Name":"CHF/SEK", "id":"CHFSEK", "Rate":"8.9058", "Bid":"8.9058", "Ask":"8.9158", "Date":"5/16/2017", "Time":"7:00pm"},
 "CHFSGD":{"Name":"CHF/SGD", "id":"CHFSGD", "Rate":"1.4176", "Bid":"1.4176", "Ask":"1.4180", "Date":"5/17/2017", "Time":"3:30am"},
 "CHFTHB":{"Name":"CHF/THB", "id":"CHFTHB", "Rate":"34.9550", "Bid":"34.9550", "Ask":"34.9800", "Date":"5/16/2017", "Time":"10:15pm"},
