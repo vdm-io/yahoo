@@ -19788,7 +19788,7 @@
 "CADGBP":{"Name":"CAD/GBP", "id":"CADGBP", "Rate":"0.5654", "Bid":"0.5654", "Ask":"0.5664", "Date":"5/17/2017", "Time":"11:52am"},
 "CADCZK":{"Name":"CAD/CZK", "id":"CADCZK", "Rate":"17.4700", "Bid":"17.4700", "Ask":"17.4800", "Date":"5/17/2017", "Time":"12:00pm"},
 "CADHKD":{"Name":"CAD/HKD", "id":"CADHKD", "Rate":"5.7180", "Bid":"5.7180", "Ask":"5.7189", "Date":"5/17/2017", "Time":"11:52am"},
-"CADHUF":{"Name":"CAD/HUF", "id":"CADHUF", "Rate":"204.4300", "Bid":"204.4300", "Ask":"204.9300", "Date":"5/17/2017", "Time":"11:55am"},
+"CADHUF":{"Name":"CAD/HUF", "id":"CADHUF", "Rate":"203.3700", "Bid":"203.3700", "Ask":"203.8700", "Date":"5/17/2017", "Time":"5:45pm"},
 "CADIDR":{"Name":"CAD/IDR", "id":"CADIDR", "Rate":"9780.2002", "Bid":"9780.2002", "Ask":"9790.2002", "Date":"5/17/2017", "Time":"11:55am"},
 "CADILS":{"Name":"CAD/ILS", "id":"CADILS", "Rate":"2.6455", "Bid":"2.6455", "Ask":"2.6480", "Date":"5/17/2017", "Time":"12:15pm"},
 "CADINR":{"Name":"CAD/INR", "id":"CADINR", "Rate":"47.0680", "Bid":"47.0680", "Ask":"47.1180", "Date":"5/17/2017", "Time":"11:50am"},
