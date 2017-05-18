@@ -21663,7 +21663,7 @@
 "INREUR":{"Name":"INR/EUR", "id":"INREUR", "Rate":"0.0140", "Bid":"0.0140", "Ask":"0.0140", "Date":"5/17/2017", "Time":"11:50am"},
 "INRGBP":{"Name":"INR/GBP", "id":"INRGBP", "Rate":"0.0120", "Bid":"0.0120", "Ask":"0.0120", "Date":"5/17/2017", "Time":"5:30pm"},
 "INRHUF":{"Name":"INR/HUF", "id":"INRHUF", "Rate":"4.3435", "Bid":"4.3435", "Ask":"4.3466", "Date":"5/17/2017", "Time":"12:15pm"},
-"INRKRW":{"Name":"INR/KRW", "id":"INRKRW", "Rate":"17.4460", "Bid":"17.4460", "Ask":"17.4560", "Date":"5/17/2017", "Time":"11:50am"},
+"INRKRW":{"Name":"INR/KRW", "id":"INRKRW", "Rate":"17.4130", "Bid":"17.4130", "Ask":"17.4230", "Date":"5/17/2017", "Time":"8:00pm"},
 "INRJPY":{"Name":"INR/JPY", "id":"INRJPY", "Rate":"1.7338", "Bid":"1.7338", "Ask":"1.7388", "Date":"5/17/2017", "Time":"3:05pm"},
 "INRIDR":{"Name":"INR/IDR", "id":"INRIDR", "Rate":"207.3000", "Bid":"207.3000", "Ask":"208.3000", "Date":"5/17/2017", "Time":"11:50am"},
 "INRMXN":{"Name":"INR/MXN", "id":"INRMXN", "Rate":"0.2914", "Bid":"0.2914", "Ask":"0.2915", "Date":"5/17/2017", "Time":"11:52am"},
