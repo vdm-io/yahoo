@@ -21976,7 +21976,7 @@
 "KRWIDR":{"Name":"KRW/IDR", "id":"KRWIDR", "Rate":"11.9020", "Bid":"11.9020", "Ask":"11.9120", "Date":"5/17/2017", "Time":"11:50am"},
 "KRWGBP":{"Name":"KRW/GBP", "id":"KRWGBP", "Rate":"0.0007", "Bid":"0.0007", "Ask":"0.0007", "Date":"5/17/2017", "Time":"11:50am"},
 "KRWILS":{"Name":"KRW/ILS", "id":"KRWILS", "Rate":"0.0032", "Bid":"0.0032", "Ask":"0.0032", "Date":"5/17/2017", "Time":"12:06pm"},
-"KRWINR":{"Name":"KRW/INR", "id":"KRWINR", "Rate":"0.0575", "Bid":"0.0575", "Ask":"0.0575", "Date":"5/17/2017", "Time":"7:50pm"},
+"KRWINR":{"Name":"KRW/INR", "id":"KRWINR", "Rate":"0.0573", "Bid":"0.0573", "Ask":"0.0573", "Date":"5/17/2017", "Time":"10:20pm"},
 "KRWJPY":{"Name":"KRW/JPY", "id":"KRWJPY", "Rate":"0.1004", "Bid":"0.1004", "Ask":"0.1005", "Date":"5/17/2017", "Time":"11:50am"},
 "KRWMXN":{"Name":"KRW/MXN", "id":"KRWMXN", "Rate":"0.0169", "Bid":"0.0169", "Ask":"0.0169", "Date":"5/18/2017", "Time":"12:57am"},
 "KRWMYR":{"Name":"KRW/MYR", "id":"KRWMYR", "Rate":"0.0039", "Bid":"0.0039", "Ask":"0.0039", "Date":"5/17/2017", "Time":"11:50am"},
