@@ -20424,7 +20424,7 @@
 "CZKNZD":{"Name":"CZK/NZD", "id":"CZKNZD", "Rate":"0.0611", "Bid":"0.0611", "Ask":"0.0612", "Date":"5/20/2017", "Time":"4:23am"},
 "CZKNAD":{"Name":"CZK/NAD", "id":"CZKNAD", "Rate":"0.5594", "Bid":"0.5594", "Ask":"0.5595", "Date":"5/20/2017", "Time":"4:23am"},
 "CZKPHP":{"Name":"CZK/PHP", "id":"CZKPHP", "Rate":"2.1015", "Bid":"2.1015", "Ask":"2.1036", "Date":"5/20/2017", "Time":"4:23am"},
-"CZKRUB":{"Name":"CZK/RUB", "id":"CZKRUB", "Rate":"2.4113", "Bid":"2.4113", "Ask":"2.4134", "Date":"5/20/2017", "Time":"4:23am"},
+"CZKRUB":{"Name":"CZK/RUB", "id":"CZKRUB", "Rate":"2.4113", "Bid":"2.4113", "Ask":"2.4134", "Date":"5/20/2017", "Time":"1:56pm"},
 "CZKSGD":{"Name":"CZK/SGD", "id":"CZKSGD", "Rate":"0.0586", "Bid":"0.0586", "Ask":"0.0587", "Date":"5/20/2017", "Time":"4:23am"},
 "CZKPLN":{"Name":"CZK/PLN", "id":"CZKPLN", "Rate":"0.1578", "Bid":"0.1578", "Ask":"0.1588", "Date":"5/19/2017", "Time":"11:40pm"},
 "CZKTRY":{"Name":"CZK/TRY", "id":"CZKTRY", "Rate":"0.1515", "Bid":"0.1515", "Ask":"0.1517", "Date":"5/20/2017", "Time":"4:23am"},
