@@ -23138,7 +23138,7 @@
 "PLNCZK":{"Name":"PLN/CZK", "id":"PLNCZK", "Rate":"6.3137", "Bid":"6.3137", "Ask":"6.3187", "Date":"5/19/2017", "Time":"10:55pm"},
 "PLNCNY":{"Name":"PLN/CNY", "id":"PLNCNY", "Rate":"1.8237", "Bid":"1.8237", "Ask":"1.8337", "Date":"5/19/2017", "Time":"12:15pm"},
 "PLNDKK":{"Name":"PLN/DKK", "id":"PLNDKK", "Rate":"1.7668", "Bid":"1.7668", "Ask":"1.7672", "Date":"5/19/2017", "Time":"12:20pm"},
-"PLNEUR":{"Name":"PLN/EUR", "id":"PLNEUR", "Rate":"0.2373", "Bid":"0.2373", "Ask":"0.2378", "Date":"5/19/2017", "Time":"11:55am"},
+"PLNEUR":{"Name":"PLN/EUR", "id":"PLNEUR", "Rate":"0.2382", "Bid":"0.2382", "Ask":"0.2387", "Date":"5/19/2017", "Time":"10:30pm"},
 "PLNGBP":{"Name":"PLN/GBP", "id":"PLNGBP", "Rate":"0.2034", "Bid":"0.2034", "Ask":"0.2044", "Date":"5/19/2017", "Time":"11:50am"},
 "PLNHKD":{"Name":"PLN/HKD", "id":"PLNHKD", "Rate":"2.0635", "Bid":"2.0635", "Ask":"2.0636", "Date":"5/19/2017", "Time":"11:58am"},
 "PLNIDR":{"Name":"PLN/IDR", "id":"PLNIDR", "Rate":"3531.7986", "Bid":"3531.7986", "Ask":"3537.1028", "Date":"5/19/2017", "Time":"12:06pm"},
