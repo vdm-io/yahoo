@@ -23911,7 +23911,7 @@
 "TRYXPF":{"Name":"TRY/XPF", "id":"TRYXPF", "Rate":"29.5906", "Bid":"29.5906", "Ask":"29.8701", "Date":"5/20/2017", "Time":"1:56pm"},
 "TRYYER":{"Name":"TRY/YER", "id":"TRYYER", "Rate":"69.8477", "Bid":"69.8477", "Ask":"69.8756", "Date":"5/20/2017", "Time":"1:56pm"},
 "TRYAUD":{"Name":"TRY/AUD", "id":"TRYAUD", "Rate":"0.3745", "Bid":"0.3745", "Ask":"0.3748", "Date":"5/20/2017", "Time":"4:23am"},
-"TRYBRL":{"Name":"TRY/BRL", "id":"TRYBRL", "Rate":"0.9090", "Bid":"0.9090", "Ask":"0.9095", "Date":"5/20/2017", "Time":"4:23am"},
+"TRYBRL":{"Name":"TRY/BRL", "id":"TRYBRL", "Rate":"0.9090", "Bid":"0.9090", "Ask":"0.9092", "Date":"5/20/2017", "Time":"11:39pm"},
 "TRYCAD":{"Name":"TRY/CAD", "id":"TRYCAD", "Rate":"0.3841", "Bid":"0.3841", "Ask":"0.3851", "Date":"4/28/2017", "Time":"5:30pm"},
 "TRYCHF":{"Name":"TRY/CHF", "id":"TRYCHF", "Rate":"0.2717", "Bid":"0.2717", "Ask":"0.2722", "Date":"5/19/2017", "Time":"11:00pm"},
 "TRYCLP":{"Name":"TRY/CLP", "id":"TRYCLP", "Rate":"186.7822", "Bid":"186.7822", "Ask":"187.1175", "Date":"5/20/2017", "Time":"4:23am"},
