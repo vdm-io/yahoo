@@ -19627,7 +19627,7 @@
 "BRLCHF":{"Name":"BRL/CHF", "id":"BRLCHF", "Rate":"0.2990", "Bid":"0.2990", "Ask":"0.2995", "Date":"5/19/2017", "Time":"11:00pm"},
 "BRLCNY":{"Name":"BRL/CNY", "id":"BRLCNY", "Rate":"2.1130", "Bid":"2.1130", "Ask":"2.1180", "Date":"5/19/2017", "Time":"11:40pm"},
 "BRLCLP":{"Name":"BRL/CLP", "id":"BRLCLP", "Rate":"205.3600", "Bid":"205.3600", "Ask":"205.8600", "Date":"5/19/2017", "Time":"10:25pm"},
-"BRLCZK":{"Name":"BRL/CZK", "id":"BRLCZK", "Rate":"7.2617", "Bid":"7.2617", "Ask":"7.2710", "Date":"5/20/2017", "Time":"4:23am"},
+"BRLCZK":{"Name":"BRL/CZK", "id":"BRLCZK", "Rate":"7.2617", "Bid":"7.2617", "Ask":"7.2710", "Date":"5/20/2017", "Time":"1:56pm"},
 "BRLDKK":{"Name":"BRL/DKK", "id":"BRLDKK", "Rate":"2.0429", "Bid":"2.0429", "Ask":"2.0479", "Date":"5/19/2017", "Time":"11:00pm"},
 "BRLEUR":{"Name":"BRL/EUR", "id":"BRLEUR", "Rate":"0.2740", "Bid":"0.2740", "Ask":"0.2745", "Date":"5/19/2017", "Time":"10:30pm"},
 "BRLGBP":{"Name":"BRL/GBP", "id":"BRLGBP", "Rate":"0.2356", "Bid":"0.2356", "Ask":"0.2361", "Date":"5/19/2017", "Time":"10:30pm"},
