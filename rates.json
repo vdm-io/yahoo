@@ -20740,7 +20740,7 @@
 "EURPLN":{"Name":"EUR/PLN", "id":"EURPLN", "Rate":"4.1921", "Bid":"4.1921", "Ask":"4.1946", "Date":"5/19/2017", "Time":"10:30pm"},
 "EURRUB":{"Name":"EUR/RUB", "id":"EURRUB", "Rate":"63.7590", "Bid":"63.7590", "Ask":"63.9750", "Date":"5/19/2017", "Time":"10:30pm"},
 "EURSEK":{"Name":"EUR/SEK", "id":"EURSEK", "Rate":"9.7670", "Bid":"9.7670", "Ask":"9.7720", "Date":"5/19/2017", "Time":"10:30pm"},
-"EURSGD":{"Name":"EUR/SGD", "id":"EURSGD", "Rate":"1.5516", "Bid":"1.5516", "Ask":"1.5528", "Date":"5/20/2017", "Time":"4:23am"},
+"EURSGD":{"Name":"EUR/SGD", "id":"EURSGD", "Rate":"1.5516", "Bid":"1.5516", "Ask":"1.5528", "Date":"5/20/2017", "Time":"1:56pm"},
 "EURTHB":{"Name":"EUR/THB", "id":"EURTHB", "Rate":"38.4260", "Bid":"38.4260", "Ask":"38.5260", "Date":"5/19/2017", "Time":"10:30pm"},
 "EURTRY":{"Name":"EUR/TRY", "id":"EURTRY", "Rate":"4.0473", "Bid":"4.0473", "Ask":"4.0514", "Date":"5/19/2017", "Time":"10:33pm"},
 "EURUSD":{"Name":"EUR/USD", "id":"EURUSD", "Rate":"1.1204", "Bid":"1.1204", "Ask":"1.1208", "Date":"5/19/2017", "Time":"10:01pm"},
