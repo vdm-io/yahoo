@@ -22849,7 +22849,7 @@
 "PHPTRY":{"Name":"PHP/TRY", "id":"PHPTRY", "Rate":"0.0721", "Bid":"0.0721", "Ask":"0.0722", "Date":"5/20/2017", "Time":"1:56pm"},
 "PHPTWD":{"Name":"PHP/TWD", "id":"PHPTWD", "Rate":"0.6043", "Bid":"0.6043", "Ask":"0.6053", "Date":"5/19/2017", "Time":"11:40pm"},
 "PHPUSD":{"Name":"PHP/USD", "id":"PHPUSD", "Rate":"0.0201", "Bid":"0.0201", "Ask":"0.0202", "Date":"5/19/2017", "Time":"11:40pm"},
-"PHPZAR":{"Name":"PHP/ZAR", "id":"PHPZAR", "Rate":"0.2664", "Bid":"0.2664", "Ask":"0.2666", "Date":"5/20/2017", "Time":"1:56pm"},
+"PHPZAR":{"Name":"PHP/ZAR", "id":"PHPZAR", "Rate":"0.2663", "Bid":"0.2663", "Ask":"0.2665", "Date":"5/21/2017", "Time":"6:04pm"},
 "PKRAFN":{"Name":"PKR/AFN", "id":"PKRAFN", "Rate":"0.6502", "Bid":"0.6502", "Ask":"0.6521", "Date":"5/20/2017", "Time":"1:56pm"},
 "PKRAED":{"Name":"PKR/AED", "id":"PKRAED", "Rate":"0.0346", "Bid":"0.0346", "Ask":"0.0356", "Date":"5/19/2017", "Time":"11:40pm"},
 "PKRALL":{"Name":"PKR/ALL", "id":"PKRALL", "Rate":"1.1449", "Bid":"1.1449", "Ask":"1.1497", "Date":"5/21/2017", "Time":"10:45am"},
