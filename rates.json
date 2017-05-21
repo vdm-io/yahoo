@@ -21503,7 +21503,7 @@
 "ILSEUR":{"Name":"ILS/EUR", "id":"ILSEUR", "Rate":"0.2487", "Bid":"0.2487", "Ask":"0.2497", "Date":"5/19/2017", "Time":"10:30pm"},
 "ILSDKK":{"Name":"ILS/DKK", "id":"ILSDKK", "Rate":"1.8604", "Bid":"1.8604", "Ask":"1.8617", "Date":"5/20/2017", "Time":"1:56pm"},
 "ILSGBP":{"Name":"ILS/GBP", "id":"ILSGBP", "Rate":"0.2138", "Bid":"0.2138", "Ask":"0.2148", "Date":"5/19/2017", "Time":"10:30pm"},
-"ILSCZK":{"Name":"ILS/CZK", "id":"ILSCZK", "Rate":"6.6052", "Bid":"6.6052", "Ask":"6.6136", "Date":"5/20/2017", "Time":"4:23am"},
+"ILSCZK":{"Name":"ILS/CZK", "id":"ILSCZK", "Rate":"6.6052", "Bid":"6.6052", "Ask":"6.6136", "Date":"5/20/2017", "Time":"1:56pm"},
 "ILSHKD":{"Name":"ILS/HKD", "id":"ILSHKD", "Rate":"2.1682", "Bid":"2.1682", "Ask":"2.1782", "Date":"5/19/2017", "Time":"11:40pm"},
 "ILSHUF":{"Name":"ILS/HUF", "id":"ILSHUF", "Rate":"76.9190", "Bid":"76.9190", "Ask":"76.9749", "Date":"5/20/2017", "Time":"4:23am"},
 "ILSIDR":{"Name":"ILS/IDR", "id":"ILSIDR", "Rate":"3726.9651", "Bid":"3726.9651", "Ask":"3731.1594", "Date":"5/20/2017", "Time":"4:23am"},
