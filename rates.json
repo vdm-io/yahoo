@@ -20566,7 +20566,7 @@
 "DKKCNY":{"Name":"DKK/CNY", "id":"DKKCNY", "Rate":"1.0346", "Bid":"1.0346", "Ask":"1.0347", "Date":"5/20/2017", "Time":"1:56pm"},
 "DKKCZK":{"Name":"DKK/CZK", "id":"DKKCZK", "Rate":"3.5460", "Bid":"3.5460", "Ask":"3.5560", "Date":"5/19/2017", "Time":"11:02pm"},
 "DKKEUR":{"Name":"DKK/EUR", "id":"DKKEUR", "Rate":"0.1341", "Bid":"0.1341", "Ask":"0.1344", "Date":"5/19/2017", "Time":"10:30pm"},
-"DKKGBP":{"Name":"DKK/GBP", "id":"DKKGBP", "Rate":"0.1153", "Bid":"0.1153", "Ask":"0.1163", "Date":"5/22/2017", "Time":"2:00am"},
+"DKKGBP":{"Name":"DKK/GBP", "id":"DKKGBP", "Rate":"0.1151", "Bid":"0.1151", "Ask":"0.1161", "Date":"5/22/2017", "Time":"5:20am"},
 "DKKHKD":{"Name":"DKK/HKD", "id":"DKKHKD", "Rate":"1.1668", "Bid":"1.1668", "Ask":"1.1718", "Date":"5/19/2017", "Time":"11:00pm"},
 "DKKHUF":{"Name":"DKK/HUF", "id":"DKKHUF", "Rate":"41.3700", "Bid":"41.3700", "Ask":"41.4700", "Date":"5/22/2017", "Time":"4:16am"},
 "DKKILS":{"Name":"DKK/ILS", "id":"DKKILS", "Rate":"0.5375", "Bid":"0.5375", "Ask":"0.5390", "Date":"5/20/2017", "Time":"1:56pm"},
