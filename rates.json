@@ -21212,7 +21212,7 @@
 "HUFTWD":{"Name":"HUF/TWD", "id":"HUFTWD", "Rate":"0.1090", "Bid":"0.1090", "Ask":"0.1094", "Date":"5/20/2017", "Time":"1:56pm"},
 "HUFTHB":{"Name":"HUF/THB", "id":"HUFTHB", "Rate":"0.1247", "Bid":"0.1247", "Ask":"0.1249", "Date":"5/20/2017", "Time":"1:56pm"},
 "HUFTRY":{"Name":"HUF/TRY", "id":"HUFTRY", "Rate":"0.0130", "Bid":"0.0130", "Ask":"0.0130", "Date":"5/20/2017", "Time":"1:56pm"},
-"HUFUSD":{"Name":"HUF/USD", "id":"HUFUSD", "Rate":"0.0036", "Bid":"0.0036", "Ask":"0.0037", "Date":"5/19/2017", "Time":"11:40pm"},
+"HUFUSD":{"Name":"HUF/USD", "id":"HUFUSD", "Rate":"0.0036", "Bid":"0.0036", "Ask":"0.0037", "Date":"5/22/2017", "Time":"3:30am"},
 "HUFZAR":{"Name":"HUF/ZAR", "id":"HUFZAR", "Rate":"0.0481", "Bid":"0.0481", "Ask":"0.0481", "Date":"5/20/2017", "Time":"1:56pm"},
 "IDRAED":{"Name":"IDR/AED", "id":"IDRAED", "Rate":"0.0003", "Bid":"0.0003", "Ask":"0.0003", "Date":"5/21/2017", "Time":"5:09pm"},
 "IDRAFN":{"Name":"IDR/AFN", "id":"IDRAFN", "Rate":"0.0051", "Bid":"0.0051", "Ask":"0.0051", "Date":"5/20/2017", "Time":"1:56pm"},
