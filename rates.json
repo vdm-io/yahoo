@@ -24081,7 +24081,7 @@
 "TWDHUF":{"Name":"TWD/HUF", "id":"TWDHUF", "Rate":"9.1724", "Bid":"9.1724", "Ask":"9.1790", "Date":"5/21/2017", "Time":"3:39pm"},
 "TWDILS":{"Name":"TWD/ILS", "id":"TWDILS", "Rate":"0.1192", "Bid":"0.1192", "Ask":"0.1196", "Date":"5/20/2017", "Time":"1:56pm"},
 "TWDJPY":{"Name":"TWD/JPY", "id":"TWDJPY", "Rate":"3.6989", "Bid":"3.6989", "Ask":"3.7039", "Date":"5/19/2017", "Time":"10:35pm"},
-"TWDINR":{"Name":"TWD/INR", "id":"TWDINR", "Rate":"2.1495", "Bid":"2.1495", "Ask":"2.1505", "Date":"5/19/2017", "Time":"11:40pm"},
+"TWDINR":{"Name":"TWD/INR", "id":"TWDINR", "Rate":"2.1495", "Bid":"2.1495", "Ask":"2.1505", "Date":"5/21/2017", "Time":"10:40pm"},
 "TWDKRW":{"Name":"TWD/KRW", "id":"TWDKRW", "Rate":"37.1670", "Bid":"37.1670", "Ask":"37.1770", "Date":"5/19/2017", "Time":"11:40pm"},
 "TWDMXN":{"Name":"TWD/MXN", "id":"TWDMXN", "Rate":"0.6235", "Bid":"0.6235", "Ask":"0.6245", "Date":"5/20/2017", "Time":"1:56pm"},
 "TWDNAD":{"Name":"TWD/NAD", "id":"TWDNAD", "Rate":"0.4410", "Bid":"0.4410", "Ask":"0.4411", "Date":"5/20/2017", "Time":"1:56pm"},
