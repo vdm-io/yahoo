@@ -21054,7 +21054,7 @@
 "HKDSEK":{"Name":"HKD/SEK", "id":"HKDSEK", "Rate":"1.1173", "Bid":"1.1173", "Ask":"1.1198", "Date":"5/22/2017", "Time":"12:42pm"},
 "HKDTHB":{"Name":"HKD/THB", "id":"HKDTHB", "Rate":"4.4149", "Bid":"4.4149", "Ask":"4.4179", "Date":"5/22/2017", "Time":"12:00pm"},
 "HKDTRY":{"Name":"HKD/TRY", "id":"HKDTRY", "Rate":"0.4567", "Bid":"0.4567", "Ask":"0.4567", "Date":"5/22/2017", "Time":"12:14pm"},
-"HKDTWD":{"Name":"HKD/TWD", "id":"HKDTWD", "Rate":"3.8645", "Bid":"3.8645", "Ask":"3.8655", "Date":"5/22/2017", "Time":"12:00pm"},
+"HKDTWD":{"Name":"HKD/TWD", "id":"HKDTWD", "Rate":"3.8502", "Bid":"3.8502", "Ask":"3.8512", "Date":"5/22/2017", "Time":"8:00pm"},
 "HKDSGD":{"Name":"HKD/SGD", "id":"HKDSGD", "Rate":"0.1767", "Bid":"0.1767", "Ask":"0.1797", "Date":"5/22/2017", "Time":"11:55am"},
 "HKDUSD":{"Name":"HKD/USD", "id":"HKDUSD", "Rate":"0.1284", "Bid":"0.1284", "Ask":"0.1285", "Date":"5/22/2017", "Time":"11:50am"},
 "HKDZAR":{"Name":"HKD/ZAR", "id":"HKDZAR", "Rate":"1.6904", "Bid":"1.6904", "Ask":"1.6914", "Date":"5/22/2017", "Time":"12:36pm"},
