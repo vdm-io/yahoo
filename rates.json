@@ -23757,7 +23757,7 @@
 "THBBRL":{"Name":"THB/BRL", "id":"THBBRL", "Rate":"0.0946", "Bid":"0.0946", "Ask":"0.0947", "Date":"5/22/2017", "Time":"12:04pm"},
 "THBCAD":{"Name":"THB/CAD", "id":"THBCAD", "Rate":"0.0392", "Bid":"0.0392", "Ask":"0.0393", "Date":"5/22/2017", "Time":"12:20pm"},
 "THBYER":{"Name":"THB/YER", "id":"THBYER", "Rate":"7.2815", "Bid":"7.2815", "Ask":"7.2844", "Date":"5/22/2017", "Time":"5:17pm"},
-"THBCHF":{"Name":"THB/CHF", "id":"THBCHF", "Rate":"0.0270", "Bid":"0.0270", "Ask":"0.0295", "Date":"5/22/2017", "Time":"12:50pm"},
+"THBCHF":{"Name":"THB/CHF", "id":"THBCHF", "Rate":"0.0271", "Bid":"0.0271", "Ask":"0.0296", "Date":"5/22/2017", "Time":"4:20pm"},
 "THBCLP":{"Name":"THB/CLP", "id":"THBCLP", "Rate":"19.4483", "Bid":"19.4483", "Ask":"19.4527", "Date":"5/22/2017", "Time":"1:00pm"},
 "THBCNY":{"Name":"THB/CNY", "id":"THBCNY", "Rate":"0.2000", "Bid":"0.2000", "Ask":"0.2010", "Date":"5/22/2017", "Time":"4:55pm"},
 "THBCZK":{"Name":"THB/CZK", "id":"THBCZK", "Rate":"0.6853", "Bid":"0.6853", "Ask":"0.6870", "Date":"5/22/2017", "Time":"12:57pm"},
