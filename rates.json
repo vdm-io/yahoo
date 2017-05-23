@@ -24248,7 +24248,7 @@
 "USDRUB":{"Name":"USD/RUB", "id":"USDRUB", "Rate":"56.5996", "Bid":"56.5996", "Ask":"56.6071", "Date":"5/22/2017", "Time":"11:50am"},
 "USDPLN":{"Name":"USD/PLN", "id":"USDPLN", "Rate":"3.7310", "Bid":"3.7310", "Ask":"3.7320", "Date":"5/22/2017", "Time":"11:51am"},
 "USDPKR":{"Name":"USD/PKR", "id":"USDPKR", "Rate":"104.8000", "Bid":"104.8000", "Ask":"104.8500", "Date":"5/22/2017", "Time":"11:43am"},
-"USDSEK":{"Name":"USD/SEK", "id":"USDSEK", "Rate":"8.7165", "Bid":"8.7165", "Ask":"8.7202", "Date":"5/22/2017", "Time":"11:50am"},
+"USDSEK":{"Name":"USD/SEK", "id":"USDSEK", "Rate":"8.6813", "Bid":"8.6813", "Ask":"8.6851", "Date":"5/23/2017", "Time":"4:33am"},
 "USDSGD":{"Name":"USD/SGD", "id":"USDSGD", "Rate":"1.3871", "Bid":"1.3871", "Ask":"1.3872", "Date":"5/22/2017", "Time":"11:47am"},
 "ZARAED":{"Name":"ZAR/AED", "id":"ZARAED", "Rate":"0.2786", "Bid":"0.2786", "Ask":"0.2796", "Date":"5/22/2017", "Time":"12:35pm"},
 "USDTRY":{"Name":"USD/TRY", "id":"USDTRY", "Rate":"3.5596", "Bid":"3.5596", "Ask":"3.5599", "Date":"5/22/2017", "Time":"11:52am"},
