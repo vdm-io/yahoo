@@ -22535,7 +22535,7 @@
 "NOKRUB":{"Name":"NOK/RUB", "id":"NOKRUB", "Rate":"6.7421", "Bid":"6.7421", "Ask":"6.7432", "Date":"5/25/2017", "Time":"9:18am"},
 "NOKTRY":{"Name":"NOK/TRY", "id":"NOKTRY", "Rate":"0.4280", "Bid":"0.4280", "Ask":"0.4281", "Date":"5/25/2017", "Time":"9:42am"},
 "NOKSEK":{"Name":"NOK/SEK", "id":"NOKSEK", "Rate":"1.0409", "Bid":"1.0409", "Ask":"1.0417", "Date":"5/25/2017", "Time":"9:12am"},
-"NOKTWD":{"Name":"NOK/TWD", "id":"NOKTWD", "Rate":"3.6208", "Bid":"3.6208", "Ask":"3.6328", "Date":"5/25/2017", "Time":"9:12am"},
+"NOKTWD":{"Name":"NOK/TWD", "id":"NOKTWD", "Rate":"3.6192", "Bid":"3.6192", "Ask":"3.6312", "Date":"5/25/2017", "Time":"9:15am"},
 "NOKUSD":{"Name":"NOK/USD", "id":"NOKUSD", "Rate":"0.1203", "Bid":"0.1203", "Ask":"0.1204", "Date":"5/25/2017", "Time":"9:12am"},
 "NOKZAR":{"Name":"NOK/ZAR", "id":"NOKZAR", "Rate":"1.5474", "Bid":"1.5474", "Ask":"1.5524", "Date":"5/25/2017", "Time":"9:15am"},
 "NZDAED":{"Name":"NZD/AED", "id":"NZDAED", "Rate":"2.5816", "Bid":"2.5816", "Ask":"2.5866", "Date":"5/25/2017", "Time":"9:20am"},
