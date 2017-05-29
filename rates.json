@@ -1047,7 +1047,7 @@
 "ARSTOP":{"Name":"ARS/TOP", "id":"ARSTOP", "Rate":"0.1437", "Bid":"0.1437", "Ask":"0.1440", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSTTD":{"Name":"ARS/TTD", "id":"ARSTTD", "Rate":"0.4199", "Bid":"0.4199", "Ask":"0.4230", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSGBP":{"Name":"ARS/GBP", "id":"ARSGBP", "Rate":"0.0483", "Bid":"0.0483", "Ask":"0.0493", "Date":"5/26/2017", "Time":"10:30pm"},
-"ARSRWF":{"Name":"ARS/RWF", "id":"ARSRWF", "Rate":"51.2238", "Bid":"51.2238", "Ask":"52.1613", "Date":"5/27/2017", "Time":"3:27am"},
+"ARSRWF":{"Name":"ARS/RWF", "id":"ARSRWF", "Rate":"51.2206", "Bid":"51.2206", "Ask":"52.1580", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSSRD":{"Name":"ARS/SRD", "id":"ARSSRD", "Rate":"0.4668", "Bid":"0.4668", "Ask":"0.4700", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSVND":{"Name":"ARS/VND", "id":"ARSVND", "Rate":"1417.0365", "Bid":"1417.0365", "Ask":"1417.6615", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSPGK":{"Name":"ARS/PGK", "id":"ARSPGK", "Rate":"0.2050", "Bid":"0.2050", "Ask":"0.2062", "Date":"5/27/2017", "Time":"11:39pm"},
