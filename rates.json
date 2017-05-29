@@ -1053,7 +1053,7 @@
 "ARSPGK":{"Name":"ARS/PGK", "id":"ARSPGK", "Rate":"0.2050", "Bid":"0.2050", "Ask":"0.2062", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSVEF":{"Name":"ARS/VEF", "id":"ARSVEF", "Rate":"0.6234", "Bid":"0.6234", "Ask":"0.6240", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSXAF":{"Name":"ARS/XAF", "id":"ARSXAF", "Rate":"36.6365", "Bid":"36.6365", "Ask":"36.6990", "Date":"5/27/2017", "Time":"11:39pm"},
-"ARSXOF":{"Name":"ARS/XOF", "id":"ARSXOF", "Rate":"36.4932", "Bid":"36.4932", "Ask":"36.6177", "Date":"5/26/2017", "Time":"10:45am"},
+"ARSXOF":{"Name":"ARS/XOF", "id":"ARSXOF", "Rate":"36.7615", "Bid":"36.7615", "Ask":"36.8864", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSAUD":{"Name":"ARS/AUD", "id":"ARSAUD", "Rate":"0.0838", "Bid":"0.0838", "Ask":"0.0838", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSVUV":{"Name":"ARS/VUV", "id":"ARSVUV", "Rate":"6.8189", "Bid":"6.8189", "Ask":"6.9439", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSCAD":{"Name":"ARS/CAD", "id":"ARSCAD", "Rate":"0.0881", "Bid":"0.0881", "Ask":"0.0891", "Date":"4/28/2017", "Time":"5:30pm"},
