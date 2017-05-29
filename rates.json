@@ -1027,7 +1027,7 @@
 "ARSSBD":{"Name":"ARS/SBD", "id":"ARSSBD", "Rate":"0.4929", "Bid":"0.4929", "Ask":"0.4933", "Date":"5/27/2017", "Time":"3:26am"},
 "ARSUYU":{"Name":"ARS/UYU", "id":"ARSUYU", "Rate":"1.7630", "Bid":"1.7630", "Ask":"1.7693", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSSHP":{"Name":"ARS/SHP", "id":"ARSSHP", "Rate":"0.0488", "Bid":"0.0488", "Ask":"0.0488", "Date":"5/27/2017", "Time":"11:39pm"},
-"ARSSOS":{"Name":"ARS/SOS", "id":"ARSSOS", "Rate":"34.1875", "Bid":"34.1875", "Ask":"39.3125", "Date":"5/27/2017", "Time":"3:26am"},
+"ARSSOS":{"Name":"ARS/SOS", "id":"ARSSOS", "Rate":"34.1854", "Bid":"34.1854", "Ask":"39.3100", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSUZS":{"Name":"ARS/UZS", "id":"ARSUZS", "Rate":"237.4852", "Bid":"237.4852", "Ask":"241.2349", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSTMT":{"Name":"ARS/TMT", "id":"ARSTMT", "Rate":"0.2131", "Bid":"0.2131", "Ask":"0.2256", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSTZS":{"Name":"ARS/TZS", "id":"ARSTZS", "Rate":"139.3038", "Bid":"139.3038", "Ask":"139.7413", "Date":"5/27/2017", "Time":"11:39pm"},
