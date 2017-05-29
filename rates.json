@@ -1038,7 +1038,7 @@
 "ARSUAH":{"Name":"ARS/UAH", "id":"ARSUAH", "Rate":"1.6436", "Bid":"1.6436", "Ask":"1.6593", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSRON":{"Name":"ARS/RON", "id":"ARSRON", "Rate":"0.2541", "Bid":"0.2541", "Ask":"0.2544", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSRSD":{"Name":"ARS/RSD", "id":"ARSRSD", "Rate":"6.8304", "Bid":"6.8304", "Ask":"6.8715", "Date":"5/27/2017", "Time":"11:39pm"},
-"ARSSZL":{"Name":"ARS/SZL", "id":"ARSSZL", "Rate":"0.8041", "Bid":"0.8041", "Ask":"0.8072", "Date":"5/27/2017", "Time":"3:26am"},
+"ARSSZL":{"Name":"ARS/SZL", "id":"ARSSZL", "Rate":"0.8040", "Bid":"0.8040", "Ask":"0.8071", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSWST":{"Name":"ARS/WST", "id":"ARSWST", "Rate":"0.1607", "Bid":"0.1607", "Ask":"0.1610", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSSTD":{"Name":"ARS/STD", "id":"ARSSTD", "Rate":"1369.3019", "Bid":"1369.3019", "Ask":"1372.4268", "Date":"5/27/2017", "Time":"11:39pm"},
 "ARSTJS":{"Name":"ARS/TJS", "id":"ARSTJS", "Rate":"0.5512", "Bid":"0.5512", "Ask":"0.5512", "Date":"5/27/2017", "Time":"11:39pm"},
