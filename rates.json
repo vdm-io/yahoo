@@ -22837,7 +22837,7 @@
 "PHPKRW":{"Name":"PHP/KRW", "id":"PHPKRW", "Rate":"22.4320", "Bid":"22.4320", "Ask":"22.4420", "Date":"5/31/2017", "Time":"9:40am"},
 "PHPMXN":{"Name":"PHP/MXN", "id":"PHPMXN", "Rate":"0.3745", "Bid":"0.3745", "Ask":"0.3746", "Date":"5/31/2017", "Time":"9:32am"},
 "PHPMYR":{"Name":"PHP/MYR", "id":"PHPMYR", "Rate":"0.0855", "Bid":"0.0855", "Ask":"0.0865", "Date":"5/31/2017", "Time":"9:25am"},
-"PHPNOK":{"Name":"PHP/NOK", "id":"PHPNOK", "Rate":"0.1695", "Bid":"0.1695", "Ask":"0.1696", "Date":"5/31/2017", "Time":"9:42am"},
+"PHPNOK":{"Name":"PHP/NOK", "id":"PHPNOK", "Rate":"0.1695", "Bid":"0.1695", "Ask":"0.1695", "Date":"5/31/2017", "Time":"9:57am"},
 "PHPNAD":{"Name":"PHP/NAD", "id":"PHPNAD", "Rate":"0.2643", "Bid":"0.2643", "Ask":"0.2644", "Date":"5/31/2017", "Time":"4:47pm"},
 "PHPNZD":{"Name":"PHP/NZD", "id":"PHPNZD", "Rate":"0.0230", "Bid":"0.0230", "Ask":"0.0330", "Date":"5/31/2017", "Time":"9:30am"},
 "PHPPKR":{"Name":"PHP/PKR", "id":"PHPPKR", "Rate":"2.1033", "Bid":"2.1033", "Ask":"2.1045", "Date":"5/31/2017", "Time":"9:46am"},
