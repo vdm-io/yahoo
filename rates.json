@@ -22525,7 +22525,7 @@
 "NOKKRW":{"Name":"NOK/KRW", "id":"NOKKRW", "Rate":"132.7289", "Bid":"132.7289", "Ask":"132.8473", "Date":"6/1/2017", "Time":"4:50pm"},
 "NOKMXN":{"Name":"NOK/MXN", "id":"NOKMXN", "Rate":"2.2015", "Bid":"2.2015", "Ask":"2.2019", "Date":"6/1/2017", "Time":"4:37pm"},
 "NOKNAD":{"Name":"NOK/NAD", "id":"NOKNAD", "Rate":"1.5360", "Bid":"1.5360", "Ask":"1.5364", "Date":"6/1/2017", "Time":"4:50pm"},
-"NOKMYR":{"Name":"NOK/MYR", "id":"NOKMYR", "Rate":"0.5072", "Bid":"0.5072", "Ask":"0.5078", "Date":"6/1/2017", "Time":"3:01pm"},
+"NOKMYR":{"Name":"NOK/MYR", "id":"NOKMYR", "Rate":"0.5076", "Bid":"0.5076", "Ask":"0.5082", "Date":"6/1/2017", "Time":"4:38pm"},
 "NOKPHP":{"Name":"NOK/PHP", "id":"NOKPHP", "Rate":"5.8920", "Bid":"5.8920", "Ask":"5.8980", "Date":"6/1/2017", "Time":"4:38pm"},
 "NOKSGD":{"Name":"NOK/SGD", "id":"NOKSGD", "Rate":"0.1640", "Bid":"0.1640", "Ask":"0.1645", "Date":"6/1/2017", "Time":"4:35pm"},
 "NOKPKR":{"Name":"NOK/PKR", "id":"NOKPKR", "Rate":"12.4110", "Bid":"12.4110", "Ask":"12.4160", "Date":"6/1/2017", "Time":"4:50pm"},
