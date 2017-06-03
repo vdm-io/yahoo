@@ -22515,7 +22515,7 @@
 "NOKCNY":{"Name":"NOK/CNY", "id":"NOKCNY", "Rate":"0.8084", "Bid":"0.8084", "Ask":"0.8085", "Date":"6/2/2017", "Time":"5:17pm"},
 "NOKGBP":{"Name":"NOK/GBP", "id":"NOKGBP", "Rate":"0.0921", "Bid":"0.0921", "Ask":"0.0922", "Date":"6/2/2017", "Time":"5:15pm"},
 "NOKCZK":{"Name":"NOK/CZK", "id":"NOKCZK", "Rate":"2.7730", "Bid":"2.7730", "Ask":"2.7780", "Date":"6/2/2017", "Time":"5:15pm"},
-"NOKHUF":{"Name":"NOK/HUF", "id":"NOKHUF", "Rate":"32.3693", "Bid":"32.3693", "Ask":"32.3870", "Date":"6/2/2017", "Time":"3:40pm"},
+"NOKHUF":{"Name":"NOK/HUF", "id":"NOKHUF", "Rate":"32.3891", "Bid":"32.3891", "Ask":"32.4128", "Date":"6/2/2017", "Time":"5:18pm"},
 "NOKHKD":{"Name":"NOK/HKD", "id":"NOKHKD", "Rate":"0.9223", "Bid":"0.9223", "Ask":"0.9273", "Date":"6/2/2017", "Time":"5:30pm"},
 "NOKIDR":{"Name":"NOK/IDR", "id":"NOKIDR", "Rate":"1578.0605", "Bid":"1578.0605", "Ask":"1579.8402", "Date":"6/2/2017", "Time":"4:48pm"},
 "NOKINR":{"Name":"NOK/INR", "id":"NOKINR", "Rate":"7.6481", "Bid":"7.6481", "Ask":"7.6493", "Date":"6/2/2017", "Time":"5:18pm"},
