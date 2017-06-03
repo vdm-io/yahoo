@@ -24238,7 +24238,7 @@
 "USDILS":{"Name":"USD/ILS", "id":"USDILS", "Rate":"3.5588", "Bid":"3.5588", "Ask":"3.5628", "Date":"6/2/2017", "Time":"12:31pm"},
 "USDJPY":{"Name":"USD/JPY", "id":"USDJPY", "Rate":"110.4800", "Bid":"110.4800", "Ask":"110.5200", "Date":"6/2/2017", "Time":"5:12pm"},
 "USDINR":{"Name":"USD/INR", "id":"USDINR", "Rate":"64.4140", "Bid":"64.4140", "Ask":"64.4640", "Date":"6/2/2017", "Time":"1:32pm"},
-"USDKRW":{"Name":"USD/KRW", "id":"USDKRW", "Rate":"1121.0601", "Bid":"1121.0601", "Ask":"1122.0601", "Date":"6/2/2017", "Time":"9:41am"},
+"USDKRW":{"Name":"USD/KRW", "id":"USDKRW", "Rate":"1116.8900", "Bid":"1116.8900", "Ask":"1117.8900", "Date":"6/2/2017", "Time":"9:58pm"},
 "USDMYR":{"Name":"USD/MYR", "id":"USDMYR", "Rate":"4.2790", "Bid":"4.2790", "Ask":"4.2840", "Date":"6/2/2017", "Time":"4:43pm"},
 "USDNOK":{"Name":"USD/NOK", "id":"USDNOK", "Rate":"8.4253", "Bid":"8.4253", "Ask":"8.4269", "Date":"6/2/2017", "Time":"2:59pm"},
 "USDNAD":{"Name":"USD/NAD", "id":"USDNAD", "Rate":"12.8000", "Bid":"12.8000", "Ask":"12.8030", "Date":"6/2/2017", "Time":"4:43pm"},
