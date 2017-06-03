@@ -24233,7 +24233,7 @@
 "USDHKD":{"Name":"USD/HKD", "id":"USDHKD", "Rate":"7.7933", "Bid":"7.7933", "Ask":"7.7935", "Date":"6/2/2017", "Time":"12:32pm"},
 "USDEUR":{"Name":"USD/EUR", "id":"USDEUR", "Rate":"0.8864", "Bid":"0.8864", "Ask":"0.8869", "Date":"6/2/2017", "Time":"10:29pm"},
 "USDHUF":{"Name":"USD/HUF", "id":"USDHUF", "Rate":"273.4400", "Bid":"273.4400", "Ask":"273.8900", "Date":"6/2/2017", "Time":"10:01pm"},
-"USDGBP":{"Name":"USD/GBP", "id":"USDGBP", "Rate":"0.7772", "Bid":"0.7772", "Ask":"0.7772", "Date":"6/2/2017", "Time":"2:58pm"},
+"USDGBP":{"Name":"USD/GBP", "id":"USDGBP", "Rate":"0.7758", "Bid":"0.7758", "Ask":"0.7759", "Date":"6/2/2017", "Time":"10:30pm"},
 "USDIDR":{"Name":"USD/IDR", "id":"USDIDR", "Rate":"13301.0000", "Bid":"13301.0000", "Ask":"13316.0000", "Date":"6/2/2017", "Time":"4:43pm"},
 "USDILS":{"Name":"USD/ILS", "id":"USDILS", "Rate":"3.5579", "Bid":"3.5579", "Ask":"3.5619", "Date":"6/2/2017", "Time":"10:00pm"},
 "USDJPY":{"Name":"USD/JPY", "id":"USDJPY", "Rate":"110.3570", "Bid":"110.3570", "Ask":"110.4490", "Date":"6/2/2017", "Time":"10:00pm"},
