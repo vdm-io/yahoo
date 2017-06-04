@@ -20099,7 +20099,7 @@
 "CLPDKK":{"Name":"CLP/DKK", "id":"CLPDKK", "Rate":"0.0098", "Bid":"0.0098", "Ask":"0.0098", "Date":"6/2/2017", "Time":"10:30pm"},
 "CLPEUR":{"Name":"CLP/EUR", "id":"CLPEUR", "Rate":"0.0013", "Bid":"0.0013", "Ask":"0.0013", "Date":"6/2/2017", "Time":"10:25pm"},
 "CLPGBP":{"Name":"CLP/GBP", "id":"CLPGBP", "Rate":"0.0012", "Bid":"0.0012", "Ask":"0.0012", "Date":"6/2/2017", "Time":"10:25pm"},
-"CLPHKD":{"Name":"CLP/HKD", "id":"CLPHKD", "Rate":"0.0116", "Bid":"0.0116", "Ask":"0.0116", "Date":"6/2/2017", "Time":"10:01pm"},
+"CLPHKD":{"Name":"CLP/HKD", "id":"CLPHKD", "Rate":"0.0116", "Bid":"0.0116", "Ask":"0.0116", "Date":"6/3/2017", "Time":"11:40pm"},
 "CLPHUF":{"Name":"CLP/HUF", "id":"CLPHUF", "Rate":"0.4083", "Bid":"0.4083", "Ask":"0.4090", "Date":"6/2/2017", "Time":"10:01pm"},
 "CLPKRW":{"Name":"CLP/KRW", "id":"CLPKRW", "Rate":"1.6679", "Bid":"1.6679", "Ask":"1.6694", "Date":"6/2/2017", "Time":"9:58pm"},
 "CLPIDR":{"Name":"CLP/IDR", "id":"CLPIDR", "Rate":"19.8632", "Bid":"19.8632", "Ask":"19.8856", "Date":"6/2/2017", "Time":"9:58pm"},
