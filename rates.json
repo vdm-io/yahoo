@@ -24242,7 +24242,7 @@
 "USDMYR":{"Name":"USD/MYR", "id":"USDMYR", "Rate":"4.2650", "Bid":"4.2650", "Ask":"4.2700", "Date":"6/6/2017", "Time":"5:59pm"},
 "USDNOK":{"Name":"USD/NOK", "id":"USDNOK", "Rate":"8.4644", "Bid":"8.4644", "Ask":"8.4684", "Date":"6/6/2017", "Time":"2:53pm"},
 "USDNAD":{"Name":"USD/NAD", "id":"USDNAD", "Rate":"12.7900", "Bid":"12.7900", "Ask":"12.7930", "Date":"6/6/2017", "Time":"5:59pm"},
-"USDMXN":{"Name":"USD/MXN", "id":"USDMXN", "Rate":"18.4247", "Bid":"18.4247", "Ask":"18.4252", "Date":"6/6/2017", "Time":"12:27pm"},
+"USDMXN":{"Name":"USD/MXN", "id":"USDMXN", "Rate":"18.2676", "Bid":"18.2676", "Ask":"18.2703", "Date":"6/7/2017", "Time":"9:36am"},
 "USDNZD":{"Name":"USD/NZD", "id":"USDNZD", "Rate":"1.3892", "Bid":"1.3892", "Ask":"1.3902", "Date":"6/7/2017", "Time":"9:38am"},
 "USDPHP":{"Name":"USD/PHP", "id":"USDPHP", "Rate":"49.4900", "Bid":"49.4900", "Ask":"49.5400", "Date":"6/7/2017", "Time":"9:47am"},
 "USDRUB":{"Name":"USD/RUB", "id":"USDRUB", "Rate":"56.7055", "Bid":"56.7055", "Ask":"56.7142", "Date":"6/6/2017", "Time":"12:23pm"},
