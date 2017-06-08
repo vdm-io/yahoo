@@ -21202,7 +21202,7 @@
 "HUFNAD":{"Name":"HUF/NAD", "id":"HUFNAD", "Rate":"0.0470", "Bid":"0.0470", "Ask":"0.0470", "Date":"6/7/2017", "Time":"6:49pm"},
 "HUFPLN":{"Name":"HUF/PLN", "id":"HUFPLN", "Rate":"0.0137", "Bid":"0.0137", "Ask":"0.0137", "Date":"6/7/2017", "Time":"6:49pm"},
 "HUFNZD":{"Name":"HUF/NZD", "id":"HUFNZD", "Rate":"0.0051", "Bid":"0.0051", "Ask":"0.0051", "Date":"6/7/2017", "Time":"6:32pm"},
-"HUFMYR":{"Name":"HUF/MYR", "id":"HUFMYR", "Rate":"0.0156", "Bid":"0.0156", "Ask":"0.0156", "Date":"6/7/2017", "Time":"4:34pm"},
+"HUFMYR":{"Name":"HUF/MYR", "id":"HUFMYR", "Rate":"0.0156", "Bid":"0.0156", "Ask":"0.0156", "Date":"6/7/2017", "Time":"6:33pm"},
 "HUFNOK":{"Name":"HUF/NOK", "id":"HUFNOK", "Rate":"0.0309", "Bid":"0.0309", "Ask":"0.0309", "Date":"6/7/2017", "Time":"5:15pm"},
 "HUFPKR":{"Name":"HUF/PKR", "id":"HUFPKR", "Rate":"0.3825", "Bid":"0.3825", "Ask":"0.3833", "Date":"6/7/2017", "Time":"6:49pm"},
 "HUFRUB":{"Name":"HUF/RUB", "id":"HUFRUB", "Rate":"0.2085", "Bid":"0.2085", "Ask":"0.2087", "Date":"6/7/2017", "Time":"7:15pm"},
