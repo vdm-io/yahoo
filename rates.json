@@ -24231,7 +24231,7 @@
 "USDCNY":{"Name":"USD/CNY", "id":"USDCNY", "Rate":"6.7934", "Bid":"6.7934", "Ask":"6.7944", "Date":"6/8/2017", "Time":"9:37am"},
 "USDDKK":{"Name":"USD/DKK", "id":"USDDKK", "Rate":"6.6117", "Bid":"6.6117", "Ask":"6.6122", "Date":"6/8/2017", "Time":"9:39am"},
 "USDHKD":{"Name":"USD/HKD", "id":"USDHKD", "Rate":"7.7961", "Bid":"7.7961", "Ask":"7.7965", "Date":"6/8/2017", "Time":"9:31am"},
-"USDEUR":{"Name":"USD/EUR", "id":"USDEUR", "Rate":"0.8918", "Bid":"0.8918", "Ask":"0.8923", "Date":"6/7/2017", "Time":"12:25pm"},
+"USDEUR":{"Name":"USD/EUR", "id":"USDEUR", "Rate":"0.8887", "Bid":"0.8887", "Ask":"0.8892", "Date":"6/8/2017", "Time":"9:35am"},
 "USDHUF":{"Name":"USD/HUF", "id":"USDHUF", "Rate":"273.9400", "Bid":"273.9400", "Ask":"274.2200", "Date":"6/8/2017", "Time":"9:34am"},
 "USDGBP":{"Name":"USD/GBP", "id":"USDGBP", "Rate":"0.7724", "Bid":"0.7724", "Ask":"0.7725", "Date":"6/7/2017", "Time":"2:55pm"},
 "USDIDR":{"Name":"USD/IDR", "id":"USDIDR", "Rate":"13311.0000", "Bid":"13311.0000", "Ask":"13330.0000", "Date":"6/7/2017", "Time":"5:07pm"},
