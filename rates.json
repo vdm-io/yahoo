@@ -19951,7 +19951,7 @@
 "CHFINR":{"Name":"CHF/INR", "id":"CHFINR", "Rate":"66.2830", "Bid":"66.2830", "Ask":"66.3080", "Date":"6/9/2017", "Time":"10:30pm"},
 "CHFKRW":{"Name":"CHF/KRW", "id":"CHFKRW", "Rate":"1159.7000", "Bid":"1159.7000", "Ask":"1159.9500", "Date":"6/9/2017", "Time":"10:30pm"},
 "CHFMXN":{"Name":"CHF/MXN", "id":"CHFMXN", "Rate":"18.7131", "Bid":"18.7131", "Ask":"18.7156", "Date":"6/9/2017", "Time":"10:30pm"},
-"CHFMYR":{"Name":"CHF/MYR", "id":"CHFMYR", "Rate":"4.3996", "Bid":"4.3996", "Ask":"4.4021", "Date":"6/9/2017", "Time":"10:29pm"},
+"CHFMYR":{"Name":"CHF/MYR", "id":"CHFMYR", "Rate":"4.3996", "Bid":"4.3996", "Ask":"4.4021", "Date":"6/9/2017", "Time":"10:30pm"},
 "CHFNAD":{"Name":"CHF/NAD", "id":"CHFNAD", "Rate":"13.2972", "Bid":"13.2972", "Ask":"13.2997", "Date":"6/9/2017", "Time":"10:30pm"},
 "CHFNOK":{"Name":"CHF/NOK", "id":"CHFNOK", "Rate":"8.7595", "Bid":"8.7595", "Ask":"8.7605", "Date":"6/9/2017", "Time":"10:32pm"},
 "CHFNZD":{"Name":"CHF/NZD", "id":"CHFNZD", "Rate":"1.4298", "Bid":"1.4298", "Ask":"1.4308", "Date":"6/9/2017", "Time":"10:30pm"},
