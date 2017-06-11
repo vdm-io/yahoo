@@ -20885,7 +20885,7 @@
 "GBPINR":{"Name":"GBP/INR", "id":"GBPINR", "Rate":"81.8410", "Bid":"81.8410", "Ask":"81.9410", "Date":"6/9/2017", "Time":"10:30pm"},
 "GBPJPY":{"Name":"GBP/JPY", "id":"GBPJPY", "Rate":"140.5800", "Bid":"140.5800", "Ask":"140.5900", "Date":"6/9/2017", "Time":"11:00pm"},
 "GBPILS":{"Name":"GBP/ILS", "id":"GBPILS", "Rate":"4.4976", "Bid":"4.4976", "Ask":"4.5001", "Date":"6/9/2017", "Time":"10:29pm"},
-"GBPMYR":{"Name":"GBP/MYR", "id":"GBPMYR", "Rate":"5.4349", "Bid":"5.4349", "Ask":"5.4374", "Date":"6/9/2017", "Time":"10:29pm"},
+"GBPMYR":{"Name":"GBP/MYR", "id":"GBPMYR", "Rate":"5.4349", "Bid":"5.4349", "Ask":"5.4374", "Date":"6/9/2017", "Time":"10:30pm"},
 "GBPNAD":{"Name":"GBP/NAD", "id":"GBPNAD", "Rate":"16.3770", "Bid":"16.3770", "Ask":"16.4770", "Date":"6/9/2017", "Time":"10:30pm"},
 "GBPMXN":{"Name":"GBP/MXN", "id":"GBPMXN", "Rate":"23.1155", "Bid":"23.1155", "Ask":"23.1180", "Date":"6/9/2017", "Time":"10:30pm"},
 "GBPKRW":{"Name":"GBP/KRW", "id":"GBPKRW", "Rate":"1430.1700", "Bid":"1430.1700", "Ask":"1435.1700", "Date":"6/9/2017", "Time":"10:30pm"},
