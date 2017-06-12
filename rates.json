@@ -24246,7 +24246,7 @@
 "USDNZD":{"Name":"USD/NZD", "id":"USDNZD", "Rate":"1.3900", "Bid":"1.3900", "Ask":"1.3910", "Date":"6/12/2017", "Time":"9:34am"},
 "USDPHP":{"Name":"USD/PHP", "id":"USDPHP", "Rate":"49.5200", "Bid":"49.5200", "Ask":"49.5700", "Date":"6/9/2017", "Time":"10:43pm"},
 "USDRUB":{"Name":"USD/RUB", "id":"USDRUB", "Rate":"57.0160", "Bid":"57.0160", "Ask":"57.0660", "Date":"6/9/2017", "Time":"10:43pm"},
-"USDPLN":{"Name":"USD/PLN", "id":"USDPLN", "Rate":"3.7376", "Bid":"3.7376", "Ask":"3.7416", "Date":"6/9/2017", "Time":"10:43pm"},
+"USDPLN":{"Name":"USD/PLN", "id":"USDPLN", "Rate":"3.7363", "Bid":"3.7363", "Ask":"3.7370", "Date":"6/12/2017", "Time":"9:30am"},
 "USDPKR":{"Name":"USD/PKR", "id":"USDPKR", "Rate":"104.6900", "Bid":"104.6900", "Ask":"104.7900", "Date":"6/12/2017", "Time":"8:01am"},
 "USDSEK":{"Name":"USD/SEK", "id":"USDSEK", "Rate":"8.7148", "Bid":"8.7148", "Ask":"8.7159", "Date":"6/12/2017", "Time":"9:37am"},
 "USDSGD":{"Name":"USD/SGD", "id":"USDSGD", "Rate":"1.3836", "Bid":"1.3836", "Ask":"1.3843", "Date":"6/12/2017", "Time":"9:39am"},
