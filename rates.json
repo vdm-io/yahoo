@@ -24252,7 +24252,7 @@
 "USDSGD":{"Name":"USD/SGD", "id":"USDSGD", "Rate":"1.3845", "Bid":"1.3845", "Ask":"1.3851", "Date":"6/12/2017", "Time":"6:09pm"},
 "ZARAED":{"Name":"ZAR/AED", "id":"ZARAED", "Rate":"0.2860", "Bid":"0.2860", "Ask":"0.2870", "Date":"6/12/2017", "Time":"9:40pm"},
 "USDTRY":{"Name":"USD/TRY", "id":"USDTRY", "Rate":"3.5183", "Bid":"3.5183", "Ask":"3.5194", "Date":"6/12/2017", "Time":"6:09pm"},
-"USDTWD":{"Name":"USD/TWD", "id":"USDTWD", "Rate":"30.2130", "Bid":"30.2130", "Ask":"30.3130", "Date":"6/12/2017", "Time":"4:22pm"},
+"USDTWD":{"Name":"USD/TWD", "id":"USDTWD", "Rate":"30.2460", "Bid":"30.2460", "Ask":"30.3460", "Date":"6/13/2017", "Time":"9:27am"},
 "USDZAR":{"Name":"USD/ZAR", "id":"USDZAR", "Rate":"12.8051", "Bid":"12.8051", "Ask":"12.8152", "Date":"6/12/2017", "Time":"2:48pm"},
 "USDTHB":{"Name":"USD/THB", "id":"USDTHB", "Rate":"34.0500", "Bid":"34.0500", "Ask":"34.1000", "Date":"6/12/2017", "Time":"5:59pm"},
 "ZARAFN":{"Name":"ZAR/AFN", "id":"ZARAFN", "Rate":"5.2977", "Bid":"5.2977", "Ask":"5.3134", "Date":"6/13/2017", "Time":"4:06am"},
