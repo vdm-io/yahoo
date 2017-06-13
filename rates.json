@@ -22302,7 +22302,7 @@
 "MYRPLN":{"Name":"MYR/PLN", "id":"MYRPLN", "Rate":"0.8779", "Bid":"0.8779", "Ask":"0.8790", "Date":"6/12/2017", "Time":"8:02pm"},
 "MYRSGD":{"Name":"MYR/SGD", "id":"MYRSGD", "Rate":"0.3242", "Bid":"0.3242", "Ask":"0.3252", "Date":"6/12/2017", "Time":"6:10pm"},
 "MYRTHB":{"Name":"MYR/THB", "id":"MYRTHB", "Rate":"7.9830", "Bid":"7.9830", "Ask":"7.9930", "Date":"6/12/2017", "Time":"6:55pm"},
-"MYRTRY":{"Name":"MYR/TRY", "id":"MYRTRY", "Rate":"0.8254", "Bid":"0.8254", "Ask":"0.8256", "Date":"6/12/2017", "Time":"7:12pm"},
+"MYRTRY":{"Name":"MYR/TRY", "id":"MYRTRY", "Rate":"0.8246", "Bid":"0.8246", "Ask":"0.8256", "Date":"6/12/2017", "Time":"8:02pm"},
 "MYRTWD":{"Name":"MYR/TWD", "id":"MYRTWD", "Rate":"7.0862", "Bid":"7.0862", "Ask":"7.0872", "Date":"6/12/2017", "Time":"6:55pm"},
 "MYRUSD":{"Name":"MYR/USD", "id":"MYRUSD", "Rate":"0.2339", "Bid":"0.2339", "Ask":"0.2349", "Date":"6/12/2017", "Time":"4:30pm"},
 "MYRZAR":{"Name":"MYR/ZAR", "id":"MYRZAR", "Rate":"3.0023", "Bid":"3.0023", "Ask":"3.0033", "Date":"6/12/2017", "Time":"8:00pm"},
