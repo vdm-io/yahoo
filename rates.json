@@ -22989,7 +22989,7 @@
 "PKRIDR":{"Name":"PKR/IDR", "id":"PKRIDR", "Rate":"127.2440", "Bid":"127.2440", "Ask":"127.3397", "Date":"6/12/2017", "Time":"7:32pm"},
 "PKRILS":{"Name":"PKR/ILS", "id":"PKRILS", "Rate":"0.0338", "Bid":"0.0338", "Ask":"0.0339", "Date":"6/12/2017", "Time":"8:15pm"},
 "PKRINR":{"Name":"PKR/INR", "id":"PKRINR", "Rate":"0.6162", "Bid":"0.6162", "Ask":"0.6172", "Date":"6/12/2017", "Time":"8:45pm"},
-"PKRJPY":{"Name":"PKR/JPY", "id":"PKRJPY", "Rate":"1.0473", "Bid":"1.0473", "Ask":"1.0523", "Date":"6/12/2017", "Time":"6:55pm"},
+"PKRJPY":{"Name":"PKR/JPY", "id":"PKRJPY", "Rate":"1.0472", "Bid":"1.0472", "Ask":"1.0522", "Date":"6/12/2017", "Time":"8:00pm"},
 "PKRKRW":{"Name":"PKR/KRW", "id":"PKRKRW", "Rate":"10.7550", "Bid":"10.7550", "Ask":"10.8550", "Date":"6/12/2017", "Time":"8:00pm"},
 "PKRMXN":{"Name":"PKR/MXN", "id":"PKRMXN", "Rate":"0.1737", "Bid":"0.1737", "Ask":"0.1737", "Date":"6/12/2017", "Time":"8:15pm"},
 "PKRMYR":{"Name":"PKR/MYR", "id":"PKRMYR", "Rate":"0.0408", "Bid":"0.0408", "Ask":"0.0408", "Date":"6/12/2017", "Time":"7:32pm"},
