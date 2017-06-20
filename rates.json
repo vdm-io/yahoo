@@ -22846,7 +22846,7 @@
 "PHPSEK":{"Name":"PHP/SEK", "id":"PHPSEK", "Rate":"0.1740", "Bid":"0.1740", "Ask":"0.1740", "Date":"6/19/2017", "Time":"1:00pm"},
 "PHPSGD":{"Name":"PHP/SGD", "id":"PHPSGD", "Rate":"0.0272", "Bid":"0.0272", "Ask":"0.0282", "Date":"6/19/2017", "Time":"12:20pm"},
 "PHPTHB":{"Name":"PHP/THB", "id":"PHPTHB", "Rate":"0.6782", "Bid":"0.6782", "Ask":"0.6792", "Date":"6/19/2017", "Time":"12:30pm"},
-"PHPTRY":{"Name":"PHP/TRY", "id":"PHPTRY", "Rate":"0.0702", "Bid":"0.0702", "Ask":"0.0703", "Date":"6/19/2017", "Time":"11:51am"},
+"PHPTRY":{"Name":"PHP/TRY", "id":"PHPTRY", "Rate":"0.0703", "Bid":"0.0703", "Ask":"0.0703", "Date":"6/19/2017", "Time":"12:48pm"},
 "PHPTWD":{"Name":"PHP/TWD", "id":"PHPTWD", "Rate":"0.6065", "Bid":"0.6065", "Ask":"0.6075", "Date":"6/19/2017", "Time":"12:15pm"},
 "PHPUSD":{"Name":"PHP/USD", "id":"PHPUSD", "Rate":"0.0200", "Bid":"0.0200", "Ask":"0.0201", "Date":"6/19/2017", "Time":"12:00pm"},
 "PHPZAR":{"Name":"PHP/ZAR", "id":"PHPZAR", "Rate":"0.2571", "Bid":"0.2571", "Ask":"0.2571", "Date":"6/19/2017", "Time":"12:16pm"},
