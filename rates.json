@@ -20901,7 +20901,7 @@
 "GBPTWD":{"Name":"GBP/TWD", "id":"GBPTWD", "Rate":"38.6550", "Bid":"38.6550", "Ask":"38.6800", "Date":"6/21/2017", "Time":"12:40pm"},
 "GBPTHB":{"Name":"GBP/THB", "id":"GBPTHB", "Rate":"43.0730", "Bid":"43.0730", "Ask":"43.0870", "Date":"6/21/2017", "Time":"12:07pm"},
 "GBPZAR":{"Name":"GBP/ZAR", "id":"GBPZAR", "Rate":"16.5403", "Bid":"16.5403", "Ask":"16.5507", "Date":"6/21/2017", "Time":"12:39pm"},
-"GBPUSD":{"Name":"GBP/USD", "id":"GBPUSD", "Rate":"1.2629", "Bid":"1.2629", "Ask":"1.2630", "Date":"6/21/2017", "Time":"11:42am"},
+"GBPUSD":{"Name":"GBP/USD", "id":"GBPUSD", "Rate":"1.2664", "Bid":"1.2664", "Ask":"1.2665", "Date":"6/22/2017", "Time":"11:14am"},
 "HKDAED":{"Name":"HKD/AED", "id":"HKDAED", "Rate":"0.4704", "Bid":"0.4704", "Ask":"0.4714", "Date":"6/21/2017", "Time":"1:00pm"},
 "HKDAFN":{"Name":"HKD/AFN", "id":"HKDAFN", "Rate":"8.7124", "Bid":"8.7124", "Ask":"8.7381", "Date":"6/21/2017", "Time":"4:49pm"},
 "HKDALL":{"Name":"HKD/ALL", "id":"HKDALL", "Rate":"15.2757", "Bid":"15.2757", "Ask":"15.3077", "Date":"6/21/2017", "Time":"2:31pm"},
