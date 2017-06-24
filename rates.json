@@ -22687,7 +22687,7 @@
 "NZDNAD":{"Name":"NZD/NAD", "id":"NZDNAD", "Rate":"9.4041", "Bid":"9.4041", "Ask":"9.4063", "Date":"6/23/2017", "Time":"1:40pm"},
 "NZDSEK":{"Name":"NZD/SEK", "id":"NZDSEK", "Rate":"6.3644", "Bid":"6.3644", "Ask":"6.3695", "Date":"6/23/2017", "Time":"1:49pm"},
 "NZDPLN":{"Name":"NZD/PLN", "id":"NZDPLN", "Rate":"2.7601", "Bid":"2.7601", "Ask":"2.7631", "Date":"6/23/2017", "Time":"12:36pm"},
-"NZDTHB":{"Name":"NZD/THB", "id":"NZDTHB", "Rate":"24.7090", "Bid":"24.7090", "Ask":"24.7190", "Date":"6/23/2017", "Time":"11:59am"},
+"NZDTHB":{"Name":"NZD/THB", "id":"NZDTHB", "Rate":"24.7240", "Bid":"24.7240", "Ask":"24.7340", "Date":"6/23/2017", "Time":"12:20pm"},
 "NZDRUB":{"Name":"NZD/RUB", "id":"NZDRUB", "Rate":"43.4903", "Bid":"43.4903", "Ask":"43.4949", "Date":"6/23/2017", "Time":"12:49pm"},
 "NZDTRY":{"Name":"NZD/TRY", "id":"NZDTRY", "Rate":"2.5555", "Bid":"2.5555", "Ask":"2.5569", "Date":"6/23/2017", "Time":"12:47pm"},
 "NZDTWD":{"Name":"NZD/TWD", "id":"NZDTWD", "Rate":"22.0910", "Bid":"22.0910", "Ask":"22.1010", "Date":"6/23/2017", "Time":"12:40pm"},
