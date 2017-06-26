@@ -24223,7 +24223,7 @@
 "USDXOF":{"Name":"USD/XOF", "id":"USDXOF", "Rate":"587.6000", "Bid":"587.6000", "Ask":"589.6000", "Date":"6/24/2017", "Time":"5:13am"},
 "USDYER":{"Name":"USD/YER", "id":"USDYER", "Rate":"249.9300", "Bid":"249.9300", "Ask":"250.0300", "Date":"6/24/2017", "Time":"5:13am"},
 "USDBRL":{"Name":"USD/BRL", "id":"USDBRL", "Rate":"3.3420", "Bid":"3.3420", "Ask":"3.3440", "Date":"6/24/2017", "Time":"5:13am"},
-"USDAUD":{"Name":"USD/AUD", "id":"USDAUD", "Rate":"1.3171", "Bid":"1.3171", "Ask":"1.3181", "Date":"6/23/2017", "Time":"11:04pm"},
+"USDAUD":{"Name":"USD/AUD", "id":"USDAUD", "Rate":"1.3206", "Bid":"1.3206", "Ask":"1.3210", "Date":"6/26/2017", "Time":"10:50am"},
 "USDCHF":{"Name":"USD/CHF", "id":"USDCHF", "Rate":"0.9702", "Bid":"0.9702", "Ask":"0.9707", "Date":"6/23/2017", "Time":"10:31pm"},
 "USDCLP":{"Name":"USD/CLP", "id":"USDCLP", "Rate":"660.5600", "Bid":"660.5600", "Ask":"661.7700", "Date":"6/23/2017", "Time":"9:58pm"},
 "USDCAD":{"Name":"USD/CAD", "id":"USDCAD", "Rate":"1.3269", "Bid":"1.3269", "Ask":"1.3274", "Date":"6/24/2017", "Time":"5:13am"},
