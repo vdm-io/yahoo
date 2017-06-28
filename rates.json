@@ -20260,7 +20260,7 @@
 "CNYIDR":{"Name":"CNY/IDR", "id":"CNYIDR", "Rate":"1953.6000", "Bid":"1953.6000", "Ask":"1954.6000", "Date":"6/27/2017", "Time":"12:20pm"},
 "CNYILS":{"Name":"CNY/ILS", "id":"CNYILS", "Rate":"0.5162", "Bid":"0.5162", "Ask":"0.5168", "Date":"6/27/2017", "Time":"3:44pm"},
 "CNYINR":{"Name":"CNY/INR", "id":"CNYINR", "Rate":"9.4692", "Bid":"9.4692", "Ask":"9.4702", "Date":"6/27/2017", "Time":"12:30pm"},
-"CNYKRW":{"Name":"CNY/KRW", "id":"CNYKRW", "Rate":"166.8330", "Bid":"166.8330", "Ask":"166.8430", "Date":"6/27/2017", "Time":"11:25am"},
+"CNYKRW":{"Name":"CNY/KRW", "id":"CNYKRW", "Rate":"168.2180", "Bid":"168.2180", "Ask":"168.2280", "Date":"6/28/2017", "Time":"10:50am"},
 "CNYJPY":{"Name":"CNY/JPY", "id":"CNYJPY", "Rate":"16.3830", "Bid":"16.3830", "Ask":"16.4330", "Date":"6/27/2017", "Time":"12:05pm"},
 "CNYMXN":{"Name":"CNY/MXN", "id":"CNYMXN", "Rate":"2.6292", "Bid":"2.6292", "Ask":"2.6294", "Date":"6/27/2017", "Time":"12:26pm"},
 "CNYMYR":{"Name":"CNY/MYR", "id":"CNYMYR", "Rate":"0.6292", "Bid":"0.6292", "Ask":"0.6293", "Date":"6/27/2017", "Time":"12:10pm"},
