@@ -21517,7 +21517,7 @@
 "ILSNZD":{"Name":"ILS/NZD", "id":"ILSNZD", "Rate":"0.3934", "Bid":"0.3934", "Ask":"0.3936", "Date":"6/29/2017", "Time":"5:23pm"},
 "ILSPHP":{"Name":"ILS/PHP", "id":"ILSPHP", "Rate":"14.4960", "Bid":"14.4960", "Ask":"14.5104", "Date":"6/29/2017", "Time":"3:20pm"},
 "ILSPKR":{"Name":"ILS/PKR", "id":"ILSPKR", "Rate":"30.0399", "Bid":"30.0399", "Ask":"30.0973", "Date":"6/29/2017", "Time":"3:30pm"},
-"ILSRUB":{"Name":"ILS/RUB", "id":"ILSRUB", "Rate":"17.0048", "Bid":"17.0048", "Ask":"17.0070", "Date":"6/29/2017", "Time":"4:33pm"},
+"ILSRUB":{"Name":"ILS/RUB", "id":"ILSRUB", "Rate":"17.0243", "Bid":"17.0243", "Ask":"17.0344", "Date":"6/29/2017", "Time":"5:23pm"},
 "ILSPLN":{"Name":"ILS/PLN", "id":"ILSPLN", "Rate":"1.0624", "Bid":"1.0624", "Ask":"1.0634", "Date":"6/29/2017", "Time":"5:00pm"},
 "ILSSEK":{"Name":"ILS/SEK", "id":"ILSSEK", "Rate":"2.4373", "Bid":"2.4373", "Ask":"2.4383", "Date":"6/29/2017", "Time":"5:00pm"},
 "ILSSGD":{"Name":"ILS/SGD", "id":"ILSSGD", "Rate":"0.3959", "Bid":"0.3959", "Ask":"0.3960", "Date":"6/29/2017", "Time":"4:33pm"},
