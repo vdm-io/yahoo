@@ -22149,7 +22149,7 @@
 "MXNTRY":{"Name":"MXN/TRY", "id":"MXNTRY", "Rate":"0.1962", "Bid":"0.1962", "Ask":"0.1963", "Date":"6/29/2017", "Time":"1:30pm"},
 "MXNTWD":{"Name":"MXN/TWD", "id":"MXNTWD", "Rate":"1.6882", "Bid":"1.6882", "Ask":"1.6938", "Date":"6/29/2017", "Time":"2:31pm"},
 "MXNUSD":{"Name":"MXN/USD", "id":"MXNUSD", "Rate":"0.0561", "Bid":"0.0561", "Ask":"0.0561", "Date":"6/29/2017", "Time":"12:10pm"},
-"MXNZAR":{"Name":"MXN/ZAR", "id":"MXNZAR", "Rate":"0.7230", "Bid":"0.7230", "Ask":"0.7240", "Date":"6/29/2017", "Time":"1:50pm"},
+"MXNZAR":{"Name":"MXN/ZAR", "id":"MXNZAR", "Rate":"0.7209", "Bid":"0.7209", "Ask":"0.7219", "Date":"6/29/2017", "Time":"3:10pm"},
 "MYRAED":{"Name":"MYR/AED", "id":"MYRAED", "Rate":"0.8551", "Bid":"0.8551", "Ask":"0.8552", "Date":"6/29/2017", "Time":"1:55pm"},
 "MYRALL":{"Name":"MYR/ALL", "id":"MYRALL", "Rate":"26.9688", "Bid":"26.9688", "Ask":"27.0853", "Date":"6/29/2017", "Time":"5:32pm"},
 "MYRAFN":{"Name":"MYR/AFN", "id":"MYRAFN", "Rate":"15.8178", "Bid":"15.8178", "Ask":"15.8644", "Date":"6/29/2017", "Time":"9:51pm"},
