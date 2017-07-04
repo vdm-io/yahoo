@@ -21194,7 +21194,7 @@
 "HUFIDR":{"Name":"HUF/IDR", "id":"HUFIDR", "Rate":"49.3570", "Bid":"49.3570", "Ask":"49.4601", "Date":"7/3/2017", "Time":"4:04pm"},
 "HUFDKK":{"Name":"HUF/DKK", "id":"HUFDKK", "Rate":"0.0241", "Bid":"0.0241", "Ask":"0.0241", "Date":"7/3/2017", "Time":"4:32pm"},
 "HUFGBP":{"Name":"HUF/GBP", "id":"HUFGBP", "Rate":"0.0028", "Bid":"0.0028", "Ask":"0.0028", "Date":"7/3/2017", "Time":"4:40pm"},
-"HUFILS":{"Name":"HUF/ILS", "id":"HUFILS", "Rate":"0.0129", "Bid":"0.0129", "Ask":"0.0129", "Date":"7/3/2017", "Time":"3:30pm"},
+"HUFILS":{"Name":"HUF/ILS", "id":"HUFILS", "Rate":"0.0129", "Bid":"0.0129", "Ask":"0.0129", "Date":"7/3/2017", "Time":"4:17pm"},
 "HUFKRW":{"Name":"HUF/KRW", "id":"HUFKRW", "Rate":"4.2268", "Bid":"4.2268", "Ask":"4.2305", "Date":"7/3/2017", "Time":"6:17pm"},
 "HUFJPY":{"Name":"HUF/JPY", "id":"HUFJPY", "Rate":"0.4165", "Bid":"0.4165", "Ask":"0.4175", "Date":"7/3/2017", "Time":"5:00pm"},
 "HUFINR":{"Name":"HUF/INR", "id":"HUFINR", "Rate":"0.2390", "Bid":"0.2390", "Ask":"0.2391", "Date":"7/3/2017", "Time":"6:03pm"},
