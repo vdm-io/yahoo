@@ -22362,7 +22362,7 @@
 "NADEUR":{"Name":"NAD/EUR", "id":"NADEUR", "Rate":"0.0655", "Bid":"0.0655", "Ask":"0.0665", "Date":"7/5/2017", "Time":"5:50pm"},
 "NADHKD":{"Name":"NAD/HKD", "id":"NADHKD", "Rate":"0.5826", "Bid":"0.5826", "Ask":"0.5827", "Date":"7/5/2017", "Time":"4:30pm"},
 "NADHUF":{"Name":"NAD/HUF", "id":"NADHUF", "Rate":"20.3507", "Bid":"20.3507", "Ask":"20.3656", "Date":"7/5/2017", "Time":"5:50pm"},
-"NADILS":{"Name":"NAD/ILS", "id":"NADILS", "Rate":"0.2617", "Bid":"0.2617", "Ask":"0.2625", "Date":"7/5/2017", "Time":"4:30pm"},
+"NADILS":{"Name":"NAD/ILS", "id":"NADILS", "Rate":"0.2612", "Bid":"0.2612", "Ask":"0.2619", "Date":"7/5/2017", "Time":"7:40pm"},
 "NADINR":{"Name":"NAD/INR", "id":"NADINR", "Rate":"4.8369", "Bid":"4.8369", "Ask":"4.8392", "Date":"7/5/2017", "Time":"8:03pm"},
 "NADJPY":{"Name":"NAD/JPY", "id":"NADJPY", "Rate":"8.4529", "Bid":"8.4529", "Ask":"8.4530", "Date":"7/5/2017", "Time":"5:40pm"},
 "NADIDR":{"Name":"NAD/IDR", "id":"NADIDR", "Rate":"999.7759", "Bid":"999.7759", "Ask":"1002.1664", "Date":"7/5/2017", "Time":"6:24pm"},
