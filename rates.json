@@ -23291,7 +23291,7 @@
 "RUBCAD":{"Name":"RUB/CAD", "id":"RUBCAD", "Rate":"0.0239", "Bid":"0.0239", "Ask":"0.0240", "Date":"4/28/2017", "Time":"5:30pm"},
 "RUBCLP":{"Name":"RUB/CLP", "id":"RUBCLP", "Rate":"11.0435", "Bid":"11.0435", "Ask":"11.0589", "Date":"7/14/2017", "Time":"8:35am"},
 "RUBCNY":{"Name":"RUB/CNY", "id":"RUBCNY", "Rate":"0.1127", "Bid":"0.1127", "Ask":"0.1137", "Date":"7/14/2017", "Time":"7:20am"},
-"RUBEUR":{"Name":"RUB/EUR", "id":"RUBEUR", "Rate":"0.0146", "Bid":"0.0146", "Ask":"0.0147", "Date":"7/14/2017", "Time":"6:50am"},
+"RUBEUR":{"Name":"RUB/EUR", "id":"RUBEUR", "Rate":"0.0146", "Bid":"0.0146", "Ask":"0.0147", "Date":"7/14/2017", "Time":"7:20am"},
 "RUBCHF":{"Name":"RUB/CHF", "id":"RUBCHF", "Rate":"0.0161", "Bid":"0.0161", "Ask":"0.0162", "Date":"7/14/2017", "Time":"7:25am"},
 "RUBCZK":{"Name":"RUB/CZK", "id":"RUBCZK", "Rate":"0.3816", "Bid":"0.3816", "Ask":"0.3817", "Date":"7/14/2017", "Time":"7:26am"},
 "RUBGBP":{"Name":"RUB/GBP", "id":"RUBGBP", "Rate":"0.0129", "Bid":"0.0129", "Ask":"0.0129", "Date":"7/14/2017", "Time":"7:15am"},
