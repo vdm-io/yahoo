@@ -22295,7 +22295,7 @@
 "MYRNAD":{"Name":"MYR/NAD", "id":"MYRNAD", "Rate":"3.0366", "Bid":"3.0366", "Ask":"3.0373", "Date":"7/17/2017", "Time":"7:47am"},
 "MYRNOK":{"Name":"MYR/NOK", "id":"MYRNOK", "Rate":"1.9110", "Bid":"1.9110", "Ask":"1.9115", "Date":"7/17/2017", "Time":"8:04am"},
 "MYRNZD":{"Name":"MYR/NZD", "id":"MYRNZD", "Rate":"0.3173", "Bid":"0.3173", "Ask":"0.3183", "Date":"7/17/2017", "Time":"7:15am"},
-"MYRPHP":{"Name":"MYR/PHP", "id":"MYRPHP", "Rate":"11.7890", "Bid":"11.7890", "Ask":"11.7990", "Date":"7/17/2017", "Time":"6:55am"},
+"MYRPHP":{"Name":"MYR/PHP", "id":"MYRPHP", "Rate":"11.7960", "Bid":"11.7960", "Ask":"11.8060", "Date":"7/17/2017", "Time":"7:15am"},
 "MYRPKR":{"Name":"MYR/PKR", "id":"MYRPKR", "Rate":"24.5110", "Bid":"24.5110", "Ask":"24.6110", "Date":"7/17/2017", "Time":"8:15am"},
 "MYRRUB":{"Name":"MYR/RUB", "id":"MYRRUB", "Rate":"13.7880", "Bid":"13.7880", "Ask":"13.7930", "Date":"7/17/2017", "Time":"7:20am"},
 "MYRSEK":{"Name":"MYR/SEK", "id":"MYRSEK", "Rate":"1.9358", "Bid":"1.9358", "Ask":"1.9425", "Date":"7/17/2017", "Time":"7:39am"},
