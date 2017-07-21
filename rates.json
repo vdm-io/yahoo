@@ -22667,7 +22667,7 @@
 "NZDCAD":{"Name":"NZD/CAD", "id":"NZDCAD", "Rate":"0.9343", "Bid":"0.9343", "Ask":"0.9344", "Date":"7/21/2017", "Time":"7:24am"},
 "NZDCLP":{"Name":"NZD/CLP", "id":"NZDCLP", "Rate":"485.0524", "Bid":"485.0524", "Ask":"485.3871", "Date":"7/21/2017", "Time":"9:30am"},
 "NZDCHF":{"Name":"NZD/CHF", "id":"NZDCHF", "Rate":"0.7056", "Bid":"0.7056", "Ask":"0.7059", "Date":"7/21/2017", "Time":"7:23am"},
-"NZDCZK":{"Name":"NZD/CZK", "id":"NZDCZK", "Rate":"16.5989", "Bid":"16.5989", "Ask":"16.6389", "Date":"7/21/2017", "Time":"7:44am"},
+"NZDCZK":{"Name":"NZD/CZK", "id":"NZDCZK", "Rate":"16.6196", "Bid":"16.6196", "Ask":"16.6596", "Date":"7/21/2017", "Time":"8:48am"},
 "NZDCNY":{"Name":"NZD/CNY", "id":"NZDCNY", "Rate":"5.0210", "Bid":"5.0210", "Ask":"5.0310", "Date":"7/21/2017", "Time":"7:20am"},
 "NZDDKK":{"Name":"NZD/DKK", "id":"NZDDKK", "Rate":"4.7414", "Bid":"4.7414", "Ask":"4.7440", "Date":"7/21/2017", "Time":"7:44am"},
 "NZDEUR":{"Name":"NZD/EUR", "id":"NZDEUR", "Rate":"0.6378", "Bid":"0.6378", "Ask":"0.6382", "Date":"7/21/2017", "Time":"7:18am"},
