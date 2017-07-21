@@ -22372,7 +22372,7 @@
 "NADNOK":{"Name":"NAD/NOK", "id":"NADNOK", "Rate":"0.6192", "Bid":"0.6192", "Ask":"0.6193", "Date":"7/21/2017", "Time":"9:50am"},
 "NADPHP":{"Name":"NAD/PHP", "id":"NADPHP", "Rate":"3.9204", "Bid":"3.9204", "Ask":"3.9243", "Date":"7/21/2017", "Time":"12:18pm"},
 "NADNZD":{"Name":"NAD/NZD", "id":"NADNZD", "Rate":"0.1037", "Bid":"0.1037", "Ask":"0.1038", "Date":"7/21/2017", "Time":"9:20am"},
-"NADPLN":{"Name":"NAD/PLN", "id":"NADPLN", "Rate":"0.2788", "Bid":"0.2788", "Ask":"0.2789", "Date":"7/21/2017", "Time":"8:48am"},
+"NADPLN":{"Name":"NAD/PLN", "id":"NADPLN", "Rate":"0.2801", "Bid":"0.2801", "Ask":"0.2801", "Date":"7/21/2017", "Time":"9:41am"},
 "NADPKR":{"Name":"NAD/PKR", "id":"NADPKR", "Rate":"8.1269", "Bid":"8.1269", "Ask":"8.1307", "Date":"7/21/2017", "Time":"12:35pm"},
 "NADRUB":{"Name":"NAD/RUB", "id":"NADRUB", "Rate":"4.5423", "Bid":"4.5423", "Ask":"4.5430", "Date":"7/21/2017", "Time":"9:41am"},
 "NADSGD":{"Name":"NAD/SGD", "id":"NADSGD", "Rate":"0.1052", "Bid":"0.1052", "Ask":"0.1052", "Date":"7/21/2017", "Time":"9:40am"},
