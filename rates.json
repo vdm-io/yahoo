@@ -23144,7 +23144,7 @@
 "PLNIDR":{"Name":"PLN/IDR", "id":"PLNIDR", "Rate":"3645.4346", "Bid":"3645.4346", "Ask":"3649.5352", "Date":"7/26/2017", "Time":"8:03am"},
 "PLNHUF":{"Name":"PLN/HUF", "id":"PLNHUF", "Rate":"71.7150", "Bid":"71.7150", "Ask":"71.8650", "Date":"7/26/2017", "Time":"10:17am"},
 "PLNILS":{"Name":"PLN/ILS", "id":"PLNILS", "Rate":"0.9771", "Bid":"0.9771", "Ask":"0.9781", "Date":"7/26/2017", "Time":"10:30am"},
-"PLNINR":{"Name":"PLN/INR", "id":"PLNINR", "Rate":"17.5230", "Bid":"17.5230", "Ask":"17.6230", "Date":"7/26/2017", "Time":"7:35am"},
+"PLNINR":{"Name":"PLN/INR", "id":"PLNINR", "Rate":"17.5580", "Bid":"17.5580", "Ask":"17.6580", "Date":"7/26/2017", "Time":"8:20am"},
 "PLNKRW":{"Name":"PLN/KRW", "id":"PLNKRW", "Rate":"305.9198", "Bid":"305.9198", "Ask":"306.1928", "Date":"7/26/2017", "Time":"7:50am"},
 "PLNJPY":{"Name":"PLN/JPY", "id":"PLNJPY", "Rate":"30.5290", "Bid":"30.5290", "Ask":"30.5550", "Date":"7/26/2017", "Time":"7:41am"},
 "PLNMXN":{"Name":"PLN/MXN", "id":"PLNMXN", "Rate":"4.8515", "Bid":"4.8515", "Ask":"4.8526", "Date":"7/26/2017", "Time":"8:13am"},
