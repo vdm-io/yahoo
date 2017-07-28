@@ -22300,7 +22300,7 @@
 "MYRRUB":{"Name":"MYR/RUB", "id":"MYRRUB", "Rate":"13.9066", "Bid":"13.9066", "Ask":"13.9116", "Date":"7/28/2017", "Time":"8:05am"},
 "MYRSEK":{"Name":"MYR/SEK", "id":"MYRSEK", "Rate":"1.8994", "Bid":"1.8994", "Ask":"1.9060", "Date":"7/28/2017", "Time":"9:42am"},
 "MYRPLN":{"Name":"MYR/PLN", "id":"MYRPLN", "Rate":"0.8483", "Bid":"0.8483", "Ask":"0.8486", "Date":"7/28/2017", "Time":"7:39am"},
-"MYRSGD":{"Name":"MYR/SGD", "id":"MYRSGD", "Rate":"0.3174", "Bid":"0.3174", "Ask":"0.3184", "Date":"7/28/2017", "Time":"6:45am"},
+"MYRSGD":{"Name":"MYR/SGD", "id":"MYRSGD", "Rate":"0.3172", "Bid":"0.3172", "Ask":"0.3182", "Date":"7/28/2017", "Time":"7:15am"},
 "MYRTHB":{"Name":"MYR/THB", "id":"MYRTHB", "Rate":"7.7890", "Bid":"7.7890", "Ask":"7.7990", "Date":"7/28/2017", "Time":"7:20am"},
 "MYRTRY":{"Name":"MYR/TRY", "id":"MYRTRY", "Rate":"0.8261", "Bid":"0.8261", "Ask":"0.8263", "Date":"7/28/2017", "Time":"8:00am"},
 "MYRTWD":{"Name":"MYR/TWD", "id":"MYRTWD", "Rate":"7.0720", "Bid":"7.0720", "Ask":"7.0730", "Date":"7/28/2017", "Time":"8:00am"},
