@@ -20732,7 +20732,7 @@
 "EURKRW":{"Name":"EUR/KRW", "id":"EURKRW", "Rate":"1319.4000", "Bid":"1319.4000", "Ask":"1321.9000", "Date":"7/28/2017", "Time":"10:30pm"},
 "EURMXN":{"Name":"EUR/MXN", "id":"EURMXN", "Rate":"20.9038", "Bid":"20.9038", "Ask":"20.9063", "Date":"7/28/2017", "Time":"10:30pm"},
 "EURNAD":{"Name":"EUR/NAD", "id":"EURNAD", "Rate":"15.2760", "Bid":"15.2760", "Ask":"15.3010", "Date":"7/28/2017", "Time":"10:30pm"},
-"EURNZD":{"Name":"EUR/NZD", "id":"EURNZD", "Rate":"1.5639", "Bid":"1.5639", "Ask":"1.5649", "Date":"7/28/2017", "Time":"10:27pm"},
+"EURNZD":{"Name":"EUR/NZD", "id":"EURNZD", "Rate":"1.5639", "Bid":"1.5639", "Ask":"1.5649", "Date":"7/28/2017", "Time":"10:28pm"},
 "EURNOK":{"Name":"EUR/NOK", "id":"EURNOK", "Rate":"9.2949", "Bid":"9.2949", "Ask":"9.2999", "Date":"7/28/2017", "Time":"10:30pm"},
 "EURPHP":{"Name":"EUR/PHP", "id":"EURPHP", "Rate":"59.3740", "Bid":"59.3740", "Ask":"59.3990", "Date":"7/28/2017", "Time":"10:30pm"},
 "EURPKR":{"Name":"EUR/PKR", "id":"EURPKR", "Rate":"123.7200", "Bid":"123.7200", "Ask":"123.7500", "Date":"7/28/2017", "Time":"10:30pm"},
