@@ -23309,7 +23309,7 @@
 "RUBNOK":{"Name":"RUB/NOK", "id":"RUBNOK", "Rate":"0.1328", "Bid":"0.1328", "Ask":"0.1330", "Date":"7/29/2017", "Time":"3:46am"},
 "RUBNZD":{"Name":"RUB/NZD", "id":"RUBNZD", "Rate":"0.0224", "Bid":"0.0224", "Ask":"0.0224", "Date":"7/29/2017", "Time":"3:46am"},
 "RUBPHP":{"Name":"RUB/PHP", "id":"RUBPHP", "Rate":"0.8483", "Bid":"0.8483", "Ask":"0.8492", "Date":"7/29/2017", "Time":"3:46am"},
-"RUBPKR":{"Name":"RUB/PKR", "id":"RUBPKR", "Rate":"1.7699", "Bid":"1.7699", "Ask":"1.7716", "Date":"7/30/2017", "Time":"4:32am"},
+"RUBPKR":{"Name":"RUB/PKR", "id":"RUBPKR", "Rate":"1.7699", "Bid":"1.7699", "Ask":"1.7716", "Date":"7/30/2017", "Time":"12:10pm"},
 "RUBPLN":{"Name":"RUB/PLN", "id":"RUBPLN", "Rate":"0.0602", "Bid":"0.0602", "Ask":"0.0613", "Date":"7/28/2017", "Time":"10:30pm"},
 "RUBSEK":{"Name":"RUB/SEK", "id":"RUBSEK", "Rate":"0.1360", "Bid":"0.1360", "Ask":"0.1366", "Date":"7/28/2017", "Time":"10:00pm"},
 "RUBSGD":{"Name":"RUB/SGD", "id":"RUBSGD", "Rate":"0.0228", "Bid":"0.0228", "Ask":"0.0228", "Date":"7/29/2017", "Time":"3:46am"},
