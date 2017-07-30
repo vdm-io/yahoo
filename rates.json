@@ -22671,7 +22671,7 @@
 "NZDCNY":{"Name":"NZD/CNY", "id":"NZDCNY", "Rate":"5.0560", "Bid":"5.0560", "Ask":"5.0660", "Date":"7/28/2017", "Time":"10:25pm"},
 "NZDDKK":{"Name":"NZD/DKK", "id":"NZDDKK", "Rate":"4.7516", "Bid":"4.7516", "Ask":"4.7566", "Date":"7/28/2017", "Time":"10:27pm"},
 "NZDEUR":{"Name":"NZD/EUR", "id":"NZDEUR", "Rate":"0.6387", "Bid":"0.6387", "Ask":"0.6397", "Date":"7/28/2017", "Time":"10:27pm"},
-"NZDHKD":{"Name":"NZD/HKD", "id":"NZDHKD", "Rate":"5.8649", "Bid":"5.8649", "Ask":"5.8679", "Date":"7/28/2017", "Time":"10:24pm"},
+"NZDHKD":{"Name":"NZD/HKD", "id":"NZDHKD", "Rate":"5.8649", "Bid":"5.8649", "Ask":"5.8679", "Date":"7/28/2017", "Time":"10:25pm"},
 "NZDGBP":{"Name":"NZD/GBP", "id":"NZDGBP", "Rate":"0.5715", "Bid":"0.5715", "Ask":"0.5725", "Date":"7/28/2017", "Time":"10:25pm"},
 "NZDIDR":{"Name":"NZD/IDR", "id":"NZDIDR", "Rate":"10010.0000", "Bid":"10010.0000", "Ask":"10020.0000", "Date":"7/28/2017", "Time":"10:25pm"},
 "NZDILS":{"Name":"NZD/ILS", "id":"NZDILS", "Rate":"2.6701", "Bid":"2.6701", "Ask":"2.6751", "Date":"7/28/2017", "Time":"10:25pm"},
