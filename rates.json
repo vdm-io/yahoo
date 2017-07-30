@@ -23002,7 +23002,7 @@
 "PKRSGD":{"Name":"PKR/SGD", "id":"PKRSGD", "Rate":"0.0128", "Bid":"0.0128", "Ask":"0.0129", "Date":"7/28/2017", "Time":"10:30pm"},
 "PKRTHB":{"Name":"PKR/THB", "id":"PKRTHB", "Rate":"0.3166", "Bid":"0.3166", "Ask":"0.3171", "Date":"7/30/2017", "Time":"4:32am"},
 "PKRTWD":{"Name":"PKR/TWD", "id":"PKRTWD", "Rate":"0.2874", "Bid":"0.2874", "Ask":"0.2883", "Date":"7/30/2017", "Time":"4:32am"},
-"PKRSEK":{"Name":"PKR/SEK", "id":"PKRSEK", "Rate":"0.0769", "Bid":"0.0769", "Ask":"0.0770", "Date":"7/30/2017", "Time":"4:32am"},
+"PKRSEK":{"Name":"PKR/SEK", "id":"PKRSEK", "Rate":"0.0769", "Bid":"0.0769", "Ask":"0.0770", "Date":"7/30/2017", "Time":"12:10pm"},
 "PKRTRY":{"Name":"PKR/TRY", "id":"PKRTRY", "Rate":"0.0335", "Bid":"0.0335", "Ask":"0.0335", "Date":"7/30/2017", "Time":"4:32am"},
 "PKRUSD":{"Name":"PKR/USD", "id":"PKRUSD", "Rate":"0.0094", "Bid":"0.0094", "Ask":"0.0095", "Date":"7/28/2017", "Time":"10:30pm"},
 "PKRZAR":{"Name":"PKR/ZAR", "id":"PKRZAR", "Rate":"0.1237", "Bid":"0.1237", "Ask":"0.1237", "Date":"7/28/2017", "Time":"10:32pm"},
