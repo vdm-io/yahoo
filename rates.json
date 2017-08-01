@@ -21521,7 +21521,7 @@
 "ILSPLN":{"Name":"ILS/PLN", "id":"ILSPLN", "Rate":"1.0098", "Bid":"1.0098", "Ask":"1.0108", "Date":"8/1/2017", "Time":"1:00pm"},
 "ILSSEK":{"Name":"ILS/SEK", "id":"ILSSEK", "Rate":"2.2684", "Bid":"2.2684", "Ask":"2.2686", "Date":"8/1/2017", "Time":"12:44pm"},
 "ILSSGD":{"Name":"ILS/SGD", "id":"ILSSGD", "Rate":"0.3809", "Bid":"0.3809", "Ask":"0.3809", "Date":"8/1/2017", "Time":"11:40am"},
-"ILSTHB":{"Name":"ILS/THB", "id":"ILSTHB", "Rate":"9.3293", "Bid":"9.3293", "Ask":"9.3377", "Date":"8/1/2017", "Time":"11:20am"},
+"ILSTHB":{"Name":"ILS/THB", "id":"ILSTHB", "Rate":"9.3293", "Bid":"9.3293", "Ask":"9.3433", "Date":"8/1/2017", "Time":"1:29pm"},
 "ILSTWD":{"Name":"ILS/TWD", "id":"ILSTWD", "Rate":"8.4772", "Bid":"8.4772", "Ask":"8.5053", "Date":"8/1/2017", "Time":"11:41am"},
 "ILSTRY":{"Name":"ILS/TRY", "id":"ILSTRY", "Rate":"0.9882", "Bid":"0.9882", "Ask":"0.9882", "Date":"8/1/2017", "Time":"12:44pm"},
 "ILSUSD":{"Name":"ILS/USD", "id":"ILSUSD", "Rate":"0.2805", "Bid":"0.2805", "Ask":"0.2815", "Date":"8/1/2017", "Time":"7:20am"},
