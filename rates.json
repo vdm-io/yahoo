@@ -23302,7 +23302,7 @@
 "RUBILS":{"Name":"RUB/ILS", "id":"RUBILS", "Rate":"0.0601", "Bid":"0.0601", "Ask":"0.0603", "Date":"8/4/2017", "Time":"2:18pm"},
 "RUBINR":{"Name":"RUB/INR", "id":"RUBINR", "Rate":"1.0553", "Bid":"1.0553", "Ask":"1.0561", "Date":"8/4/2017", "Time":"9:05am"},
 "RUBJPY":{"Name":"RUB/JPY", "id":"RUBJPY", "Rate":"1.8227", "Bid":"1.8227", "Ask":"1.8277", "Date":"8/4/2017", "Time":"8:35am"},
-"RUBKRW":{"Name":"RUB/KRW", "id":"RUBKRW", "Rate":"18.6199", "Bid":"18.6199", "Ask":"18.6365", "Date":"8/4/2017", "Time":"7:41am"},
+"RUBKRW":{"Name":"RUB/KRW", "id":"RUBKRW", "Rate":"18.6309", "Bid":"18.6309", "Ask":"18.6475", "Date":"8/4/2017", "Time":"8:35am"},
 "RUBMXN":{"Name":"RUB/MXN", "id":"RUBMXN", "Rate":"0.2959", "Bid":"0.2959", "Ask":"0.2960", "Date":"8/4/2017", "Time":"8:43am"},
 "RUBMYR":{"Name":"RUB/MYR", "id":"RUBMYR", "Rate":"0.0706", "Bid":"0.0706", "Ask":"0.0711", "Date":"8/4/2017", "Time":"8:25am"},
 "RUBNAD":{"Name":"RUB/NAD", "id":"RUBNAD", "Rate":"0.2216", "Bid":"0.2216", "Ask":"0.2217", "Date":"8/4/2017", "Time":"1:00pm"},
