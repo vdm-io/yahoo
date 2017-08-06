@@ -21658,7 +21658,7 @@
 "INRCNY":{"Name":"INR/CNY", "id":"INRCNY", "Rate":"0.1052", "Bid":"0.1052", "Ask":"0.1062", "Date":"8/4/2017", "Time":"11:30pm"},
 "INRCZK":{"Name":"INR/CZK", "id":"INRCZK", "Rate":"0.3484", "Bid":"0.3484", "Ask":"0.3489", "Date":"8/4/2017", "Time":"11:02pm"},
 "INRHKD":{"Name":"INR/HKD", "id":"INRHKD", "Rate":"0.1226", "Bid":"0.1226", "Ask":"0.1231", "Date":"8/4/2017", "Time":"11:30pm"},
-"INRDKK":{"Name":"INR/DKK", "id":"INRDKK", "Rate":"0.0994", "Bid":"0.0994", "Ask":"0.0995", "Date":"8/4/2017", "Time":"11:02pm"},
+"INRDKK":{"Name":"INR/DKK", "id":"INRDKK", "Rate":"0.0994", "Bid":"0.0994", "Ask":"0.0995", "Date":"8/6/2017", "Time":"4:44am"},
 "INRILS":{"Name":"INR/ILS", "id":"INRILS", "Rate":"0.0570", "Bid":"0.0570", "Ask":"0.0572", "Date":"8/4/2017", "Time":"11:02pm"},
 "INREUR":{"Name":"INR/EUR", "id":"INREUR", "Rate":"0.0133", "Bid":"0.0133", "Ask":"0.0133", "Date":"8/4/2017", "Time":"10:25pm"},
 "INRGBP":{"Name":"INR/GBP", "id":"INRGBP", "Rate":"0.0121", "Bid":"0.0121", "Ask":"0.0121", "Date":"8/4/2017", "Time":"10:25pm"},
