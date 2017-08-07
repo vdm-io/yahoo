@@ -21837,7 +21837,7 @@
 "JPYTHB":{"Name":"JPY/THB", "id":"JPYTHB", "Rate":"0.2982", "Bid":"0.2982", "Ask":"0.3032", "Date":"8/4/2017", "Time":"10:25pm"},
 "JPYUSD":{"Name":"JPY/USD", "id":"JPYUSD", "Rate":"0.0090", "Bid":"0.0090", "Ask":"0.0090", "Date":"8/4/2017", "Time":"10:45pm"},
 "JPYZAR":{"Name":"JPY/ZAR", "id":"JPYZAR", "Rate":"0.1213", "Bid":"0.1213", "Ask":"0.1214", "Date":"8/4/2017", "Time":"10:35pm"},
-"JPYSGD":{"Name":"JPY/SGD", "id":"JPYSGD", "Rate":"0.0122", "Bid":"0.0122", "Ask":"0.0123", "Date":"8/4/2017", "Time":"10:35pm"},
+"JPYSGD":{"Name":"JPY/SGD", "id":"JPYSGD", "Rate":"0.0122", "Bid":"0.0122", "Ask":"0.0123", "Date":"8/6/2017", "Time":"10:00pm"},
 "KRWALL":{"Name":"KRW/ALL", "id":"KRWALL", "Rate":"0.0994", "Bid":"0.0994", "Ask":"0.0995", "Date":"8/6/2017", "Time":"8:31pm"},
 "KRWAED":{"Name":"KRW/AED", "id":"KRWAED", "Rate":"0.0033", "Bid":"0.0033", "Ask":"0.0033", "Date":"8/4/2017", "Time":"11:30pm"},
 "KRWAFN":{"Name":"KRW/AFN", "id":"KRWAFN", "Rate":"0.0606", "Bid":"0.0606", "Ask":"0.0608", "Date":"8/6/2017", "Time":"8:17pm"},
