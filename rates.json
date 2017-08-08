@@ -24228,7 +24228,7 @@
 "USDCLP":{"Name":"USD/CLP", "id":"USDCLP", "Rate":"650.0000", "Bid":"650.0000", "Ask":"650.4000", "Date":"8/6/2017", "Time":"10:21pm"},
 "USDCAD":{"Name":"USD/CAD", "id":"USDCAD", "Rate":"1.2643", "Bid":"1.2643", "Ask":"1.2644", "Date":"8/7/2017", "Time":"6:42am"},
 "USDCZK":{"Name":"USD/CZK", "id":"USDCZK", "Rate":"22.1299", "Bid":"22.1299", "Ask":"22.1395", "Date":"8/7/2017", "Time":"6:48am"},
-"USDCNY":{"Name":"USD/CNY", "id":"USDCNY", "Rate":"6.7224", "Bid":"6.7224", "Ask":"6.7234", "Date":"8/7/2017", "Time":"6:18am"},
+"USDCNY":{"Name":"USD/CNY", "id":"USDCNY", "Rate":"6.6985", "Bid":"6.6985", "Ask":"6.7015", "Date":"8/8/2017", "Time":"5:32am"},
 "USDDKK":{"Name":"USD/DKK", "id":"USDDKK", "Rate":"6.3071", "Bid":"6.3071", "Ask":"6.3081", "Date":"8/7/2017", "Time":"6:45am"},
 "USDHKD":{"Name":"USD/HKD", "id":"USDHKD", "Rate":"7.8222", "Bid":"7.8222", "Ask":"7.8228", "Date":"8/7/2017", "Time":"6:46am"},
 "USDEUR":{"Name":"USD/EUR", "id":"USDEUR", "Rate":"0.8476", "Bid":"0.8476", "Ask":"0.8481", "Date":"8/7/2017", "Time":"6:27am"},
