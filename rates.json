@@ -22278,7 +22278,7 @@
 "MYRBRL":{"Name":"MYR/BRL", "id":"MYRBRL", "Rate":"0.7389", "Bid":"0.7389", "Ask":"0.7394", "Date":"8/11/2017", "Time":"5:10am"},
 "MYRCAD":{"Name":"MYR/CAD", "id":"MYRCAD", "Rate":"0.2964", "Bid":"0.2964", "Ask":"0.2974", "Date":"8/11/2017", "Time":"7:40am"},
 "MYRCHF":{"Name":"MYR/CHF", "id":"MYRCHF", "Rate":"0.2237", "Bid":"0.2237", "Ask":"0.2247", "Date":"8/11/2017", "Time":"8:40am"},
-"MYRCNY":{"Name":"MYR/CNY", "id":"MYRCNY", "Rate":"1.5549", "Bid":"1.5549", "Ask":"1.5559", "Date":"8/11/2017", "Time":"7:25am"},
+"MYRCNY":{"Name":"MYR/CNY", "id":"MYRCNY", "Rate":"1.5524", "Bid":"1.5524", "Ask":"1.5534", "Date":"8/11/2017", "Time":"7:30am"},
 "MYRCZK":{"Name":"MYR/CZK", "id":"MYRCZK", "Rate":"5.1755", "Bid":"5.1755", "Ask":"5.1764", "Date":"8/11/2017", "Time":"12:18pm"},
 "MYRCLP":{"Name":"MYR/CLP", "id":"MYRCLP", "Rate":"151.0317", "Bid":"151.0317", "Ask":"151.1132", "Date":"8/11/2017", "Time":"1:08pm"},
 "MYRGBP":{"Name":"MYR/GBP", "id":"MYRGBP", "Rate":"0.1795", "Bid":"0.1795", "Ask":"0.1796", "Date":"8/11/2017", "Time":"7:25am"},
