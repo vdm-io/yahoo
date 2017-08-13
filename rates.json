@@ -23924,7 +23924,7 @@
 "TRYHKD":{"Name":"TRY/HKD", "id":"TRYHKD", "Rate":"2.2101", "Bid":"2.2101", "Ask":"2.2103", "Date":"8/11/2017", "Time":"11:15pm"},
 "TRYIDR":{"Name":"TRY/IDR", "id":"TRYIDR", "Rate":"3775.2651", "Bid":"3775.2651", "Ask":"3778.0920", "Date":"8/11/2017", "Time":"11:15pm"},
 "TRYILS":{"Name":"TRY/ILS", "id":"TRYILS", "Rate":"1.0124", "Bid":"1.0124", "Ask":"1.0153", "Date":"8/11/2017", "Time":"11:15pm"},
-"TRYINR":{"Name":"TRY/INR", "id":"TRYINR", "Rate":"18.1286", "Bid":"18.1286", "Ask":"18.1314", "Date":"8/11/2017", "Time":"11:15pm"},
+"TRYINR":{"Name":"TRY/INR", "id":"TRYINR", "Rate":"18.1314", "Bid":"18.1314", "Ask":"18.1343", "Date":"8/13/2017", "Time":"5:14am"},
 "TRYJPY":{"Name":"TRY/JPY", "id":"TRYJPY", "Rate":"30.7880", "Bid":"30.7880", "Ask":"30.8880", "Date":"8/11/2017", "Time":"10:40pm"},
 "TRYMXN":{"Name":"TRY/MXN", "id":"TRYMXN", "Rate":"5.0380", "Bid":"5.0380", "Ask":"5.0465", "Date":"8/11/2017", "Time":"11:15pm"},
 "TRYKRW":{"Name":"TRY/KRW", "id":"TRYKRW", "Rate":"322.6459", "Bid":"322.6459", "Ask":"322.9286", "Date":"8/11/2017", "Time":"11:15pm"},
