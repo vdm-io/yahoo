@@ -22981,7 +22981,7 @@
 "PKRCLP":{"Name":"PKR/CLP", "id":"PKRCLP", "Rate":"6.1314", "Bid":"6.1314", "Ask":"6.1352", "Date":"8/13/2017", "Time":"5:14am"},
 "PKRCHF":{"Name":"PKR/CHF", "id":"PKRCHF", "Rate":"0.0091", "Bid":"0.0091", "Ask":"0.0092", "Date":"8/11/2017", "Time":"9:35pm"},
 "PKRCZK":{"Name":"PKR/CZK", "id":"PKRCZK", "Rate":"0.2104", "Bid":"0.2104", "Ask":"0.2107", "Date":"8/11/2017", "Time":"10:39pm"},
-"PKRDKK":{"Name":"PKR/DKK", "id":"PKRDKK", "Rate":"0.0602", "Bid":"0.0602", "Ask":"0.0602", "Date":"8/11/2017", "Time":"10:39pm"},
+"PKRDKK":{"Name":"PKR/DKK", "id":"PKRDKK", "Rate":"0.0601", "Bid":"0.0601", "Ask":"0.0601", "Date":"8/13/2017", "Time":"5:14am"},
 "PKREUR":{"Name":"PKR/EUR", "id":"PKREUR", "Rate":"0.0080", "Bid":"0.0080", "Ask":"0.0081", "Date":"8/11/2017", "Time":"9:35pm"},
 "PKRGBP":{"Name":"PKR/GBP", "id":"PKRGBP", "Rate":"0.0073", "Bid":"0.0073", "Ask":"0.0073", "Date":"8/11/2017", "Time":"9:35pm"},
 "PKRHKD":{"Name":"PKR/HKD", "id":"PKRHKD", "Rate":"0.0738", "Bid":"0.0738", "Ask":"0.0748", "Date":"8/11/2017", "Time":"11:05pm"},
