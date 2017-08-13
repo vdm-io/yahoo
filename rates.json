@@ -21808,7 +21808,7 @@
 "JPYXPF":{"Name":"JPY/XPF", "id":"JPYXPF", "Rate":"0.9245", "Bid":"0.9245", "Ask":"0.9250", "Date":"8/11/2017", "Time":"11:05pm"},
 "JPYAUD":{"Name":"JPY/AUD", "id":"JPYAUD", "Rate":"0.0116", "Bid":"0.0116", "Ask":"0.0116", "Date":"8/11/2017", "Time":"10:40pm"},
 "JPYBRL":{"Name":"JPY/BRL", "id":"JPYBRL", "Rate":"0.0291", "Bid":"0.0291", "Ask":"0.0294", "Date":"8/11/2017", "Time":"10:40pm"},
-"JPYCHF":{"Name":"JPY/CHF", "id":"JPYCHF", "Rate":"0.0088", "Bid":"0.0088", "Ask":"0.0088", "Date":"8/11/2017", "Time":"10:31pm"},
+"JPYCHF":{"Name":"JPY/CHF", "id":"JPYCHF", "Rate":"0.0088", "Bid":"0.0088", "Ask":"0.0088", "Date":"8/11/2017", "Time":"10:32pm"},
 "JPYCAD":{"Name":"JPY/CAD", "id":"JPYCAD", "Rate":"0.0116", "Bid":"0.0116", "Ask":"0.0116", "Date":"8/11/2017", "Time":"10:39pm"},
 "JPYDKK":{"Name":"JPY/DKK", "id":"JPYDKK", "Rate":"0.0580", "Bid":"0.0580", "Ask":"0.0580", "Date":"8/11/2017", "Time":"10:40pm"},
 "JPYCLP":{"Name":"JPY/CLP", "id":"JPYCLP", "Rate":"5.9184", "Bid":"5.9184", "Ask":"5.9234", "Date":"8/11/2017", "Time":"9:50pm"},
