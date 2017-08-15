@@ -21208,7 +21208,7 @@
 "HUFRUB":{"Name":"HUF/RUB", "id":"HUFRUB", "Rate":"0.2311", "Bid":"0.2311", "Ask":"0.2312", "Date":"8/14/2017", "Time":"4:11pm"},
 "HUFPHP":{"Name":"HUF/PHP", "id":"HUFPHP", "Rate":"0.1986", "Bid":"0.1986", "Ask":"0.1988", "Date":"8/14/2017", "Time":"4:43pm"},
 "HUFSEK":{"Name":"HUF/SEK", "id":"HUFSEK", "Rate":"0.0314", "Bid":"0.0314", "Ask":"0.0315", "Date":"8/14/2017", "Time":"2:56pm"},
-"HUFSGD":{"Name":"HUF/SGD", "id":"HUFSGD", "Rate":"0.0053", "Bid":"0.0053", "Ask":"0.0053", "Date":"8/14/2017", "Time":"1:27pm"},
+"HUFSGD":{"Name":"HUF/SGD", "id":"HUFSGD", "Rate":"0.0053", "Bid":"0.0053", "Ask":"0.0053", "Date":"8/15/2017", "Time":"1:40am"},
 "HUFTWD":{"Name":"HUF/TWD", "id":"HUFTWD", "Rate":"0.1174", "Bid":"0.1174", "Ask":"0.1178", "Date":"8/14/2017", "Time":"1:27pm"},
 "HUFTHB":{"Name":"HUF/THB", "id":"HUFTHB", "Rate":"0.1290", "Bid":"0.1290", "Ask":"0.1292", "Date":"8/14/2017", "Time":"1:27pm"},
 "HUFTRY":{"Name":"HUF/TRY", "id":"HUFTRY", "Rate":"0.0137", "Bid":"0.0137", "Ask":"0.0137", "Date":"8/14/2017", "Time":"2:31pm"},
