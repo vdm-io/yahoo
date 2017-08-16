@@ -24091,7 +24091,7 @@
 "TWDPHP":{"Name":"TWD/PHP", "id":"TWDPHP", "Rate":"1.6937", "Bid":"1.6937", "Ask":"1.6947", "Date":"8/15/2017", "Time":"9:00am"},
 "TWDRUB":{"Name":"TWD/RUB", "id":"TWDRUB", "Rate":"1.9773", "Bid":"1.9773", "Ask":"1.9790", "Date":"8/15/2017", "Time":"9:20am"},
 "TWDPLN":{"Name":"TWD/PLN", "id":"TWDPLN", "Rate":"0.1203", "Bid":"0.1203", "Ask":"0.1203", "Date":"8/15/2017", "Time":"9:02am"},
-"TWDPKR":{"Name":"TWD/PKR", "id":"TWDPKR", "Rate":"3.4681", "Bid":"3.4681", "Ask":"3.4731", "Date":"8/15/2017", "Time":"2:30pm"},
+"TWDPKR":{"Name":"TWD/PKR", "id":"TWDPKR", "Rate":"3.4735", "Bid":"3.4735", "Ask":"3.4785", "Date":"8/16/2017", "Time":"1:30am"},
 "TWDSEK":{"Name":"TWD/SEK", "id":"TWDSEK", "Rate":"0.2664", "Bid":"0.2664", "Ask":"0.2668", "Date":"8/15/2017", "Time":"4:00pm"},
 "TWDTHB":{"Name":"TWD/THB", "id":"TWDTHB", "Rate":"1.0961", "Bid":"1.0961", "Ask":"1.0971", "Date":"8/15/2017", "Time":"8:15am"},
 "TWDSGD":{"Name":"TWD/SGD", "id":"TWDSGD", "Rate":"0.0450", "Bid":"0.0450", "Ask":"0.0450", "Date":"8/15/2017", "Time":"7:50am"},
