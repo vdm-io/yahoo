@@ -19496,7 +19496,7 @@
 "AUDTHB":{"Name":"AUD/THB", "id":"AUDTHB", "Rate":"26.2030", "Bid":"26.2030", "Ask":"26.2230", "Date":"8/18/2017", "Time":"7:25am"},
 "AUDTRY":{"Name":"AUD/TRY", "id":"AUDTRY", "Rate":"2.7764", "Bid":"2.7764", "Ask":"2.7864", "Date":"8/18/2017", "Time":"7:35am"},
 "AUDTWD":{"Name":"AUD/TWD", "id":"AUDTWD", "Rate":"23.9000", "Bid":"23.9000", "Ask":"24.0000", "Date":"8/18/2017", "Time":"8:00am"},
-"AUDUSD":{"Name":"AUD/USD", "id":"AUDUSD", "Rate":"0.7895", "Bid":"0.7895", "Ask":"0.7896", "Date":"8/18/2017", "Time":"7:03am"},
+"AUDUSD":{"Name":"AUD/USD", "id":"AUDUSD", "Rate":"0.7932", "Bid":"0.7932", "Ask":"0.7933", "Date":"8/18/2017", "Time":"9:45pm"},
 "AUDZAR":{"Name":"AUD/ZAR", "id":"AUDZAR", "Rate":"10.4456", "Bid":"10.4456", "Ask":"10.4466", "Date":"8/18/2017", "Time":"7:40am"},
 "BRLAED":{"Name":"BRL/AED", "id":"BRLAED", "Rate":"1.1680", "Bid":"1.1680", "Ask":"1.1682", "Date":"8/18/2017", "Time":"8:02pm"},
 "BRLAFN":{"Name":"BRL/AFN", "id":"BRLAFN", "Rate":"21.6059", "Bid":"21.6059", "Ask":"21.6689", "Date":"8/18/2017", "Time":"1:23am"},
