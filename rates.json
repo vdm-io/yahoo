@@ -23772,7 +23772,7 @@
 "THBKRW":{"Name":"THB/KRW", "id":"THBKRW", "Rate":"34.2690", "Bid":"34.2690", "Ask":"34.2790", "Date":"8/18/2017", "Time":"10:35pm"},
 "THBINR":{"Name":"THB/INR", "id":"THBINR", "Rate":"1.9292", "Bid":"1.9292", "Ask":"1.9302", "Date":"8/18/2017", "Time":"10:35pm"},
 "THBMXN":{"Name":"THB/MXN", "id":"THBMXN", "Rate":"0.5327", "Bid":"0.5327", "Ask":"0.5339", "Date":"8/20/2017", "Time":"12:04am"},
-"THBMYR":{"Name":"THB/MYR", "id":"THBMYR", "Rate":"0.1291", "Bid":"0.1291", "Ask":"0.1292", "Date":"8/18/2017", "Time":"10:35pm"},
+"THBMYR":{"Name":"THB/MYR", "id":"THBMYR", "Rate":"0.1291", "Bid":"0.1291", "Ask":"0.1292", "Date":"8/20/2017", "Time":"10:30pm"},
 "THBNOK":{"Name":"THB/NOK", "id":"THBNOK", "Rate":"0.2375", "Bid":"0.2375", "Ask":"0.2385", "Date":"8/18/2017", "Time":"10:35pm"},
 "THBNAD":{"Name":"THB/NAD", "id":"THBNAD", "Rate":"0.3960", "Bid":"0.3960", "Ask":"0.3961", "Date":"8/20/2017", "Time":"3:29pm"},
 "THBPHP":{"Name":"THB/PHP", "id":"THBPHP", "Rate":"1.5469", "Bid":"1.5469", "Ask":"1.5479", "Date":"8/18/2017", "Time":"10:35pm"},
