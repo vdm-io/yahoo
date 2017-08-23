@@ -21511,7 +21511,7 @@
 "ILSJPY":{"Name":"ILS/JPY", "id":"ILSJPY", "Rate":"30.1640", "Bid":"30.1640", "Ask":"30.2140", "Date":"8/22/2017", "Time":"3:50pm"},
 "ILSKRW":{"Name":"ILS/KRW", "id":"ILSKRW", "Rate":"312.9729", "Bid":"312.9729", "Ask":"313.2495", "Date":"8/22/2017", "Time":"6:27pm"},
 "ILSMXN":{"Name":"ILS/MXN", "id":"ILSMXN", "Rate":"4.8813", "Bid":"4.8813", "Ask":"4.8826", "Date":"8/22/2017", "Time":"5:50pm"},
-"ILSMYR":{"Name":"ILS/MYR", "id":"ILSMYR", "Rate":"1.1818", "Bid":"1.1818", "Ask":"1.1832", "Date":"8/22/2017", "Time":"12:41pm"},
+"ILSMYR":{"Name":"ILS/MYR", "id":"ILSMYR", "Rate":"1.1843", "Bid":"1.1843", "Ask":"1.1857", "Date":"8/23/2017", "Time":"12:45am"},
 "ILSNAD":{"Name":"ILS/NAD", "id":"ILSNAD", "Rate":"3.6471", "Bid":"3.6471", "Ask":"3.6479", "Date":"8/22/2017", "Time":"3:30pm"},
 "ILSNOK":{"Name":"ILS/NOK", "id":"ILSNOK", "Rate":"2.1885", "Bid":"2.1885", "Ask":"2.1890", "Date":"8/22/2017", "Time":"3:20pm"},
 "ILSNZD":{"Name":"ILS/NZD", "id":"ILSNZD", "Rate":"0.3787", "Bid":"0.3787", "Ask":"0.3790", "Date":"8/22/2017", "Time":"3:42pm"},
