@@ -22829,7 +22829,7 @@
 "PHPEUR":{"Name":"PHP/EUR", "id":"PHPEUR", "Rate":"0.0165", "Bid":"0.0165", "Ask":"0.0166", "Date":"8/22/2017", "Time":"8:05am"},
 "PHPHKD":{"Name":"PHP/HKD", "id":"PHPHKD", "Rate":"0.1530", "Bid":"0.1530", "Ask":"0.1530", "Date":"8/22/2017", "Time":"8:45am"},
 "PHPGBP":{"Name":"PHP/GBP", "id":"PHPGBP", "Rate":"0.0151", "Bid":"0.0151", "Ask":"0.0152", "Date":"8/22/2017", "Time":"8:35am"},
-"PHPHUF":{"Name":"PHP/HUF", "id":"PHPHUF", "Rate":"5.0365", "Bid":"5.0365", "Ask":"5.0404", "Date":"8/22/2017", "Time":"11:51am"},
+"PHPHUF":{"Name":"PHP/HUF", "id":"PHPHUF", "Rate":"5.0246", "Bid":"5.0246", "Ask":"5.0277", "Date":"8/23/2017", "Time":"1:20am"},
 "PHPIDR":{"Name":"PHP/IDR", "id":"PHPIDR", "Rate":"259.8000", "Bid":"259.8000", "Ask":"260.8000", "Date":"8/22/2017", "Time":"8:55am"},
 "PHPILS":{"Name":"PHP/ILS", "id":"PHPILS", "Rate":"0.0705", "Bid":"0.0705", "Ask":"0.0707", "Date":"8/22/2017", "Time":"12:06pm"},
 "PHPINR":{"Name":"PHP/INR", "id":"PHPINR", "Rate":"1.2491", "Bid":"1.2491", "Ask":"1.2501", "Date":"8/22/2017", "Time":"9:20am"},
