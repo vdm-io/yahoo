@@ -20581,7 +20581,7 @@
 "DKKPHP":{"Name":"DKK/PHP", "id":"DKKPHP", "Rate":"8.0937", "Bid":"8.0937", "Ask":"8.1016", "Date":"8/24/2017", "Time":"11:09pm"},
 "DKKPKR":{"Name":"DKK/PKR", "id":"DKKPKR", "Rate":"16.7080", "Bid":"16.7080", "Ask":"16.7580", "Date":"8/24/2017", "Time":"12:45pm"},
 "DKKNZD":{"Name":"DKK/NZD", "id":"DKKNZD", "Rate":"0.2196", "Bid":"0.2196", "Ask":"0.2206", "Date":"8/24/2017", "Time":"9:55am"},
-"DKKRUB":{"Name":"DKK/RUB", "id":"DKKRUB", "Rate":"9.3747", "Bid":"9.3747", "Ask":"9.3779", "Date":"8/24/2017", "Time":"9:30am"},
+"DKKRUB":{"Name":"DKK/RUB", "id":"DKKRUB", "Rate":"9.3886", "Bid":"9.3886", "Ask":"9.3965", "Date":"8/24/2017", "Time":"11:41pm"},
 "DKKPLN":{"Name":"DKK/PLN", "id":"DKKPLN", "Rate":"0.5754", "Bid":"0.5754", "Ask":"0.5764", "Date":"8/24/2017", "Time":"10:00am"},
 "DKKSEK":{"Name":"DKK/SEK", "id":"DKKSEK", "Rate":"1.2765", "Bid":"1.2765", "Ask":"1.2815", "Date":"8/24/2017", "Time":"5:10pm"},
 "DKKSGD":{"Name":"DKK/SGD", "id":"DKKSGD", "Rate":"0.2156", "Bid":"0.2156", "Ask":"0.2161", "Date":"8/24/2017", "Time":"9:44am"},
