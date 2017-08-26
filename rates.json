@@ -23608,7 +23608,7 @@
 "SGDDKK":{"Name":"SGD/DKK", "id":"SGDDKK", "Rate":"4.6372", "Bid":"4.6372", "Ask":"4.6422", "Date":"8/25/2017", "Time":"8:30am"},
 "SGDEUR":{"Name":"SGD/EUR", "id":"SGDEUR", "Rate":"0.6185", "Bid":"0.6185", "Ask":"0.6190", "Date":"8/26/2017", "Time":"12:40am"},
 "SGDGBP":{"Name":"SGD/GBP", "id":"SGDGBP", "Rate":"0.5736", "Bid":"0.5736", "Ask":"0.5741", "Date":"8/25/2017", "Time":"7:55am"},
-"SGDHKD":{"Name":"SGD/HKD", "id":"SGDHKD", "Rate":"5.7653", "Bid":"5.7653", "Ask":"5.7683", "Date":"8/25/2017", "Time":"10:15pm"},
+"SGDHKD":{"Name":"SGD/HKD", "id":"SGDHKD", "Rate":"5.7653", "Bid":"5.7653", "Ask":"5.7683", "Date":"8/25/2017", "Time":"11:30pm"},
 "SGDHUF":{"Name":"SGD/HUF", "id":"SGDHUF", "Rate":"189.4030", "Bid":"189.4030", "Ask":"189.4530", "Date":"8/25/2017", "Time":"11:00am"},
 "SGDIDR":{"Name":"SGD/IDR", "id":"SGDIDR", "Rate":"9807.9854", "Bid":"9807.9854", "Ask":"9808.0850", "Date":"8/25/2017", "Time":"7:55am"},
 "SGDILS":{"Name":"SGD/ILS", "id":"SGDILS", "Rate":"2.6439", "Bid":"2.6439", "Ask":"2.6468", "Date":"8/25/2017", "Time":"3:50pm"},
