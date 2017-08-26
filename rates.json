@@ -582,7 +582,7 @@
 "AMDTZS":{"Name":"AMD/TZS", "id":"AMDTZS", "Rate":"4.6673", "Bid":"4.6673", "Ask":"4.6819", "Date":"8/25/2017", "Time":"5:39pm"},
 "AMDUYU":{"Name":"AMD/UYU", "id":"AMDUYU", "Rate":"0.0603", "Bid":"0.0603", "Ask":"0.0606", "Date":"8/25/2017", "Time":"5:13am"},
 "AMDAUD":{"Name":"AMD/AUD", "id":"AMDAUD", "Rate":"0.0026", "Bid":"0.0026", "Ask":"0.0026", "Date":"8/25/2017", "Time":"12:30pm"},
-"AMDSZL":{"Name":"AMD/SZL", "id":"AMDSZL", "Rate":"0.0273", "Bid":"0.0273", "Ask":"0.0274", "Date":"8/25/2017", "Time":"4:03pm"},
+"AMDSZL":{"Name":"AMD/SZL", "id":"AMDSZL", "Rate":"0.0272", "Bid":"0.0272", "Ask":"0.0273", "Date":"8/25/2017", "Time":"6:43pm"},
 "AMDCLP":{"Name":"AMD/CLP", "id":"AMDCLP", "Rate":"1.3254", "Bid":"1.3254", "Ask":"1.3274", "Date":"8/25/2017", "Time":"9:38pm"},
 "AMDYER":{"Name":"AMD/YER", "id":"AMDYER", "Rate":"0.5224", "Bid":"0.5224", "Ask":"0.5226", "Date":"8/25/2017", "Time":"5:13am"},
 "AMDMYR":{"Name":"AMD/MYR", "id":"AMDMYR", "Rate":"0.0089", "Bid":"0.0089", "Ask":"0.0089", "Date":"8/25/2017", "Time":"11:00pm"},
