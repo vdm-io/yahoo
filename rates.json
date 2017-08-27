@@ -12062,7 +12062,7 @@
 "MVRKES":{"Name":"MVR/KES", "id":"MVRKES", "Rate":"6.6353", "Bid":"6.6353", "Ask":"6.6546", "Date":"8/25/2017", "Time":"11:00pm"},
 "MVRISK":{"Name":"MVR/ISK", "id":"MVRISK", "Rate":"6.7590", "Bid":"6.7590", "Ask":"6.7848", "Date":"8/25/2017", "Time":"11:00pm"},
 "MVRHRK":{"Name":"MVR/HRK", "id":"MVRHRK", "Rate":"0.4075", "Bid":"0.4075", "Ask":"0.4123", "Date":"8/25/2017", "Time":"8:46am"},
-"MVRJOD":{"Name":"MVR/JOD", "id":"MVRJOD", "Rate":"0.0456", "Bid":"0.0456", "Ask":"0.0457", "Date":"8/25/2017", "Time":"10:02pm"},
+"MVRJOD":{"Name":"MVR/JOD", "id":"MVRJOD", "Rate":"0.0456", "Bid":"0.0456", "Ask":"0.0457", "Date":"8/25/2017", "Time":"11:00pm"},
 "MVRKYD":{"Name":"MVR/KYD", "id":"MVRKYD", "Rate":"0.0528", "Bid":"0.0528", "Ask":"N/A", "Date":"8/26/2017", "Time":"12:00am"},
 "MVRKWD":{"Name":"MVR/KWD", "id":"MVRKWD", "Rate":"0.0194", "Bid":"0.0194", "Ask":"0.0194", "Date":"8/25/2017", "Time":"11:00pm"},
 "MVRKGS":{"Name":"MVR/KGS", "id":"MVRKGS", "Rate":"4.4094", "Bid":"4.4094", "Ask":"4.4126", "Date":"8/25/2017", "Time":"11:00pm"},
