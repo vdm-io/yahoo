@@ -8424,7 +8424,7 @@
 "KHRAED":{"Name":"KHR/AED", "id":"KHRAED", "Rate":"0.0009", "Bid":"0.0009", "Ask":"0.0009", "Date":"8/25/2017", "Time":"11:00pm"},
 "KHRAFN":{"Name":"KHR/AFN", "id":"KHRAFN", "Rate":"0.0168", "Bid":"0.0168", "Ask":"0.0169", "Date":"8/25/2017", "Time":"11:00pm"},
 "KHRAMD":{"Name":"KHR/AMD", "id":"KHRAMD", "Rate":"0.1174", "Bid":"0.1174", "Ask":"0.1176", "Date":"8/25/2017", "Time":"11:00pm"},
-"KGSPKR":{"Name":"KGS/PKR", "id":"KGSPKR", "Rate":"1.5340", "Bid":"1.5340", "Ask":"1.5370", "Date":"8/25/2017", "Time":"2:13am"},
+"KGSPKR":{"Name":"KGS/PKR", "id":"KGSPKR", "Rate":"1.5372", "Bid":"1.5372", "Ask":"1.5402", "Date":"8/25/2017", "Time":"11:00pm"},
 "KHRARS":{"Name":"KHR/ARS", "id":"KHRARS", "Rate":"0.0042", "Bid":"0.0042", "Ask":"0.0042", "Date":"8/25/2017", "Time":"11:00pm"},
 "KHRANG":{"Name":"KHR/ANG", "id":"KHRANG", "Rate":"0.0004", "Bid":"0.0004", "Ask":"0.0004", "Date":"8/25/2017", "Time":"11:00pm"},
 "KHRAZN":{"Name":"KHR/AZN", "id":"KHRAZN", "Rate":"0.0004", "Bid":"0.0004", "Ask":"0.0004", "Date":"8/25/2017", "Time":"11:00pm"},
