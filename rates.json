@@ -13155,7 +13155,7 @@
 "OMRHRK":{"Name":"OMR/HRK", "id":"OMRHRK", "Rate":"16.0309", "Bid":"16.0309", "Ask":"16.2202", "Date":"8/28/2017", "Time":"12:17am"},
 "OMRJOD":{"Name":"OMR/JOD", "id":"OMRJOD", "Rate":"1.8400", "Bid":"1.8400", "Ask":"1.8439", "Date":"8/25/2017", "Time":"11:00pm"},
 "OMRKES":{"Name":"OMR/KES", "id":"OMRKES", "Rate":"267.7200", "Bid":"267.7200", "Ask":"268.7200", "Date":"8/25/2017", "Time":"11:30pm"},
-"OMRKHR":{"Name":"OMR/KHR", "id":"OMRKHR", "Rate":"10524.9482", "Bid":"10524.9482", "Ask":"10550.9355", "Date":"8/28/2017", "Time":"8:08am"},
+"OMRKHR":{"Name":"OMR/KHR", "id":"OMRKHR", "Rate":"10600.1562", "Bid":"10600.1562", "Ask":"10626.1367", "Date":"8/28/2017", "Time":"7:04pm"},
 "OMRKGS":{"Name":"OMR/KGS", "id":"OMRKGS", "Rate":"178.0281", "Bid":"178.0281", "Ask":"178.1582", "Date":"8/25/2017", "Time":"11:00pm"},
 "OMRKWD":{"Name":"OMR/KWD", "id":"OMRKWD", "Rate":"0.7843", "Bid":"0.7843", "Ask":"0.7849", "Date":"8/25/2017", "Time":"11:00pm"},
 "OMRKPW":{"Name":"OMR/KPW", "id":"OMRKPW", "Rate":"2341.3110", "Bid":"2341.3110", "Ask":"N/A", "Date":"8/26/2017", "Time":"12:00am"},
