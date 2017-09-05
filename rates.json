@@ -20736,7 +20736,7 @@
 "EURNOK":{"Name":"EUR/NOK", "id":"EURNOK", "Rate":"9.2398", "Bid":"9.2398", "Ask":"9.2408", "Date":"8/25/2017", "Time":"12:03pm"},
 "EURPHP":{"Name":"EUR/PHP", "id":"EURPHP", "Rate":"60.2250", "Bid":"60.2250", "Ask":"60.2500", "Date":"8/25/2017", "Time":"8:50am"},
 "EURPKR":{"Name":"EUR/PKR", "id":"EURPKR", "Rate":"124.3200", "Bid":"124.3200", "Ask":"124.3500", "Date":"8/25/2017", "Time":"6:45am"},
-"EURMYR":{"Name":"EUR/MYR", "id":"EURMYR", "Rate":"5.0381", "Bid":"5.0381", "Ask":"5.0406", "Date":"8/25/2017", "Time":"7:55am"},
+"EURMYR":{"Name":"EUR/MYR", "id":"EURMYR", "Rate":"5.0764", "Bid":"5.0764", "Ask":"5.0789", "Date":"9/5/2017", "Time":"11:10pm"},
 "EURPLN":{"Name":"EUR/PLN", "id":"EURPLN", "Rate":"4.2608", "Bid":"4.2608", "Ask":"4.2613", "Date":"8/25/2017", "Time":"8:32am"},
 "EURRUB":{"Name":"EUR/RUB", "id":"EURRUB", "Rate":"69.6890", "Bid":"69.6890", "Ask":"69.7400", "Date":"8/25/2017", "Time":"8:02am"},
 "EURSEK":{"Name":"EUR/SEK", "id":"EURSEK", "Rate":"9.5041", "Bid":"9.5041", "Ask":"9.5052", "Date":"8/25/2017", "Time":"11:19am"},
