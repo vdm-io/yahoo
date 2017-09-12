@@ -21610,7 +21610,7 @@
 "INRNGN":{"Name":"INR/NGN", "id":"INRNGN", "Rate":"5.6312", "Bid":"5.6312", "Ask":"5.7094", "Date":"9/11/2017", "Time":"10:47pm"},
 "INROMR":{"Name":"INR/OMR", "id":"INROMR", "Rate":"0.0060", "Bid":"0.0060", "Ask":"0.0061", "Date":"8/25/2017", "Time":"4:30pm"},
 "INRPAB":{"Name":"INR/PAB", "id":"INRPAB", "Rate":"0.0156", "Bid":"0.0156", "Ask":"N/A", "Date":"9/12/2017", "Time":"8:03am"},
-"INRPGK":{"Name":"INR/PGK", "id":"INRPGK", "Rate":"0.0499", "Bid":"0.0499", "Ask":"0.0502", "Date":"9/11/2017", "Time":"6:17pm"},
+"INRPGK":{"Name":"INR/PGK", "id":"INRPGK", "Rate":"0.0498", "Bid":"0.0498", "Ask":"0.0499", "Date":"9/12/2017", "Time":"10:47am"},
 "INRMZN":{"Name":"INR/MZN", "id":"INRMZN", "Rate":"0.9454", "Bid":"0.9454", "Ask":"0.9610", "Date":"8/25/2017", "Time":"8:47am"},
 "INRPEN":{"Name":"INR/PEN", "id":"INRPEN", "Rate":"0.0505", "Bid":"0.0505", "Ask":"0.0506", "Date":"9/12/2017", "Time":"1:03am"},
 "INRNPR":{"Name":"INR/NPR", "id":"INRNPR", "Rate":"1.5972", "Bid":"1.5972", "Ask":"1.6066", "Date":"8/25/2017", "Time":"12:44pm"},
