@@ -20255,7 +20255,7 @@
 "CNYDKK":{"Name":"CNY/DKK", "id":"CNYDKK", "Rate":"0.9533", "Bid":"0.9533", "Ask":"0.9534", "Date":"9/11/2017", "Time":"5:30pm"},
 "CNYEUR":{"Name":"CNY/EUR", "id":"CNYEUR", "Rate":"0.1261", "Bid":"0.1261", "Ask":"0.1262", "Date":"8/25/2017", "Time":"10:30pm"},
 "CNYGBP":{"Name":"CNY/GBP", "id":"CNYGBP", "Rate":"0.1163", "Bid":"0.1163", "Ask":"0.1164", "Date":"9/11/2017", "Time":"11:15pm"},
-"CNYHKD":{"Name":"CNY/HKD", "id":"CNYHKD", "Rate":"1.1965", "Bid":"1.1965", "Ask":"1.1975", "Date":"9/11/2017", "Time":"5:40pm"},
+"CNYHKD":{"Name":"CNY/HKD", "id":"CNYHKD", "Rate":"1.1944", "Bid":"1.1944", "Ask":"1.1954", "Date":"9/12/2017", "Time":"5:00am"},
 "CNYHUF":{"Name":"CNY/HUF", "id":"CNYHUF", "Rate":"38.6589", "Bid":"38.6589", "Ask":"38.6755", "Date":"8/25/2017", "Time":"3:23pm"},
 "CNYIDR":{"Name":"CNY/IDR", "id":"CNYIDR", "Rate":"2003.0000", "Bid":"2003.0000", "Ask":"2004.0000", "Date":"8/25/2017", "Time":"8:35am"},
 "CNYILS":{"Name":"CNY/ILS", "id":"CNYILS", "Rate":"0.5376", "Bid":"0.5376", "Ask":"0.5391", "Date":"9/12/2017", "Time":"4:32am"},
