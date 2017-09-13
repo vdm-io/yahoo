@@ -2969,7 +2969,7 @@
 "BSDCLP":{"Name":"BSD/CLP", "id":"BSDCLP", "Rate":"622.4500", "Bid":"622.4500", "Ask":"623.3000", "Date":"9/12/2017", "Time":"4:13am"},
 "BTNBMD":{"Name":"BTN/BMD", "id":"BTNBMD", "Rate":"0.0157", "Bid":"0.0157", "Ask":"N/A", "Date":"9/12/2017", "Time":"6:00am"},
 "BSDNOK":{"Name":"BSD/NOK", "id":"BSDNOK", "Rate":"7.7366", "Bid":"7.7366", "Ask":"7.7440", "Date":"9/8/2017", "Time":"10:00pm"},
-"BTNBIF":{"Name":"BTN/BIF", "id":"BTNBIF", "Rate":"27.0426", "Bid":"27.0426", "Ask":"27.3549", "Date":"9/10/2017", "Time":"6:44pm"},
+"BTNBIF":{"Name":"BTN/BIF", "id":"BTNBIF", "Rate":"27.0680", "Bid":"27.0680", "Ask":"27.3805", "Date":"9/13/2017", "Time":"7:43am"},
 "BTNARS":{"Name":"BTN/ARS", "id":"BTNARS", "Rate":"0.2683", "Bid":"0.2683", "Ask":"0.2684", "Date":"9/8/2017", "Time":"9:59pm"},
 "BTNBGN":{"Name":"BTN/BGN", "id":"BTNBGN", "Rate":"0.0257", "Bid":"0.0257", "Ask":"N/A", "Date":"9/12/2017", "Time":"3:15pm"},
 "BTNBHD":{"Name":"BTN/BHD", "id":"BTNBHD", "Rate":"0.0059", "Bid":"0.0059", "Ask":"0.0059", "Date":"9/8/2017", "Time":"7:09pm"},
