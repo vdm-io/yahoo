@@ -5757,7 +5757,7 @@
 "FKPPHP":{"Name":"FKP/PHP", "id":"FKPPHP", "Rate":"67.0356", "Bid":"67.0356", "Ask":"67.1014", "Date":"9/12/2017", "Time":"12:00am"},
 "FKPRUB":{"Name":"FKP/RUB", "id":"FKPRUB", "Rate":"75.5651", "Bid":"75.5651", "Ask":"75.6312", "Date":"9/11/2017", "Time":"6:16pm"},
 "FKPMYR":{"Name":"FKP/MYR", "id":"FKPMYR", "Rate":"5.5376", "Bid":"5.5376", "Ask":"5.5443", "Date":"9/10/2017", "Time":"3:41pm"},
-"FKPNAD":{"Name":"FKP/NAD", "id":"FKPNAD", "Rate":"17.0791", "Bid":"17.0791", "Ask":"17.0830", "Date":"9/12/2017", "Time":"12:45am"},
+"FKPNAD":{"Name":"FKP/NAD", "id":"FKPNAD", "Rate":"17.8766", "Bid":"17.8766", "Ask":"17.8806", "Date":"9/15/2017", "Time":"10:56pm"},
 "FKPUSD":{"Name":"FKP/USD", "id":"FKPUSD", "Rate":"1.3186", "Bid":"1.3186", "Ask":"1.3186", "Date":"9/11/2017", "Time":"5:00am"},
 "FKPMXN":{"Name":"FKP/MXN", "id":"FKPMXN", "Rate":"24.0035", "Bid":"24.0035", "Ask":"24.0457", "Date":"9/15/2017", "Time":"10:56pm"},
 "FKPNZD":{"Name":"FKP/NZD", "id":"FKPNZD", "Rate":"1.8221", "Bid":"1.8221", "Ask":"1.8235", "Date":"9/14/2017", "Time":"6:16am"},
