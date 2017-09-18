@@ -6342,7 +6342,7 @@
 "GMDSLL":{"Name":"GMD/SLL", "id":"GMDSLL", "Rate":"167.7852", "Bid":"167.7852", "Ask":"170.0224", "Date":"9/15/2017", "Time":"10:56pm"},
 "GMDSTD":{"Name":"GMD/STD", "id":"GMDSTD", "Rate":"459.0045", "Bid":"459.0045", "Ask":"460.1230", "Date":"9/15/2017", "Time":"10:56pm"},
 "GMDSOS":{"Name":"GMD/SOS", "id":"GMDSOS", "Rate":"12.4608", "Bid":"12.4608", "Ask":"13.8031", "Date":"9/15/2017", "Time":"9:23pm"},
-"GMDTJS":{"Name":"GMD/TJS", "id":"GMDTJS", "Rate":"0.1961", "Bid":"0.1961", "Ask":"0.1961", "Date":"9/12/2017", "Time":"6:32pm"},
+"GMDTJS":{"Name":"GMD/TJS", "id":"GMDTJS", "Rate":"0.1969", "Bid":"0.1969", "Ask":"0.1969", "Date":"9/18/2017", "Time":"3:00am"},
 "GMDTTD":{"Name":"GMD/TTD", "id":"GMDTTD", "Rate":"0.1505", "Bid":"0.1505", "Ask":"0.1516", "Date":"9/15/2017", "Time":"10:56pm"},
 "GMDTND":{"Name":"GMD/TND", "id":"GMDTND", "Rate":"0.0546", "Bid":"0.0546", "Ask":"0.0546", "Date":"9/18/2017", "Time":"2:45am"},
 "GMDTZS":{"Name":"GMD/TZS", "id":"GMDTZS", "Rate":"50.0224", "Bid":"50.0224", "Ask":"50.1790", "Date":"9/15/2017", "Time":"10:56pm"},
