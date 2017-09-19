@@ -9857,7 +9857,7 @@
 "LRDCVE":{"Name":"LRD/CVE", "id":"LRDCVE", "Rate":"0.8090", "Bid":"0.8090", "Ask":"0.8112", "Date":"8/25/2017", "Time":"11:00pm"},
 "LRDEGP":{"Name":"LRD/EGP", "id":"LRDEGP", "Rate":"0.1511", "Bid":"0.1511", "Ask":"0.1519", "Date":"9/12/2017", "Time":"4:13am"},
 "LRDDZD":{"Name":"LRD/DZD", "id":"LRDDZD", "Rate":"0.9578", "Bid":"0.9578", "Ask":"0.9753", "Date":"8/25/2017", "Time":"11:00pm"},
-"LRDDOP":{"Name":"LRD/DOP", "id":"LRDDOP", "Rate":"0.4103", "Bid":"0.4103", "Ask":"0.4129", "Date":"8/25/2017", "Time":"11:00pm"},
+"LRDDOP":{"Name":"LRD/DOP", "id":"LRDDOP", "Rate":"0.4025", "Bid":"0.4025", "Ask":"0.4051", "Date":"9/19/2017", "Time":"3:53pm"},
 "LRDDJF":{"Name":"LRD/DJF", "id":"LRDDJF", "Rate":"1.5562", "Bid":"1.5562", "Ask":"1.5649", "Date":"8/28/2017", "Time":"6:10am"},
 "LRDERN":{"Name":"LRD/ERN", "id":"LRDERN", "Rate":"0.1311", "Bid":"0.1311", "Ask":"0.1328", "Date":"9/12/2017", "Time":"4:13am"},
 "LRDETB":{"Name":"LRD/ETB", "id":"LRDETB", "Rate":"0.2021", "Bid":"0.2021", "Ask":"0.2083", "Date":"8/27/2017", "Time":"11:21pm"},
