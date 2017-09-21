@@ -24407,7 +24407,7 @@
 "ZARSGD":{"Name":"ZAR/SGD", "id":"ZARSGD", "Rate":"0.1036", "Bid":"0.1036", "Ask":"0.1046", "Date":"9/12/2017", "Time":"9:18am"},
 "ZARSEK":{"Name":"ZAR/SEK", "id":"ZARSEK", "Rate":"0.5958", "Bid":"0.5958", "Ask":"0.6058", "Date":"9/21/2017", "Time":"10:35pm"},
 "ZARTHB":{"Name":"ZAR/THB", "id":"ZARTHB", "Rate":"2.5571", "Bid":"2.5571", "Ask":"2.5581", "Date":"9/11/2017", "Time":"5:48pm"},
-"ZARTWD":{"Name":"ZAR/TWD", "id":"ZARTWD", "Rate":"2.2903", "Bid":"2.2903", "Ask":"2.2913", "Date":"8/25/2017", "Time":"2:48pm"},
+"ZARTWD":{"Name":"ZAR/TWD", "id":"ZARTWD", "Rate":"2.2775", "Bid":"2.2775", "Ask":"2.2785", "Date":"9/21/2017", "Time":"11:18pm"},
 "ZARTRY":{"Name":"ZAR/TRY", "id":"ZARTRY", "Rate":"0.2647", "Bid":"0.2647", "Ask":"0.2647", "Date":"9/21/2017", "Time":"5:50pm"},
 "ZARUSD":{"Name":"ZAR/USD", "id":"ZARUSD", "Rate":"0.0771", "Bid":"0.0771", "Ask":"0.0781", "Date":"9/12/2017", "Time":"9:10am"},
 "NADCRC":{"Name":"NAD/CRC", "id":"NADCRC", "Rate":"43.9486", "Bid":"43.9486", "Ask":"44.2962", "Date":"8/26/2017", "Time":"12:30am"},
