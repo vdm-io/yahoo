@@ -24409,7 +24409,7 @@
 "ZARTHB":{"Name":"ZAR/THB", "id":"ZARTHB", "Rate":"2.5571", "Bid":"2.5571", "Ask":"2.5581", "Date":"9/11/2017", "Time":"5:48pm"},
 "ZARTWD":{"Name":"ZAR/TWD", "id":"ZARTWD", "Rate":"2.2757", "Bid":"2.2757", "Ask":"2.2767", "Date":"9/21/2017", "Time":"11:48pm"},
 "ZARTRY":{"Name":"ZAR/TRY", "id":"ZARTRY", "Rate":"0.2647", "Bid":"0.2647", "Ask":"0.2647", "Date":"9/21/2017", "Time":"5:50pm"},
-"ZARUSD":{"Name":"ZAR/USD", "id":"ZARUSD", "Rate":"0.0771", "Bid":"0.0771", "Ask":"0.0781", "Date":"9/12/2017", "Time":"9:10am"},
+"ZARUSD":{"Name":"ZAR/USD", "id":"ZARUSD", "Rate":"0.0747", "Bid":"0.0747", "Ask":"0.0757", "Date":"9/22/2017", "Time":"1:20am"},
 "NADCRC":{"Name":"NAD/CRC", "id":"NADCRC", "Rate":"43.9486", "Bid":"43.9486", "Ask":"44.2962", "Date":"8/26/2017", "Time":"12:30am"},
 "NADCVE":{"Name":"NAD/CVE", "id":"NADCVE", "Rate":"7.0967", "Bid":"7.0967", "Ask":"7.1159", "Date":"8/25/2017", "Time":"11:00pm"},
 "NADCUP":{"Name":"NAD/CUP", "id":"NADCUP", "Rate":"0.0753", "Bid":"0.0753", "Ask":"N/A", "Date":"9/22/2017", "Time":"12:49am"},
