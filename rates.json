@@ -24400,7 +24400,7 @@
 "ZARNAD":{"Name":"ZAR/NAD", "id":"ZARNAD", "Rate":"1.0003", "Bid":"1.0003", "Ask":"1.0005", "Date":"8/25/2017", "Time":"7:20pm"},
 "ZARNOK":{"Name":"ZAR/NOK", "id":"ZARNOK", "Rate":"0.5872", "Bid":"0.5872", "Ask":"0.5873", "Date":"9/22/2017", "Time":"3:39am"},
 "ZARPHP":{"Name":"ZAR/PHP", "id":"ZARPHP", "Rate":"3.9169", "Bid":"3.9169", "Ask":"3.9219", "Date":"9/12/2017", "Time":"2:30am"},
-"ZARNZD":{"Name":"ZAR/NZD", "id":"ZARNZD", "Rate":"0.1058", "Bid":"0.1058", "Ask":"0.1059", "Date":"9/12/2017", "Time":"9:50am"},
+"ZARNZD":{"Name":"ZAR/NZD", "id":"ZARNZD", "Rate":"0.1034", "Bid":"0.1034", "Ask":"0.1035", "Date":"9/22/2017", "Time":"5:20am"},
 "ZARPKR":{"Name":"ZAR/PKR", "id":"ZARPKR", "Rate":"8.1555", "Bid":"8.1555", "Ask":"8.1565", "Date":"9/12/2017", "Time":"8:18am"},
 "ZARPLN":{"Name":"ZAR/PLN", "id":"ZARPLN", "Rate":"0.2749", "Bid":"0.2749", "Ask":"0.2758", "Date":"9/12/2017", "Time":"8:35am"},
 "ZARRUB":{"Name":"ZAR/RUB", "id":"ZARRUB", "Rate":"4.3575", "Bid":"4.3575", "Ask":"4.3625", "Date":"9/22/2017", "Time":"3:20am"},
