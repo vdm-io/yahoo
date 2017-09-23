@@ -24378,7 +24378,7 @@
 "ZARXPF":{"Name":"ZAR/XPF", "id":"ZARXPF", "Rate":"7.5001", "Bid":"7.5001", "Ask":"7.5757", "Date":"9/22/2017", "Time":"2:39pm"},
 "ZARXOF":{"Name":"ZAR/XOF", "id":"ZARXOF", "Rate":"41.9818", "Bid":"41.9818", "Ask":"42.1352", "Date":"8/25/2017", "Time":"11:00pm"},
 "ZARYER":{"Name":"ZAR/YER", "id":"ZARYER", "Rate":"18.8673", "Bid":"18.8673", "Ask":"18.9428", "Date":"9/22/2017", "Time":"8:20pm"},
-"ZARBRL":{"Name":"ZAR/BRL", "id":"ZARBRL", "Rate":"0.2391", "Bid":"0.2391", "Ask":"0.2396", "Date":"9/12/2017", "Time":"4:40am"},
+"ZARBRL":{"Name":"ZAR/BRL", "id":"ZARBRL", "Rate":"0.2351", "Bid":"0.2351", "Ask":"0.2357", "Date":"9/22/2017", "Time":"10:30pm"},
 "ZARAUD":{"Name":"ZAR/AUD", "id":"ZARAUD", "Rate":"0.0957", "Bid":"0.0957", "Ask":"0.0967", "Date":"9/12/2017", "Time":"9:20am"},
 "ZARCAD":{"Name":"ZAR/CAD", "id":"ZARCAD", "Rate":"0.0926", "Bid":"0.0926", "Ask":"0.0936", "Date":"9/22/2017", "Time":"4:35pm"},
 "ZARCHF":{"Name":"ZAR/CHF", "id":"ZARCHF", "Rate":"0.0729", "Bid":"0.0729", "Ask":"0.0730", "Date":"9/22/2017", "Time":"10:30pm"},
