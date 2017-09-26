@@ -16406,7 +16406,7 @@
 "TJSCUP":{"Name":"TJS/CUP", "id":"TJSCUP", "Rate":"0.1137", "Bid":"0.1137", "Ask":"N/A", "Date":"8/26/2017", "Time":"12:00am"},
 "TJSCRC":{"Name":"TJS/CRC", "id":"TJSCRC", "Rate":"65.0097", "Bid":"65.0097", "Ask":"66.1470", "Date":"8/25/2017", "Time":"5:13am"},
 "TJSCVE":{"Name":"TJS/CVE", "id":"TJSCVE", "Rate":"10.4859", "Bid":"10.4859", "Ask":"10.5144", "Date":"9/22/2017", "Time":"10:00pm"},
-"TJSCOP":{"Name":"TJS/COP", "id":"TJSCOP", "Rate":"329.7642", "Bid":"329.7642", "Ask":"329.9915", "Date":"9/23/2017", "Time":"5:14am"},
+"TJSCOP":{"Name":"TJS/COP", "id":"TJSCOP", "Rate":"332.1892", "Bid":"332.1892", "Ask":"332.4165", "Date":"9/26/2017", "Time":"7:30am"},
 "TJSDJF":{"Name":"TJS/DJF", "id":"TJSDJF", "Rate":"20.1876", "Bid":"20.1876", "Ask":"20.3012", "Date":"9/22/2017", "Time":"4:37am"},
 "TJSDOP":{"Name":"TJS/DOP", "id":"TJSDOP", "Rate":"5.4084", "Bid":"5.4084", "Ask":"5.4425", "Date":"9/22/2017", "Time":"10:18pm"},
 "TJSDZD":{"Name":"TJS/DZD", "id":"TJSDZD", "Rate":"12.7328", "Bid":"12.7328", "Ask":"12.9602", "Date":"9/23/2017", "Time":"5:14am"},
