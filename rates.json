@@ -873,7 +873,7 @@
 "SGDMYR":{"Name":"SGD/MYR", "id":"SGDMYR", "Rate":"3.1120", "Bid":"3.1120", "Ask":"3.1130", "Date":"10/17/2017", "Time":"10:45am"},
 "SGDNAD":{"Name":"SGD/NAD", "id":"SGDNAD", "Rate":"9.8987", "Bid":"9.8987", "Ask":"9.9016", "Date":"10/17/2017", "Time":"4:26pm"},
 "SGDPHP":{"Name":"SGD/PHP", "id":"SGDPHP", "Rate":"37.8900", "Bid":"37.8900", "Ask":"37.9000", "Date":"10/17/2017", "Time":"9:35pm"},
-"SGDMXN":{"Name":"SGD/MXN", "id":"SGDMXN", "Rate":"13.8619", "Bid":"13.8619", "Ask":"13.8669", "Date":"10/17/2017", "Time":"10:05pm"},
+"SGDMXN":{"Name":"SGD/MXN", "id":"SGDMXN", "Rate":"13.8329", "Bid":"13.8329", "Ask":"13.8379", "Date":"10/18/2017", "Time":"10:25am"},
 "SGDSEK":{"Name":"SGD/SEK", "id":"SGDSEK", "Rate":"6.0095", "Bid":"6.0095", "Ask":"6.0171", "Date":"10/17/2017", "Time":"3:49pm"},
 "SGDNOK":{"Name":"SGD/NOK", "id":"SGDNOK", "Rate":"5.8573", "Bid":"5.8573", "Ask":"5.8623", "Date":"10/18/2017", "Time":"5:20am"},
 "SGDPLN":{"Name":"SGD/PLN", "id":"SGDPLN", "Rate":"2.6487", "Bid":"2.6487", "Ask":"2.6587", "Date":"10/18/2017", "Time":"2:20am"},
