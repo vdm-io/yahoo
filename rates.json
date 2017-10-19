@@ -593,7 +593,7 @@
 "MYRPLN":{"Name":"MYR/PLN", "id":"MYRPLN", "Rate":"0.8519", "Bid":"0.8519", "Ask":"0.8520", "Date":"10/17/2017", "Time":"7:18pm"},
 "MYRPHP":{"Name":"MYR/PHP", "id":"MYRPHP", "Rate":"12.1560", "Bid":"12.1560", "Ask":"12.1660", "Date":"10/17/2017", "Time":"8:05pm"},
 "MYRSGD":{"Name":"MYR/SGD", "id":"MYRSGD", "Rate":"0.3208", "Bid":"0.3208", "Ask":"0.3218", "Date":"10/17/2017", "Time":"1:55pm"},
-"NADAUD":{"Name":"NAD/AUD", "id":"NADAUD", "Rate":"0.0951", "Bid":"0.0951", "Ask":"0.0952", "Date":"10/17/2017", "Time":"9:18pm"},
+"NADAUD":{"Name":"NAD/AUD", "id":"NADAUD", "Rate":"0.0939", "Bid":"0.0939", "Ask":"0.0940", "Date":"10/19/2017", "Time":"3:38am"},
 "MYRZAR":{"Name":"MYR/ZAR", "id":"MYRZAR", "Rate":"3.2128", "Bid":"3.2128", "Ask":"3.2138", "Date":"10/18/2017", "Time":"8:18pm"},
 "NADCAD":{"Name":"NAD/CAD", "id":"NADCAD", "Rate":"0.0939", "Bid":"0.0939", "Ask":"0.0939", "Date":"10/16/2017", "Time":"11:04pm"},
 "NADHKD":{"Name":"NAD/HKD", "id":"NADHKD", "Rate":"0.5807", "Bid":"0.5807", "Ask":"0.5808", "Date":"10/17/2017", "Time":"3:49pm"},
